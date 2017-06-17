@@ -28,28 +28,31 @@ body {
 
 #nav {
   position: absolute;
-  top: 4em;
+  top: 6em;
   left: 0;
   width: 160px;
   overflow: hidden;
-}
-
-#nav ul, #nav h2 {
-  font-family: "Verdana", sans-serif;
-  font-size: 0.75em;
-  line-height: 1em;
-  color: #c0c0c0;
-
-  padding-left: 0.5em;
-}
-
-#nav h2 {
 }
 
 #nav ul, #nav li {
   list-style: none;
   margin-left: 0;
   padding-left: 0;
+  margin-bottom: 1em;
+}
+
+#nav li a {
+  color: indigo;
+  text-decoration: none;
+}
+
+#nav ul, #nav h2 {
+  font-family: "Verdana", sans-serif;
+  font-size: 0.875em;
+  line-height: 1em;
+  color: darkgray;
+
+  padding-left: 1em;
 }
 
 #content {
@@ -61,6 +64,7 @@ body {
 
   background: #fff;
   border-left: 1px solid dimgray;
+  border-bottom: 1px solid dimgray;
 }
 
 #content h1 {
@@ -70,7 +74,7 @@ body {
   font-weight: normal;
   border-bottom: 1px solid #c9c9c9;
   padding: 0;
-  margin: 1em 0 0.25em 0;
+  margin: 0 0 0.25em 0;
 }
 
 #content h2 {
@@ -103,7 +107,7 @@ body {
   padding: 0;
   margin: 0.3em 0 0 0;
 
-  color: #c0c0c0;
+  color: darkgray;
 }
 
 #content h6 {
@@ -115,14 +119,23 @@ body {
   color: #c0fefe;
 }
 
-#content p, #content li, #content dl, #content table {
+#content p, #content li, #content dl, #content table, #content pre {
   font-size: 0.875em;
   line-height: 160%;
-}
-
-#content p {
   margin: 0.5em 0;
   padding: 0;
+}
+
+#content blockquote {
+}
+
+#content table {
+  border-collapse: collapse;
+}
+
+#content th, #content td {
+  border: 1px solid darkgray;
+  padding: 0.5em;
 }
 
 #content li li {
@@ -135,4 +148,25 @@ body {
 
 code {
   font-size: 1.2em;
+}
+
+#content pre {
+  border: 1px solid darkgray;
+  padding: 0.5em;
+  background: antiquewhite;
+}
+
+#footer {
+  margin-bottom: 6em;
+  margin-left: 160px;
+
+  padding: 1em;
+  font-family: "Verdana", sans-serif;
+}
+
+#footer p, #footer li {
+  font-size: 0.875em;
+  line-height: 160%;
+  margin: 0.5em 0;
+  padding: 0;
 }
