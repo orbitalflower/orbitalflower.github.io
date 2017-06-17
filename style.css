@@ -1,4 +1,60 @@
 body {
+}
+
+#header {
+  background: Indigo;
+  color: white;
+}
+
+#header a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+#nav {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 160px;
+  overflow: hidden;
+
   font-family: "Verdana", sans-serif;
-  background: #c0fefe;
+  font-size: 0.75em;
+}
+
+#nav ul, #nav li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#content {
+  margin-left: 160px;
+
+  font-family: "Verdana", sans-serif;
+
+  background: #fff;
+  border: 1px solid #cofefe;
+}
+
+#content h2 {
+  font-size: 1.8em;
+  font-family: "Georgia", "Times New Roman"," Times", serif;
+  border-bottom: 1px solid #c9c9c9;
+}
+
+#content h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#content h4 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+#content p, #content li {
+  font-size: 0.875em;
+  line-height: 160%;
 }
