@@ -1,9 +1,23 @@
 body {
+  margin: 0;
+  padding: 0;
+
+  background: gainsboro
 }
 
 #header {
-  background: Indigo;
+  background: indigo;
   color: white;
+  overflow: hidden;
+  padding: 0.25em;
+}
+
+#header h1 {
+  height: 3em;
+  line-height: 3em;
+  font-size: 1.8em;
+  font-weight: normal;
+  font-family: "Verdana", sans-serif;
 }
 
 #header a {
@@ -14,13 +28,22 @@ body {
 
 #nav {
   position: absolute;
-  top: 160px;
+  top: 4em;
   left: 0;
   width: 160px;
   overflow: hidden;
+}
 
+#nav ul, #nav h2 {
   font-family: "Verdana", sans-serif;
   font-size: 0.75em;
+  line-height: 1em;
+  color: #c0c0c0;
+
+  padding-left: 0.5em;
+}
+
+#nav h2 {
 }
 
 #nav ul, #nav li {
@@ -32,15 +55,19 @@ body {
 #content {
   margin-left: 160px;
 
+  padding: 1em;
+
   font-family: "Verdana", sans-serif;
 
   background: #fff;
-  border: 1px solid #cofefe;
+  border: 1px solid #c0fefe;
 }
 
 #content h2 {
-  font-size: 1.8em;
+  font-size: 1.5em;
+  line-height: 1.3em;
   font-family: "Georgia", "Times New Roman"," Times", serif;
+  font-weight: normal;
   border-bottom: 1px solid #c9c9c9;
 }
 
@@ -54,7 +81,19 @@ body {
   font-weight: bold;
 }
 
-#content p, #content li {
+#content p, #content li, #content dl, #content table {
   font-size: 0.875em;
   line-height: 160%;
+}
+
+#content li li {
+  font-size: 1em;
+}
+
+#content dt {
+  font-weight: bold;
+}
+
+#content code {
+  font-size: 1em;
 }
