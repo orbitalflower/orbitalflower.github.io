@@ -2,19 +2,19 @@ body {
   margin: 0;
   padding: 0;
 
-  background: gainsboro
+  background: gainsboro;
 }
 
 #header {
   background: indigo;
   color: white;
   overflow: hidden;
-  padding: 0.25em;
+  padding-left: 1em;
 }
 
 #header h1 {
-  height: 3em;
-  line-height: 3em;
+  height: 2em;
+  line-height: 2em;
   font-size: 1.8em;
   font-weight: normal;
   font-family: "Verdana", sans-serif;
@@ -22,7 +22,7 @@ body {
 
 #header a {
   text-decoration: none;
-  color: white;
+  color: lightsteelblue;
   display: block;
 }
 
@@ -60,7 +60,17 @@ body {
   font-family: "Verdana", sans-serif;
 
   background: #fff;
-  border: 1px solid #c0fefe;
+  border-left: 1px solid dimgray;
+}
+
+#content h1 {
+  font-size: 1.8em;
+  line-height: 1.3em;
+  font-family: "Georgia", "Times New Roman"," Times", serif;
+  font-weight: normal;
+  border-bottom: 1px solid #c9c9c9;
+  padding: 0;
+  margin: 1em 0 0.25em 0;
 }
 
 #content h2 {
@@ -69,21 +79,50 @@ body {
   font-family: "Georgia", "Times New Roman"," Times", serif;
   font-weight: normal;
   border-bottom: 1px solid #c9c9c9;
+  padding: 0;
+  margin: 1em 0 0.25em 0;
 }
 
 #content h3 {
   font-size: 1.2em;
   font-weight: bold;
+  padding: 0.5em 0 0 0;
+  margin: 0.3em 0 0 0;
 }
 
 #content h4 {
   font-size: 1em;
   font-weight: bold;
+  padding: 0;
+  margin: 0.3em 0 0 0;
+}
+
+#content h5 {
+  font-size: 1em;
+  font-weight: bold;
+  padding: 0;
+  margin: 0.3em 0 0 0;
+
+  color: #c0c0c0;
+}
+
+#content h6 {
+  font-size: 1em;
+  font-weight: bold;
+  padding: 0;
+  margin: 0.3em 0 0 0;
+
+  color: #c0fefe;
 }
 
 #content p, #content li, #content dl, #content table {
   font-size: 0.875em;
   line-height: 160%;
+}
+
+#content p {
+  margin: 0.5em 0;
+  padding: 0;
 }
 
 #content li li {
@@ -94,6 +133,6 @@ body {
   font-weight: bold;
 }
 
-#content code {
-  font-size: 1em;
+code {
+  font-size: 1.2em;
 }
