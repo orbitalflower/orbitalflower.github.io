@@ -1,6 +1,8 @@
 title: "orbitalflower"
 description: "orbitalflower"
 
+permalink: none
+
 defaults:
   -
     scope:

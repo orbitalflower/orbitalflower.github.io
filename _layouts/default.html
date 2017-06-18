@@ -3,6 +3,7 @@
   <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "style.css" | absolute_url }}">
+  <meta charset="utf-8">
   </head>
 
   <body>
@@ -24,6 +25,11 @@
       </div>
 
       <div id="footer">
+      <p>
+      {% if page.url != "/index.html" %} Page created: {{ page.date | date_to_long_string }}. {% endif %}
+      {% if page.updated %} Last updated: {{ page.updated | date_to_long_string }}. {% endif %}
+      <a href="#">^ Back to top</a>
+      </p>
       </div>
 
     </div>
