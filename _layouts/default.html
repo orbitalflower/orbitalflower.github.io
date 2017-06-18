@@ -26,7 +26,7 @@
 
       <div id="footer">
       <p>
-      {% if page.url != "/index.html" %} Page created: {{ page.date | date_to_long_string }}. {% endif %}
+      {% if page.date %} Page created: {{ page.date | date_to_long_string }}. {% endif %}
       {% if page.updated %} Last updated: {{ page.updated | date_to_long_string }}. {% endif %}
       <a href="#">^ Back to top</a>
       </p>
