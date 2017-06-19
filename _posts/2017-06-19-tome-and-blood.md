@@ -9,7 +9,7 @@ suffered weaker balance, the lore in _Tome and Blood_ evokes a D&D world which
 not only canonically possesses variant forms of wizardry, may possess any number
 of undiscovered others.
 
-{{ toc }}
+{:toc}
 
 ## Origins
 
