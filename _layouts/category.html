@@ -1,0 +1,26 @@
+---
+title: category layout
+layout: default
+---
+
+{{content}}
+
+<ul>
+  {% assign sortedPosts = site.categories[page.category] | where site.categories.size < 2 | sort: 'title' %}
+  {% for post in sortedPosts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% for subcategory in page.subcategories %}
+
+<h3 id="{{ subcategory }}">{{ subcategory | capitalize }}</h3>
+
+<ul>
+  {% assign sortedPosts = site.categories[page.category] | where site.categories[1],subcategory | sort: 'title' %}
+  {% for post in sortedPosts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% endfor %}
