@@ -501,22 +501,15 @@ exist for two primary reasons: to provide game balance, and to inspire players.
 
 [^1]: Wikipedia gives the etymology of [splatbook](https://en.wikipedia.org/wiki/Splatbook) as a general term for World of Darkness expansions like clanbooks, tribebooks and so on. Posters on USENET called these \*books, with the asterisk meaning "any" in computer jargon, and pronounced "splat" as per old computing slang. The term extended to mean any RPG expansion book to focus on one class, race or the like.
 
-[^2]: Mathghamhna is an old Irish name, pronounced "Mahowna", according to [The
-History of Ireland](https://books.google.com/books?id=qc0vAAAAMAAJ), said to be
-originally a family name meaning "bear". According to _College of Wizardry_,
-Mathghamhna means "College of Wizardry" in the language of the Elders who
-created the fortress, but like many D&D names, no canon pronunciation is given.
-Another Irish language reference is the tower, Briocht, meaning a charm or
-spell.
+[^2]: Mathghamhna is an old Irish name, pronounced "Mahowna", according to [The History of Ireland](https://books.google.com/books?id=qc0vAAAAMAAJ), said to be originally a family name meaning "bear". According to _College of Wizardry_, Mathghamhna means "College of Wizardry" in the language of the Elders who created the fortress, but like many D&D names, no canon pronunciation is given. Another Irish language reference is the tower, Briocht, meaning a charm or spell.
 
-[^3]: Interviewer: "Can you tell us about your past D&D games?  What kind of
-games did you run?  Who was your favorite character to play?" Bruce: "I've had
-several favorite characters, hard to pick just one. Japheth the warlock ..." -- [7 Questions with Bruce R Cordell](https://artificersintuition.blogspot.com/2013/07/7-questions-with-bruce-r-cordell.html)
+[^3]: Interviewer: "Can you tell us about your past D&D games?  What kind of games did you run?  Who was your favorite character to play?" Bruce: "I've had several favorite characters, hard to pick just one. Japheth the warlock ..." -- [7 Questions with Bruce R Cordell](https://artificersintuition.blogspot.com/2013/07/7-questions-with-bruce-r-cordell.html)
 
-[^4]: "It is whispered among the apprentices that Drake made some vague threat
-of renewing his dark studies in a Black Academy of foul sorcery in the vast
-swamp far to the south, but nothing more has been heard from him or the Black
-Academy of which he spoke (however, see _Return to the Tomb of Horrors_)." --
-_College of Wizardry_, page 30.
+[^4]:
+    "It is whispered among the apprentices that Drake made some vague threat of
+    renewing his dark studies in a Black Academy of foul sorcery in the vast
+    swamp far to the south, but nothing more has been heard from him or the
+    Black Academy of which he spoke (however, see _Return to the Tomb of
+    Horrors_)." -- _College of Wizardry_, page 30.
 
-[^5]: https://media.wizards.com/2017/dnd/downloads/20170213_Wizrd_Wrlck_UAv2_i48nf.pdf
+[^5]: <https://media.wizards.com/2017/dnd/downloads/20170213_Wizrd_Wrlck_UAv2_i48nf.pdf>
