@@ -1,7 +1,7 @@
 ---
-title: RPGs
+title: Roleplaying games index
 layout: category
-permalink: /rpg/index.html
+permalink: "/rpg/index.html"
 category: rpg
 subcategories: books people
 ---

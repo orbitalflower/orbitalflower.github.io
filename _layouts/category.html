@@ -5,7 +5,7 @@ layout: default
 
 {{ content }}
 
-{% assign sortedPosts = site.categories | sort: 'title' %}
+{% assign sortedPosts = site.posts | sort: 'title' %}
 
 <ul>
   {% for post in sortedPosts %}
