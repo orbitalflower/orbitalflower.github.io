@@ -5,8 +5,25 @@ layout: default
 
 {{content}}
 
+<h2>Newest articles</h2>
+
 <ul>
-{% for post in site.posts %}
-  <li><a href="{{post.url}}">{{post.title}}</a></li>
+{% for post in site.posts limit:10 %}
+  <li><a href="{{post.url}}">{{post.title}}</a> {{ post.date | date_to_string | prepend: " (" | append: ") " | default: "" }}</li>
 {% endfor %}
+</ul>
+
+<h2>Recently updated</h2>
+
+<ul>
+{% assign sortedPosts = site.posts | sort: 'updated' %}
+{% for post in sortedPosts limit:10 %}
+  <li><a href="{{post.url}}">{{post.title}}</a> {{ post.updated | date_to_string | prepend: " (" | append: ") " | default: "" }}</li>
+{% endfor %}
+</ul>
+
+<h2>Categories</h2>
+
+<ul>
+  <li><a href="/rpg/">Roleplaying games</li>
 </ul>
