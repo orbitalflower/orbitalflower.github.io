@@ -3,12 +3,17 @@ title: category layout
 layout: default
 ---
 
-{{content}}
+{{ content }}
+
+{% assign sortedPosts = site.categories | sort: 'title' %}
 
 <ul>
-  {% assign sortedPosts = site.categories[page.category] | where site.categories.size < 2 | sort: 'title' %}
   {% for post in sortedPosts %}
+    {% if site.categories contains page.category %}
+      {% if site.categories.size == 1 %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
 
@@ -17,9 +22,12 @@ layout: default
 <h3 id="{{ subcategory }}">{{ subcategory | capitalize }}</h3>
 
 <ul>
-  {% assign sortedPosts = site.categories[page.category] | where site.categories[1],subcategory | sort: 'title' %}
   {% for post in sortedPosts %}
+    {% if site.categories contains page.category %}
+      {% if site.categories contains subcategory %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
 
