@@ -3,7 +3,8 @@
   <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "style.css" | absolute_url }}">
-  <meta charset="utf-8">
+    <meta charset="utf-8">
+    {% feed_meta %}
   </head>
 
   <body>
