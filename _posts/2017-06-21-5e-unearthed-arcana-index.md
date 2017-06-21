@@ -12,12 +12,12 @@ This index last updated: 2017-06-21
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][],[16][],[39][],[42][]
+- Feats [2][], [16][], [39][], [42][]
 - Downtime rules [38][]
 
 ### For any new character
-- New classes [4][],[10][],[28][],[34][]
-- New races [2][],[5][],[12][],[15][],[42][]
+- New classes [4][], [10][], [28][], [34][]
+- New races [2][], [5][], [12][], [15][], [42][]
 
 ### For characters of a certain race
 - Dragonborn [40][]
@@ -25,21 +25,21 @@ This index last updated: 2017-06-21
 - Gnome [40][]
 - Halfling [40][]
 - Human [40][]
-- Tiefling [12][],[40][]
+- Tiefling [12][], [40][]
 
 ### For characters of a certain class
-- Barbarian [21][],[41][]
-- Bard [13][],[22][],[41][]
-- Cleric [8][],[23][],[37][]
-- Druid [24][],[37][],[43][]
-- Fighter [5][],[11][],[13][],[15][],[25][],[41][],[43][]
-- Monk [26][],[36][],[41][]
-- Paladin [5][],[8][],[11][],[27][],[36][],[37][],[43][]
-- Ranger [5][],[11][],[9][],[19][],[29][],[36][],[37][]
-- Rogue [5][],[15][]
-- Sorcerer [5][],[8][],[11][],[29][],[30][],[37][],[42][],[41][]
-- Warlock [8][],[11][],[12][],[18][],[31][],[37][],[43][]
-- Wizard [2][],[8][],[12][],[18][],[31][],[35][],[37][]
+- Barbarian [21][], [41][]
+- Bard [13][], [22][], [41][]
+- Cleric [8][], [23][], [37][]
+- Druid [24][], [37][], [43][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][]
+- Monk [26][], [36][], [41][]
+- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][]
+- Rogue [5][], [15][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][]
 
 ## Content index by type
 
@@ -62,14 +62,14 @@ listed.
 ### Class archetypes
 
 #### Barbarian paths
-- Path of the Ancestral Guardian [21][],[41][]
+- Path of the Ancestral Guardian [21][], [41][]
 - Path of the Storm Herald [21][]
 - Path of the Zealot [21][]
 
 #### Bard colleges
 - College of Glamour [22][]
 - College of Satire [13][]
-- College of Swords [13][],[41][]
+- College of Swords [13][], [41][]
 - College of Whispers [22][]
 
 #### Cleric domains
@@ -80,12 +80,12 @@ listed.
 
 #### Druid circles
 - Circle of Dreams [24][]
-- Circle of the Shepherd [24][],[43][]
+- Circle of the Shepherd [24][], [43][]
 - Circle of Twilight [24][]
 
 #### Fighter archetypes
-- Arcane Archer [25][],[41][]
-- Cavalier [13][],[43][]
+- Arcane Archer [25][], [41][]
+- Cavalier [13][], [43][]
 - Knight [25][]
 - Monster Hunter [15][]
 - Samurai [25][]
@@ -100,16 +100,16 @@ listed.
 #### Monk traditions
 - Way of Tranquility [26][]
 - Way of the Drunken Master [36][]
-- Way of the Kensei [26][],[41][]
+- Way of the Kensei [26][], [41][]
 
 #### Paladin oaths
-- Oath of Conquest [27][],[43][]
+- Oath of Conquest [27][], [43][]
 - Oath of Redemption [36][]
 - Oath of Treachery [27][]
 
 #### Ranger archetypes
 - Beast [19][]
-- Deep Stalker [11][], [19][]
+- Deep Stalker [11][],  [19][]
 - Guardian [9][]
 - Horizon Walker [29][]
 - Hunter [19][]
@@ -123,7 +123,7 @@ listed.
 - Swashbuckler [5][]
 
 #### Sorcerous origins
-- Favored Soul [4][],[30][],[41][]
+- Favored Soul [4][], [30][], [41][]
 - Phoenix Sorcery [30][]
 - Pyromancer [42][]
 - Scout [29][]
@@ -134,7 +134,7 @@ listed.
 
 #### Warlock patrons
 - Ghost in the Machine [8][]
-- The Celestial (The Undying Light) [11][],[43][]
+- The Celestial (The Undying Light) [11][], [43][]
 - The Hexblade [31][]
 - The Raven Queen [31][]
 - The Seeker [18][]
@@ -143,13 +143,13 @@ listed.
 - Artificer [2][]
 - Loremaster [31][]
 - Technomancy [8][]
-- Theurgy [18][],[35][]
+- Theurgy [18][], [35][]
 - War Magic [35][]
 
 ### New classes and variant classes
 - Artificer [28][]
-- Mystic [7][],[14][],[34][]
-- Ranger revised [9][],[19][]
+- Mystic [7][], [14][], [34][]
+- Ranger revised [9][], [19][]
 - Ranger with no spells, variant [4][]
 - Rune scribe, prestige class [10][]
 
@@ -216,33 +216,33 @@ listed.
 
 #### Invocations
 - Arcane Gunslinger [8][]
-- Aspect of the Moon [31][],[43][]
+- Aspect of the Moon [31][], [43][]
 - Burning Hex [31][]
 - Caiphon's Beacon [31][]
 - Chilling Hex [31][]
 - Chronicle of the Raven Queen [31][]
 - Claw of Acamar [31][]
-- Cloak of Flies (Cloak of Baalzebul) [31][],[43][]
+- Cloak of Flies (Cloak of Baalzebul) [31][], [43][]
 - Curse Bringer [31][]
-- Eldritch Smite (Mace of Dispater) [31][],[43][]
-- Frost Lance [31][],[43][]
-- Ghostly Gaze (Gaze of Khirad) [31][],[43][]
+- Eldritch Smite (Mace of Dispater) [31][], [43][]
+- Frost Lance [31][], [43][]
+- Ghostly Gaze (Gaze of Khirad) [31][], [43][]
 - Gift of the Depths [43][]
 - Gift of the Ever-Living Ones [43][]
-- Grasp of Hadar [31][],[43][]
+- Grasp of Hadar [31][], [43][]
 - Green Lord's Gift [31][]
-- Improved Pact Weapon [31][],[43][]
-- Kiss of Mephistopheles [31][],[43][]
+- Improved Pact Weapon [31][], [43][]
+- Kiss of Mephistopheles [31][], [43][]
 - Maddening Hex [43][]
 - Moon Bow [31][]
 - Raven Queen's Blessing [31][]
-- Relentless Hex [31][],[43][]
+- Relentless Hex [31][], [43][]
 - Sea Twins' Gift [31][]
 - Seeker's Speech [31][]
-- Shroud of Shadow (Shroud of Ulban) [31][],[43][]
+- Shroud of Shadow (Shroud of Ulban) [31][], [43][]
 - Superior Pact Weapon [31][]
-- Tomb of Levistus [31][],[43][]
-- Trickster's Escape (Path of the Seeker) [31][],[43][]
+- Tomb of Levistus [31][], [43][]
+- Trickster's Escape (Path of the Seeker) [31][], [43][]
 - Ultimate Pact Weapon [31][]
 
 ### Feats
@@ -301,7 +301,7 @@ listed.
 
 ### Miscellaneous new rules
 - Action points [2][]
-- Army-scale mass combat [3][],[32][]
+- Army-scale mass combat [3][], [32][]
 - Creating new class options [4][]
 - Custom alignments [6][]
 - Downtime (craft/buy/sell item, train, etc) [38][]
