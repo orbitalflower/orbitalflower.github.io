@@ -19,12 +19,12 @@ layout: default
 
 {% for subcategory in page.subcategories %}
 
-<h3 id="{{ subcategory }}">{{ subcategory | capitalize }}</h3>
+<h3 id="{{ subcategory.slug }}">{{ subcategory.title }}</h3>
 
 <ul>
   {% for post in sortedPosts %}
     {% if post.categories contains page.category %}
-      {% if post.categories contains subcategory %}
+      {% if post.categories contains subcategory.slug %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
     {% endif %}
