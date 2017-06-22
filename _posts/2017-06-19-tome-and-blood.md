@@ -1,6 +1,7 @@
 ---
 title: "Tome and Blood"
 categories: rpg books
+updated: 2017-06-22
 ---
 
 _Tome and Blood_ (2001) was one of the first Dungeons & Dragons splatbooks[^1],
@@ -177,7 +178,7 @@ work for kings or nations.
 
 Another group tied to a prestige class. I recall a game developer (Monte Cook?
 I've forgotten) saying that prestige classes were definitely intended to be
-linked to groups or guilds like this, and that this intent was broken by later
+linked to groups or guilds like this[^11], and that this intent was broken by later
 prestige classes like Mystic Theurge that didn't have any lore to them, as well
 as players level-dipping into multiple prestige classes for the optimal build.
 _Complete Arcane_ even suggests that high level members Arcane Order often
@@ -220,7 +221,7 @@ offer that technology to anyone who can pay.
 A general problem with early D&D 3e spellcaster prestige classes was that they
 often had considerably less than 10/10 spellcasting progression, meaning that
 you ultimately gave up your highest level spell slots in exchange for weak
-abilities that don't scale with level.
+abilities that don't scale with level[^10].
 
 Some call this a D&D 3.0 specific balance issue, but it's rather that earlier
 D&D third edition material made mistakes that later writers knew to avoid, as
@@ -514,3 +515,18 @@ exist for two primary reasons: to provide game balance, and to inspire players.
     Horrors_)." -- _College of Wizardry_, page 30.
 
 [^5]: <https://media.wizards.com/2017/dnd/downloads/20170213_Wizrd_Wrlck_UAv2_i48nf.pdf>
+
+[^10]:
+    Bruce Cordell takes credit for inventing this: "When I was writing _Tome and
+    Blood_ (a sourcebook for wizards and sorcerers), I hit on the idea for
+    advancing a character's effective caster level at alternating levels (or
+    in batches), rather than at every level." -- [Pyro and Soulknife](https://web.archive.org/web/20071213124817/http://www.montecook.com/images/Psi_prestige2.pdf), Monte Cook Games, 2002
+
+[^11]:
+    Monte Cook: 
+    "The original design intention behind [prestige classes] was to allow DMs to
+    create campaign-specific, exclusive roles and positions as classes. ... Too
+    many prestige classes are designed like 2nd Edition kits: player-driven
+    PC-creation tools for character customization. That's okay sometimes, but it
+    really overlooks the main reason that prestige classes were invented." -- [Prestige Class Online Design Workshop](https://web.archive.org/web/20071020115852/http://montecook.com/arch_dmonly9.html)
+
