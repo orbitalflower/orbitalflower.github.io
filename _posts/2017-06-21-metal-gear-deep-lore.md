@@ -1,6 +1,6 @@
 ---
 title: Metal Gear deep lore
-category: games mgs
+categories: games mgs
 redirect-from: /games/metal-gear-deep-lore.html
 ---
 
