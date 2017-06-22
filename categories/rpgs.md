@@ -1,7 +1,7 @@
 ---
 title: Roleplaying games index
 layout: category
-permalink: "/rpg/index.html"
+permalink: "/rpg/"
 redirect_from:
   - /rpgs/index.html
   - /rpg/books/index.html

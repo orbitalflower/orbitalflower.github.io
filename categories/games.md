@@ -1,7 +1,7 @@
 ---
 title: Games index
 layout: category
-permalink: "/games/index.html"
+permalink: "/games/"
 redirect_from:
   - /game/index.html
   - /games/mgs/index.html

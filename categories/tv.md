@@ -1,7 +1,7 @@
 ---
 title: Television index
 layout: category
-permalink: "/tv/index.html"
+permalink: "/tv/"
 redirect_from:
   - /tv/startrek/index.html
 category: tv
