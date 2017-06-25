@@ -7,6 +7,7 @@ redirect_from:
   - /rpg/books/index.html
   - /rpg/people/index.html
   - /rpg/resources/index.html
+  - /rpg/rules/index.html
 category: rpg
 subcategories:
   -
@@ -18,6 +19,9 @@ subcategories:
   -
     slug: resources
     title: "Resources"
+  -
+    slug: rules
+    title: "Rules"
 ---
 
-Tabletop roleplaying games.
+Tabletop roleplaying games, like _Dungeons & Dragons_.
