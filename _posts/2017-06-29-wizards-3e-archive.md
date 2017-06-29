@@ -9,7 +9,7 @@ monster stats, maps, advice articles, news and errata. This article attempts to
 provide a searchable list of that content.
 
 1. Table of Contents
-{:.toc}
+{:toc}
 
 ## Full article list, by category
 
@@ -5164,7 +5164,7 @@ Original index: [2009 D&amp;D Miniatures Archives](http://archive.wizards.com/de
 
 ### Downloads
 - [Original Adventures](https://wayback.archive-it.org/1213/20090602060921/http://www.wizards.com/default.asp?x=dnd/oa/20030530b)
-- [Map-A-Week] (http://archive.wizards.com/default.asp?x=dnd/mwa/archiveall)
+- [Map-A-Week](http://archive.wizards.com/default.asp?x=dnd/mwa/archiveall)
 - [Desktop wallpapers archive](http://archive.wizards.com/default.asp?x=dnd/dnd/20040423a)
 - [Web enhancement archive](http://archive.wizards.com/default.asp?x=dnd/arch/wex)
 - [Themes/Skins archive](http://archive.wizards.com/default.asp?x=dnd/arch/dt)
