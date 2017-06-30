@@ -6,6 +6,7 @@ redirect_from:
   - /rpgs/index.html
   - /rpg/books/index.html
   - /rpg/people/index.html
+  - /rpg/races/index.html
   - /rpg/resources/index.html
   - /rpg/rules/index.html
 category: rpg
@@ -16,6 +17,9 @@ subcategories:
   -
     slug: people
     title: "People"
+  -
+    slug: races
+    title: "Races"
   -
     slug: resources
     title: "Resources"
