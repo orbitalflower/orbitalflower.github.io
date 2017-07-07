@@ -1,13 +1,13 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-06-21
+updated: 2017-07-07
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
-This index last updated: 2017-06-21
+This index last updated: 2017-07-07
 
 ## Articles by usefulness
 
@@ -17,7 +17,8 @@ This index last updated: 2017-06-21
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][]
+- New backgrounds [44][], [46][]
 
 ### For characters of a certain race
 - Dragonborn [40][]
@@ -30,7 +31,7 @@ This index last updated: 2017-06-21
 ### For characters of a certain class
 - Barbarian [21][], [41][]
 - Bard [13][], [22][], [41][]
-- Cleric [8][], [23][], [37][]
+- Cleric [8][], [23][], [37][], [44][]
 - Druid [24][], [37][], [43][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][]
 - Monk [26][], [36][], [41][]
@@ -48,16 +49,33 @@ that case, both entries are included for completeness, but the later version
 should supercede the earlier. In cases where names change, the old name is
 listed.
 
-### New races
-- Aetherborn [42][]
-- Changeling [2][]
-- Minotaur [5][]
-- Revenant subrace (any race) [15][]
-- Shifter [2][]
+### New races and subraces
+- Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
+- Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
+- Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
+- Changeling [2][] - Dex+1 Cha+1. Descendents of doppelgangers
+- Elf, Joraga [45][] - Wis+2 Dex+1. Slightly wiser wood elves
+- Elf, Mul Daya [45][] - Wis+2 Cha+1. Strong spirit-revering elves
+- Elf, Tajuru [45][] - Wis+2 Cha+1. Versatile elves
+- Elf, Vahadar [42][] - Dex+2 Wis+1. Elves with druid cantrip
+- Goblin [45][] - Con +2. Small chaotic creatures
+- Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
+- Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
+- Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
+- Khenra [44][] - Dex +2 Str+1. Chaotic jackal-headed people
+- Kor [45][] - Dex +2 Wis+1. Lawful good quiet people of white mana
+- Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
+- Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
+- Merfolk, Ula [45][] - Int+2 Cha +1. Aquatic water people with wizard cantrip
+- Minotaur (Amonkhet) [44][] - Str+2 Con+1. Horned, warlike
+- Minotaur (Krynn) [5][] - Str+2, or Str+1 and Int or Wis+1. Dragonlance race
+- Naga [44][] - Con +2 Int +1.  Snake people with a poison bite
+- Revenant subrace (any race) [15][] - a character who returns to life
+- Shifter [2][] - the descendents of lycanthropes
 - Tiefling, abyssal subrace [12][]
-- Tiefling, infernal subrace [12][]
-- Vedalken [42][]
-- Warforged [2][]
+- Vampire [45][] - Cha+2 Int+1. Undead with drain touch
+- Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
+- Warforged [2][] - Str+1 Con+1. Mechanical constructs built for war
 
 ### Class archetypes
 
@@ -73,10 +91,14 @@ listed.
 - College of Whispers [22][]
 
 #### Cleric domains
+- Ambition [44][]
 - City [8][]
 - Forge [23][]
 - Grave [23][]
 - Protection [23][]
+- Solidarity [44][]
+- Strength [44][]
+- Zeal [44][]
 
 #### Druid circles
 - Circle of Dreams [24][]
@@ -164,7 +186,7 @@ listed.
 - Virtue (Clr) [37][]
 
 #### Level 1
-- Cause Fear (War/Wiz)
+- Cause Fear (War/Wiz) [37][]
 - Ceremony (Clr/Pal) [37][]
 - Chaos Bolt (Sor) [37][]
 - Guiding Hand (Brd/Clr/Drd/Wiz) [37][]
@@ -299,6 +321,29 @@ listed.
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][]
 
+### Backgrounds
+
+- Initiate [44][]
+- Inquisitor [46][]
+- Vizier [44][]
+- Dissenter [44][]
+
+### Creatures
+
+- Archon of Redemption (CR10) [45][]
+- Gremlin (CR1/2) [42][]
+- Creepy Doll (CR2) [46][]
+- Criosphinx (CR13) [44][]
+- Felidar (CR5) [45][]
+- Geist (CR4) [46][]
+- Kraken (CR13) [45][]
+- Manticore, heart-piercer (CR5) [44][]
+- Serpopard (CR3) [44][]
+- Servo (CR0) [42][]
+- Sky Leviathan (CR10) [42][]
+- Vampire Neonate (CR5) [46][]
+- Werewolf (Krallenhorde) (CR3) [46][]
+
 ### Miscellaneous new rules
 - Action points [2][]
 - Army-scale mass combat [3][], [32][]
@@ -364,6 +409,9 @@ listed.
 41. [Revised Subclasses][41]
 42. [Plane Shift: Kaladesh][42]
 43. [Revised Class Options][43]
+44. [Plane Shift: Amonkhet][44]
+45. [Plane Shift: Zendikar][45]
+46. [Plane Shift: Innistrad][46]
 
 [1]:  http://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -407,4 +455,7 @@ listed.
 [40]: https://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf "Feats for Races"
 [41]: https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf "Revised Subclasses"
 [42]: https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf "Plane Shift: Kaladesh"
-[43]: http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf
+[43]: http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf "Revised Class Options"
+[44]: https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf "Plane Shift: Amonkhet"
+[45]: https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf "Plane Shift: Zendikar"
+[46]: https://d1bf78c87087c77d76ca-be4120a00702a7d33079a120750230c5.ssl.cf1.rackcdn.com/Plane%20Shift%20Innistrad%20SFG_2.pdf "Plane Shift: Innistrad"
