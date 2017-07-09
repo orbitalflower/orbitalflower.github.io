@@ -126,6 +126,14 @@ body {
   padding: 0;
 }
 
+#content li {
+  margin: 0;
+}
+
+#content li li {
+  font-size: 1em;
+}
+
 #content blockquote {
 }
 
@@ -136,10 +144,6 @@ body {
 #content th, #content td {
   border: 1px solid darkgray;
   padding: 0.5em;
-}
-
-#content li li {
-  font-size: 1em;
 }
 
 #content dt {
@@ -182,6 +186,11 @@ code {
 #markdown-toc li {
   margin: 0;
 }
+
+#markdown-toc li ol, #markdown-toc li ul {
+  padding-left: 2.5em;
+}
+
 
 #footer {
   margin-bottom: 6em;
