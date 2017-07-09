@@ -16,7 +16,7 @@ layout: default
 <h2>Recently updated</h2>
 
 <ul>
-{% assign sortedPosts = site.posts | sort: 'updated' %}
+{% assign sortedPosts = site.posts | sort: 'updated' | reverse %}
 {% for post in sortedPosts limit:10 %}
 {% if post.updated %}
   <li><a href="{{post.url}}">{{post.title}}</a> {{ post.categories | default: "" | join: "/" | prepend: " (" | append: ") " }} &mdash; {{ post.updated | date_to_string }}</li>
