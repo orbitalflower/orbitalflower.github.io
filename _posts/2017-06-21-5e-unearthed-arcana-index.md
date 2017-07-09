@@ -58,21 +58,21 @@ listed.
 - Elf, Mul Daya [45][] - Wis+2 Cha+1. Strong spirit-revering elves
 - Elf, Tajuru [45][] - Wis+2 Cha+1. Versatile elves
 - Elf, Vahadar [42][] - Dex+2 Wis+1. Elves with druid cantrip
-- Goblin [45][] - Con +2. Small chaotic creatures
+- Goblin [45][] - Con+2. Small chaotic creatures
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
-- Khenra [44][] - Dex +2 Str+1. Chaotic jackal-headed people
-- Kor [45][] - Dex +2 Wis+1. Lawful good quiet people of white mana
+- Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
+- Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
 - Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
 - Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
-- Merfolk, Ula [45][] - Int+2 Cha +1. Aquatic water people with wizard cantrip
+- Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
 - Minotaur (Amonkhet) [44][] - Str+2 Con+1. Horned, warlike
-- Minotaur (Krynn) [5][] - Str+2, or Str+1 and Int or Wis+1. Dragonlance race
-- Naga [44][] - Con +2 Int +1.  Snake people with a poison bite
+- Minotaur (Krynn) [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
+- Naga [44][] - Con+2 Int+1.  Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
-- Shifter [2][] - the descendents of lycanthropes
-- Tiefling, abyssal subrace [12][]
+- Shifter [2][] - Dex+2 or Dex+1 Str+1/Con+1/Wis+1. Descendants of lycanthropes
+- Tiefling, abyssal subrace [12][] - Cha+2 Con+1. Tough, with random spells
 - Vampire [45][] - Cha+2 Int+1. Undead with drain touch
 - Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
 - Warforged [2][] - Str+1 Con+1. Mechanical constructs built for war
