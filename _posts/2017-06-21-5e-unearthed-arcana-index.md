@@ -1,13 +1,13 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-07-07
+updated: 2017-07-10
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
-This index last updated: 2017-07-07
+This index last updated: 2017-07-10
 
 ## Articles by usefulness
 
@@ -355,6 +355,7 @@ listed.
 - Encounter building [20][]
 - Firearm proficiency [1][]
 - Hacking tools [8][]
+- Initiative variant [47][]
 - Kaladesh setting [42][]
 - Modern armor [1][]
 - Players make all the rolls [6][]
@@ -412,6 +413,7 @@ listed.
 44. [Plane Shift: Amonkhet][44]
 45. [Plane Shift: Zendikar][45]
 46. [Plane Shift: Innistrad][46]
+47. [Greyhawk Initiative][47]
 
 [1]:  http://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -459,3 +461,4 @@ listed.
 [44]: https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf "Plane Shift: Amonkhet"
 [45]: https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf "Plane Shift: Zendikar"
 [46]: https://d1bf78c87087c77d76ca-be4120a00702a7d33079a120750230c5.ssl.cf1.rackcdn.com/Plane%20Shift%20Innistrad%20SFG_2.pdf "Plane Shift: Innistrad"
+[47]: https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf "Greyhawk Initiative"
