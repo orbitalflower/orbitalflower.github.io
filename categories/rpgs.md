@@ -7,7 +7,6 @@ redirect_from:
   - /rpg/books/index.html
   - /rpg/people/index.html
   - /rpg/races/index.html
-  - /rpg/resources/index.html
   - /rpg/rules/index.html
 category: rpg
 subcategories:
