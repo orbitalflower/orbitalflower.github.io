@@ -9,7 +9,7 @@ layout: default
 
 <ul>
   {% for post in sortedPosts %}
-    {% if post.categories contains post.includecat %}
+    {% if post.categories contains page.includecat %}
   <li><a href="{{ post.url }}">{{ post.title }}</a>
   {% if post.updated %}&mdash; Updated: {{ post.updated | date_to_string }}
   {% else %}&mdash; {{ post.date | date_to_string }}
