@@ -7,7 +7,12 @@ updated: 2017-07-10
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
-This index last updated: 2017-07-10
+This index last updated: <b>
+2017-07-10
+</b>
+
+1. Table of Contents
+{:toc}
 
 ## Articles by usefulness
 
@@ -46,8 +51,10 @@ This index last updated: 2017-07-10
 
 Note: In some cases, an article prints a revised version of existing content. In
 that case, both entries are included for completeness, but the later version
-should supercede the earlier. In cases where names change, the old name is
-listed.
+should supercede the earlier. In cases where a new item is nearly identical to
+an old item but with a different name, it is assumed to be the same item; the
+old name is listed after the new name. Race variants with identical stats to a
+standard race are not listed.
 
 ### New races and subraces
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
@@ -67,8 +74,8 @@ listed.
 - Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
 - Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
 - Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
-- Minotaur (Amonkhet) [44][] - Str+2 Con+1. Horned, warlike
-- Minotaur (Krynn) [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
+- Minotaur, from Amonkhet [44][] - Str+2 Con+1. Horned, warlike
+- Minotaur, from Krynn [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
 - Naga [44][] - Con+2 Int+1.  Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][] - Dex+2 or Dex+1 Str+1/Con+1/Wis+1. Descendants of lycanthropes
@@ -202,7 +209,7 @@ listed.
 - Zephyr Strike (Rgr) [37][]
 
 #### Level 2
-- Arcane Hacking (Sor?War/Wiz)[8][]
+- Arcane Hacking (Sor/War/Wiz)[8][]
 - Digital Phantom (Sor/War/Wiz) [8][]
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
 
