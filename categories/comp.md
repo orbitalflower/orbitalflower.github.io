@@ -1,11 +1,10 @@
-
 ---
 title: Computing index
 layout: category
 permalink: "/comp/"
 redirect_from:
   - /computing/index.html
-  - /rpg/web/index.html
+  - /comp/web/index.html
 category: comp
 subcategories:
   -

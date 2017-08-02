@@ -63,7 +63,6 @@ point in one of the Star Trek novels or other apocrypha.
 - Q saved the life of an ancestor of William T. Riker.
 - Picard tried to hire Janeway for his crew on the Enterprise, but she wasn't
   available.
-
 - Julian Bashir removed a Borg implant from Kirk's brain, assisted by Leonard
   McCoy.
 - Julian Bashir and Beverly Crusher once studied Doctor Phlox's notes to cure a
@@ -77,7 +76,6 @@ point in one of the Star Trek novels or other apocrypha.
   Christopher Pike.
 - Tobin Dax worked on warp core design with Spock's grandfather.
 - Torias Dax once met Nurse Chapel.
-
 - Demora Sulu sponsored Chakotay's application to Starfleet Academy.
 - Demora Sulu was a classmate of Iron Mike Paris, Tom Paris' grandfather.
 - Tom Paris' uncle, Cole Paris, served with Picard on the Stargazer.
@@ -87,7 +85,6 @@ point in one of the Star Trek novels or other apocrypha.
 - As a lieutenant, Janeway participated in an archaeological expedition led by
   Captain Picard.
 - Chakotay was Ro Laren's instructor at Starfleet Academy.
-
 - Jonathan Archer was present at the launch of the Constitution-class USS
   Enterprise NCC-1707. He was 133 years old and died the next day.
 - Doctor Phlox once worked with McCoy and Nurse Chapel to cure a virus.
@@ -114,7 +111,6 @@ career.
   Commander in Chief of Starfleet.
 - Demora Sulu, daughter of Hikaru Sulu, became captain of the Enterprise-B.
 - Bones was promoted to Admiral and became head of Starfleet Medical.
-
 - Data becomes captain of the Enterprise-E. After it is destroyed, he retires
   from Starfleet to teach at Oxford.
 - Riker becomes captain of the Enterprise-F in an alternate timeline, in which
@@ -125,13 +121,11 @@ career.
 - Wesley Crusher becomes captain of the USS Hood.
 - Beverly Crusher becomes captain of the USS Pasteur in an alternate timeline
   where she married Picard, thus making her Captain Picard.
-
 - Ro Laren becomes captain of the USS Defiant.
 - Nog becomes a captain after serving as chief engineer of the Enterprise-E.
 - Ezri Dax goes on to become the captain of the USS Aventine.
 - Major Kira became a Starfleet captain after Bajor was admitted to the
   Federation.
-
 - Tom Paris becomes becomes an admiral, but in true Tom Paris style is demoted,
   and becomes captain of the USS Mercury.
 - B'Elanna Torres recreates the quantum slipstream drive from memory and is
@@ -143,7 +137,6 @@ career.
 - Tuvok becomes Rear Admiral. He then resigns from Starfleet for the second
   time, rejoins, and is given command of the USS Voyager.
 - Seven of Nine becomes a Starfleet Admiral in an alternate timeline.
-
 - T'Pol became captain on the USS Endeavour.
 - Malcolm Reed became captain of the USS Pioneer.
 
