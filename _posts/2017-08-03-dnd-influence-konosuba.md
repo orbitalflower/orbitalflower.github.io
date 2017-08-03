@@ -114,7 +114,7 @@ the 2e wizard spell _cantrip_ or the 3e wizard spell _prestidigitation_.
 In season 2, Aqua repairs a torn piece of paper. This is the capability of
 _mending_, a low-level D&D spell. In D&D 3rd edition it's available to clerics
 as well as wizards; in AD&D 2nd edition it's a wizard-exclusive power. In either
-case it can repair a paper torn in two, but not paper turn into shreds.
+case it can repair a paper torn in two, but not paper torn into shreds.
 
 #### Create Water
 
@@ -354,9 +354,9 @@ matter:
 - Awkward casting method: The archwizard must shout the spell's vocal component
   at the top of her lungs (-5 pts)
 - Behavior/taboo: Must always wear red (-2 pts)
-- <strike>Learning penalty: -25% to learn non-Invocation spells (-8
-  pts)</strike> DM rejected this because I already can't learn non-Invocation
-  spells at all
+- ~~Learning penalty: -25% to learn non-Invocation
+  spells (-8 pts)~~ DM rejected this because I already can't learn
+  non-Invocation spells at all
 - Reduced spell knowledge: Can learn half as many spells (-7 pts)
 - Slow casting time: +1 full round (-5 pts)
 - Talisman: Must have a staff to cast spells (-8 pts)

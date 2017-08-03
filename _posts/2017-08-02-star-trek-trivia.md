@@ -45,8 +45,8 @@ point in one of the Star Trek novels or other apocrypha.
   made Quark an official Ferengi ambassador.
 - Janeway, the holographic Doctor, Admiral Seven of Nine and the borg Hugh
   strike an alliance with the Borg to stop the Pah-wraiths from destroying the
-  universe by going back in time with the Guardian of Forever to destroy Bajor.
-  They fail, but Sisko resets the timeline.
+  universe, by going back in time with the Guardian of Forever to destroy
+  Bajor. They fail, but Sisko resets the timeline.
 - The holographic Doctor accepts a commission in Starfleet with the rank of
   Lieutenant Commander.
 - Kes fights B'Elanna Torres in a round of Anbo-Jutsu.
@@ -86,7 +86,7 @@ point in one of the Star Trek novels or other apocrypha.
   Captain Picard.
 - Chakotay was Ro Laren's instructor at Starfleet Academy.
 - Jonathan Archer was present at the launch of the Constitution-class USS
-  Enterprise NCC-1707. He was 133 years old and died the next day.
+  Enterprise NCC-1701. He was 133 years old and died the next day.
 - Doctor Phlox once worked with McCoy and Nurse Chapel to cure a virus.
 - Hoshi Sato was one of the 4,000 people killed by Governor Kodos on Tarsus 4,
   the colony where James T. Kirk once lived.
