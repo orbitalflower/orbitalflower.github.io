@@ -411,7 +411,7 @@ Then to balance:
 You now have a regular priest, but awesomer. Also, it's the DM's character so
 it's a level 21 deity.
 
-*[D&D] Dungeons & Dragons
-*[AD&D] Advanced Dungeons & Dragons
-*[2e] Second edition
-*[3e] Third edition
+*[D&D]: Dungeons & Dragons
+*[AD&D]: Advanced Dungeons & Dragons
+*[2e]: Second edition
+*[3e]: Third edition
