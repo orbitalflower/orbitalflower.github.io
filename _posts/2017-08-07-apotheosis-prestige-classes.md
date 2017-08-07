@@ -70,7 +70,6 @@ template took three.
 ### Elemental
 
 - Elementalist ([Tome and Blood][]) gains the elemental type.
-
 - Winterhaunt (Frostburn) gains the elemental type at level 10.
 
 Elementalist is a general prestige class for spellcasters to become fire, water,
@@ -87,12 +86,9 @@ and ooze is already somewhat covered in the oozemaster prestige class.
 ### Fey
 
 - Rimefire Witch (Frostburn) gains the fey type at 10th level.
-
 - Spirit Shaman (Complete Divine), a standard class rather than a prestige
   class, gains the fey type at level 20.
-
 - Swanmay (Book of Exalted Deeds) gains the fey type at 10th level.
-
 - Wildrunner (Races of the Wild) gains the fey type at level 9 of 10.
 
 ### Giant
@@ -150,39 +146,28 @@ that just rolls over people and absorbs all their bone.
   although is not an outsider of any particular plane. This may be the original
   inspiration for prestige classes that change type at the top level. Tome and
   Blood's PrCs were centered around outsider type.
-
 - Acolyte of the Skin ([Tome and Blood][]) gains the outsider type, becoming
   essentially a fiend.
-
 - Alienist ([Tome and Blood][]) gains the outsider type, becoming somewhat a
   pseudonatural creature.
-
 - Contemplative (Complete Divine) gains outsider type at level 10,
   which given the unusually high prerequisites (Knowledge (religion) 13 ranks)
   will occur at total level 20. This is a particularly good prestige class for
   clerics as it costs only some base attack bonus and turn undead, and gains
   various immunities and spell resistance. It's almost universally better than
   straight cleric to the point that it supplants cleric.
-
 - Divine Crusader (Complete Divine) gains outsider type at level 10.
-
 - Exemplar (Complete Adventurer) gains the outsider type at level 10.
-
 - Fatespinner ([Tome and Blood][]) gains the outsider type, but of no particular
   plane. The updated five-level version of Fatespinner printed in Complete
   Arcane no longer gains outsider type.
-
 - Incandescent Champion (Magic of Incarnum) gains the outsider type at level 10.
-
 - Initiate of Pistis Sophia (Book of Exalted Deeds) gains the outsider type at
   level 10.
-
 - Knight of the Sacred Seal (Tome of Magic) gains the outsider type at level 5,
   its final level.
-
 - Troubador of Stars (Book of Exalted Deeds) gains the outsider type at 10th
   level.
-
 - Yuan-Ti Cultist (Savage Species) gains Outsider type at level 10.
 
 Despite this being the largest category by far, it also has the most room for
@@ -329,7 +314,6 @@ None.
 - Master Transmogrifist (Complete Arcane) gains the Shapechanger subtype at
   level 5. This is rare in that it's granted halfway through the prestige class
   instead of at the end.
-
 - Primeval (Frostburn) gains the shapechanger subtype at level 10.
 
 ### Swarm
