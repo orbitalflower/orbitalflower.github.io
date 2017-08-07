@@ -186,7 +186,6 @@ notable outsider, one of each alignment, and so on.
 
 - Walker in the Waste (Sandstorm) gains the undead type along with the dry lich
   template.
-
 - Pale Master ([Tome and Blood][]) is an undead apotheosis prestige class,
   except that it doesn't actually grant the undead type. This is perhaps because
   undead is a mechanically radical type change. You jump from d4 hit dice to
