@@ -353,5 +353,5 @@ path, but doesn't explicitly state it.
     general trend "expansionism".
     
 
-[Tome and Blood][]: /rpg/books/tome-and-blood.html "Tome and Blood"
+[Tome and Blood]: /rpg/books/tome-and-blood.html "Tome and Blood"
 
