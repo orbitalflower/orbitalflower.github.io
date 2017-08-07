@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-07-10
+updated: 2017-08-07
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2017-07-10
+2017-08-07
 </b>
 
 1. Table of Contents
@@ -370,6 +370,7 @@ standard race are not listed.
 - Quick characters [17][]
 - Rune magic [10][]
 - Traps [33][]
+- Three-pillar XP variant [48][]
 - Vitality [6][]
 
 ## Full list of articles
@@ -421,6 +422,7 @@ standard race are not listed.
 45. [Plane Shift: Zendikar][45]
 46. [Plane Shift: Innistrad][46]
 47. [Greyhawk Initiative][47]
+48. [Three-Pillar Experience][48]
 
 [1]:  http://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -469,3 +471,4 @@ standard race are not listed.
 [45]: https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf "Plane Shift: Zendikar"
 [46]: https://d1bf78c87087c77d76ca-be4120a00702a7d33079a120750230c5.ssl.cf1.rackcdn.com/Plane%20Shift%20Innistrad%20SFG_2.pdf "Plane Shift: Innistrad"
 [47]: https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf "Greyhawk Initiative"
+[48]: https://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf "Three-Pillar Experience"
