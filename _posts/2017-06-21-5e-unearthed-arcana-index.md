@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-08-07
+updated: 2017-09-11
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2017-08-07
+2017-09-11
 </b>
 
 1. Table of Contents
@@ -22,7 +22,7 @@ This index last updated: <b>
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -61,10 +61,13 @@ standard race are not listed.
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Changeling [2][] - Dex+1 Cha+1. Descendents of doppelgangers
+- Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Joraga [45][] - Wis+2 Dex+1. Slightly wiser wood elves
 - Elf, Mul Daya [45][] - Wis+2 Cha+1. Strong spirit-revering elves
 - Elf, Tajuru [45][] - Wis+2 Cha+1. Versatile elves
 - Elf, Vahadar [42][] - Dex+2 Wis+1. Elves with druid cantrip
+- Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
+- Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
 - Goblin [45][] - Con+2. Small chaotic creatures
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
@@ -423,6 +426,7 @@ standard race are not listed.
 46. [Plane Shift: Innistrad][46]
 47. [Greyhawk Initiative][47]
 48. [Three-Pillar Experience][48]
+49. [Eladrin and Gith][49]
 
 [1]:  http://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -472,3 +476,4 @@ standard race are not listed.
 [46]: https://d1bf78c87087c77d76ca-be4120a00702a7d33079a120750230c5.ssl.cf1.rackcdn.com/Plane%20Shift%20Innistrad%20SFG_2.pdf "Plane Shift: Innistrad"
 [47]: https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf "Greyhawk Initiative"
 [48]: https://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf "Three-Pillar Experience"
+[49]: https://media.wizards.com/2017/dnd/downloads/UA-Eladrin-Gith.pdf "Eladrin and Gith"
