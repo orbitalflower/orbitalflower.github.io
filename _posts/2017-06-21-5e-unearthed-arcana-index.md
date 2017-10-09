@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-09-11
+updated: 2017-10-09
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2017-09-11
+2017-10-09
 </b>
 
 1. Table of Contents
@@ -22,7 +22,7 @@ This index last updated: <b>
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -79,10 +79,18 @@ standard race are not listed.
 - Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
 - Minotaur, from Amonkhet [44][] - Str+2 Con+1. Horned, warlike
 - Minotaur, from Krynn [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
-- Naga [44][] - Con+2 Int+1.  Snake people with a poison bite
+- Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][] - Dex+2 or Dex+1 Str+1/Con+1/Wis+1. Descendants of lycanthropes
-- Tiefling, abyssal subrace [12][] - Cha+2 Con+1. Tough, with random spells
+- Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
+- Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
+- Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
+- Tiefling, Fierna [50][] - Cha +2 Wis+1. Alternate spells
+- Tiefling, Glasya [50][] - Cha +2 Dex+1. Alternate spells
+- Tiefling, Levistus [50][] - Cha +2 Con+1. Alternate spells
+- Tiefling, Mammon [50][] - Cha +2 Int+1. Alternate spells
+- Tiefling, Mephistopheles [50][] - Cha +2 Int+1. Alternate spells
+- Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
 - Vampire [45][] - Cha+2 Int+1. Undead with drain touch
 - Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
 - Warforged [2][] - Str+1 Con+1. Mechanical constructs built for war
@@ -361,6 +369,7 @@ standard race are not listed.
 - Custom alignments [6][]
 - Downtime (craft/buy/sell item, train, etc) [38][]
 - Dragonmarks [2][]
+- Demonic boons and diabolical cults [50][]
 - Druid wild shape forms [24][]
 - Encounter building [20][]
 - Firearm proficiency [1][]
@@ -427,8 +436,9 @@ standard race are not listed.
 47. [Greyhawk Initiative][47]
 48. [Three-Pillar Experience][48]
 49. [Eladrin and Gith][49]
+50. [Fiendish Options][50]
 
-[1]:  http://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
+[1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
 [3]:  https://media.wizards.com/2015/downloads/dnd/UA_Battlesystem.pdf "When Armies Clash"
 [4]:  https://media.wizards.com/2015/downloads/dnd/UA3_ClassDesignVariants.pdf "Modifying Classes"
@@ -470,10 +480,11 @@ standard race are not listed.
 [40]: https://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf "Feats for Races"
 [41]: https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf "Revised Subclasses"
 [42]: https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf "Plane Shift: Kaladesh"
-[43]: http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf "Revised Class Options"
+[43]: https://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf "Revised Class Options"
 [44]: https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf "Plane Shift: Amonkhet"
 [45]: https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf "Plane Shift: Zendikar"
 [46]: https://d1bf78c87087c77d76ca-be4120a00702a7d33079a120750230c5.ssl.cf1.rackcdn.com/Plane%20Shift%20Innistrad%20SFG_2.pdf "Plane Shift: Innistrad"
 [47]: https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf "Greyhawk Initiative"
 [48]: https://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf "Three-Pillar Experience"
 [49]: https://media.wizards.com/2017/dnd/downloads/UA-Eladrin-Gith.pdf "Eladrin and Gith"
+[50]: https://media.wizards.com/2017/dnd/downloads/UA_FiendishOptions.pdf "Fiendish Options"
