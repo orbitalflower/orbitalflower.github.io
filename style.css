@@ -71,7 +71,7 @@ body {
   line-height: 1.5em;
 }
 
-#nav li a:active; #nav li a:hover {
+#nav li a:active, #nav li a:hover {
   border-style: inset;
   color: #cca9dc;
 }
