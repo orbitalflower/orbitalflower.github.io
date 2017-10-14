@@ -5,6 +5,11 @@ body {
   background: gainsboro;
 }
 
+#container {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
 #header {
   background: indigo;
   color: white;
@@ -13,8 +18,8 @@ body {
 }
 
 #header h1 {
-  height: 2em;
-  line-height: 2em;
+  height: 1em;
+  line-height: 1em;
   font-size: 1.8em;
   font-weight: normal;
   font-family: sans-serif;
@@ -27,38 +32,43 @@ body {
 }
 
 #nav {
-  position: absolute;
-  top: 6em;
-  left: 0;
-  width: 160px;
+  background: indigo;
   overflow: hidden;
 }
 
-#nav ul, #nav li {
-  list-style: none;
-  margin-left: 0;
-  padding-left: 0;
-  margin-bottom: 1em;
+#nav ul {
+  list-style: none; 
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  
+  overflow: hidden;
+}
+
+#nav h2 {
+  display: none;
+}
+
+#nav li {
+  float: left;
+  width: 20%;
+  min-width: 100px;
+  text-align: center;
 }
 
 #nav li a {
-  color: indigo;
+  display: block;
+  background: indigo;
+  color: white;
+  border: 2px outset indigo;  
   text-decoration: none;
-}
-
-#nav ul, #nav h2 {
   font-family: sans-serif;
-  font-size: 0.875em;
-  line-height: 1em;
-  color: darkgray;
-
-  padding-left: 1em;
+  font-size: 1em;
+  line-height: 1.5em;
 }
 
 #content {
-  margin-left: 160px;
-
-  padding: 1em;
+  padding: 1em 2em;
 
   font-family: sans-serif;
 
@@ -150,7 +160,7 @@ body {
   font-weight: bold;
 }
 
-#content a {
+#content a, #footer a {
   color: #000088;
 }
 
@@ -206,10 +216,9 @@ code {
 
 
 #footer {
-  margin-bottom: 6em;
-  margin-left: 160px;
+  margin-bottom: 4em;
 
-  padding: 1em;
+  padding: 2em;
   font-family: sans-serif;
 }
 
