@@ -251,7 +251,7 @@ Monte Cook's general articles.
 ### Game design and writing
 
 > Work extra hard on the beginning of your story. If the story doesn't get good until page 3, no one will ever get to page 3.
-> -- [And I Want to Be a Paperback Writer...](https://web.archive.org/web/20071017064340/http://montecook.com/arch_lineos14.html)
+> --- [And I Want to Be a Paperback Writer...](https://web.archive.org/web/20071017064340/http://montecook.com/arch_lineos14.html)
 
 > Avoid reader services, rewriters, ghostwriters, or anything with a fee. These are often scams.
 >
