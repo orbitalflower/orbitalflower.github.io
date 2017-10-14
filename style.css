@@ -150,6 +150,19 @@ body {
   font-weight: bold;
 }
 
+#content a {
+  color: #000044;
+}
+
+#content a[href^="http://"]{
+  color: #000022;
+}
+
+#content a:visited,
+#content a[href^="http://"]:visited{
+  color: #440044;
+}
+
 code {
   font-size: 1.2em;
 }
