@@ -74,6 +74,7 @@ body {
 
   background: #fff;
   border-left: 1px solid dimgray;
+  border-right: 1px solid dimgray;
   border-bottom: 1px solid dimgray;
 }
 
@@ -216,7 +217,7 @@ code {
 
 
 #footer {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 
   padding: 2em;
   font-family: sans-serif;
