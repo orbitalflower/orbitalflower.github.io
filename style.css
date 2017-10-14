@@ -151,16 +151,16 @@ body {
 }
 
 #content a {
-  color: #000044;
+  color: #000088;
 }
 
 #content a[href^="http://"]{
-  color: #000022;
+  color: #000044;
 }
 
 #content a:visited,
 #content a[href^="http://"]:visited{
-  color: #440044;
+  color: #880088;
 }
 
 code {
