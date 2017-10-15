@@ -119,6 +119,7 @@ tasted, and there's no reason why the chef would know you've done this.
 [^1]:
     [Bestiary](https://www.suikosource.com/games/gs1/guides/bestiary.php),
     Suikosource.
+
 [^2]:
     [Antiques](https://www.suikosource.com/games/gs1/guides/antiques.php),
     Suikosource.
