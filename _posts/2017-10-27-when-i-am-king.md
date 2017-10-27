@@ -1,5 +1,6 @@
 ---
 title: "When I am king of the world"
+categories: misc funny
 ---
 
 When I am ruler, the following changes will be made for the betterment of
