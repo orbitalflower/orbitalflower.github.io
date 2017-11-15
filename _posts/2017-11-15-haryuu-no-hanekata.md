@@ -132,20 +132,20 @@ in Japanese features its own set of misheard lyrics:
 - __Japanese__: 塩酸、シメジ、ひらめ、出目金
 - __Translation__: Hydrochloric acid, shimeji mushroom, flounder, telescope eye
   goldfish
-
+^
 - __Original__: Sephiroth!
 - __Japanese__: 田代！
 - __Translation__: Tashiro!
-
+^
 - __Original__: Sors imanis et inanis
 - __Japanese__: 大きなリス、元気なリス、そうシマリス、便秘なリス
 - __Translation__: Big squirrel, healthy squirrel, yeah it's a chipmunk,
   constipated squirrel
-
+^
 - __Original__: Veni, veni, venias, ne me mori facias
 - __Japanese__: 下痢下痢下痢出す、出ねぇよりマシだ
 - __Translation__: Diarrhea, diarrhea, diarrhea, it's really coming out
-
+^
 - __Original__: Gloriosa, generosa
 - __Japanese__: トイレの中から
 - __Translation__: From the toilet
