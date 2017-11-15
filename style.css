@@ -230,6 +230,8 @@ code {
 
   padding: 2em;
   font-family: sans-serif;
+
+  overflow: hidden;
 }
 
 #footer p, #footer li {
@@ -237,4 +239,15 @@ code {
   line-height: 160%;
   margin: 0.5em 0;
   padding: 0;
+}
+
+.hitcounter {
+  display: block;
+  float: right;
+}
+
+/* accessibility */
+
+img:not([alt]) {
+  border: 1px dashed #c00;
 }

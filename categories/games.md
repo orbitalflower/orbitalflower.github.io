@@ -4,10 +4,14 @@ layout: category
 permalink: "/games/"
 redirect_from:
   - /game/index.html
+  - /games/ff/index.html
   - /games/mgs/index.html
   - /games/suikoden/index.html
 category: games
 subcategories:
+  -
+    slug: ff
+    title: "Final Fantasy"
   -
     slug: mgs
     title: "Metal Gear Solid"
