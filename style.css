@@ -11,7 +11,8 @@ body {
 }
 
 #header {
-  background: indigo;
+  background: indigo url(/img/orbital-64px.png) 16px no-repeat;
+  height: 64px;
   color: white;
   overflow: hidden;
   padding-left: 1em;
@@ -23,6 +24,7 @@ body {
   font-size: 1.8em;
   font-weight: normal;
   font-family: sans-serif;
+  padding-left: 96px;
 }
 
 #header a {
