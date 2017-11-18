@@ -1,6 +1,8 @@
 ---
 title: "When I am king of the world"
-categories: misc funny
+categories: etc fun
+redirect-from: /misc/funny/when-i-am-king.html
+updated: 2017-11-18
 ---
 
 When I am ruler, the following changes will be made for the betterment of
@@ -72,3 +74,35 @@ society.
     will look cooler.
 35. For future generations, the secrets of writing on clay tablets will,
     themselves, be stored on clay tablets.
+36. Leaving a shop without buying something will be illegal. Shops will sell
+    inexpensive goods to account for this.
+37. As a corollary, shoving people into expensive shops will be illegal.
+38. It will be illegal to employ a retail worker while they have a cold.
+39. Signmakers will be required to hire a proofreader.
+40. A study will be funded to determine whether "deceptively easy" means "hard,
+    but looks easy" or "easy, but looks hard".
+41. All women's clothes will be required to contain pockets.
+42. Video games will not be allowed to call their game "New (original title)".
+    It won't make any sense when New Super Mario Bros is old.
+43. Similarly, sequels will not be permitted to start their number count over.
+    It will confuse historians that Battlefield 1 was newer than Battlefield 2,
+    and that Doom (2016) was newer than Doom II (1994).
+44. No game with "Steam" in the name will be allowed to sell on Steam. This is a
+    blatant trick to catch people typing Steam into Steam for funsies.
+45. People's cars will be secretly swapped for electric cars in the middle of
+    the night. All gas stations will be retrofitted prior to this to work with
+    electrics.
+46. Shoe sizes will be abolished and replaced with a measurement of your foot
+    length in centimetres.
+47. To encourage gaming, any outlet which sells sugary drinks must also sell
+    dice.
+48. One serving size will be measured by leaving a packet of the product in a
+    room and watching how much a test subject eats in an hour.
+49. To improve social order, funding will be made available to promote rap music
+    about positive activities like cleaning up litter.
+50. Richard Stallman will get his own TV show.
+
+## Updates
+
+- __2017-10-27__: Added 1-35.
+- __2017-11-18__; Added 36-50.
