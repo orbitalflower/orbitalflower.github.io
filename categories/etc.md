@@ -4,6 +4,7 @@ layout: category
 permalink: "/etc/"
 redirect_from:
   - /misc/index.html
+  - /misc/funny/index.html
   - /etc/fun/index.html
   - /etc/meta/index.html
   - /etc/misc/index.html
