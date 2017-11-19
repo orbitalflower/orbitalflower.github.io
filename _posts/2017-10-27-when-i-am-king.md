@@ -1,7 +1,8 @@
 ---
 title: "When I am king of the world"
+redirect-from:
+ - /misc/funny/when-i-am-king.html
 categories: etc fun
-redirect-from: "/misc/funny/when-i-am-king.html"
 updated: 2017-11-18
 ---
 
