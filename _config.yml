@@ -3,7 +3,7 @@ description: "orbitalflower"
 
 permalink: none
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate
