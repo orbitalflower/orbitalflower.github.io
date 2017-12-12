@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-11-14
+updated: 2017-12-12
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2017-11-14
+2017-12-12
 </b>
 
 1. Table of Contents
@@ -49,14 +49,15 @@ This index last updated: <b>
 
 ## Content index by type
 
-Note: In some cases, an article prints a revised version of existing content. In
-that case, both entries are included for completeness, but the later version
-should supercede the earlier. In cases where a new item is nearly identical to
-an old item but with a different name, it is assumed to be the same item; the
-old name is listed after the new name. Race variants with identical stats to a
-standard race are not listed.
+In cases where a revised version appears in a later article or book, the newest
+version is recommended, but for completeness all are listed in order. Where an
+item has changed name, its alternate name appears in parentheses. Items marked
+"XGtE" appear in final release form in Xanathar's Guide to Everything.
 
 ### New races and subraces
+
+Race variants with identical stats to a standard race are not listed.
+
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
@@ -102,37 +103,37 @@ standard race are not listed.
 ### Class archetypes
 
 #### Barbarian paths
-- Path of the Ancestral Guardian [21][], [41][]
-- Path of the Storm Herald [21][]
-- Path of the Zealot [21][]
+- Path of the Ancestral Guardian [21][], [41][], XGtE
+- Path of the Storm Herald [21][], XGtE
+- Path of the Zealot [21][], XGtE
 
 #### Bard colleges
-- College of Glamour [22][]
+- College of Glamour [22][], XGtE
 - College of Satire [13][]
-- College of Swords [13][], [41][]
-- College of Whispers [22][]
+- College of Swords [13][], [41][], XGtE
+- College of Whispers [22][], XGtE
 
 #### Cleric domains
 - Ambition [44][]
 - City [8][]
-- Forge [23][]
-- Grave [23][]
+- Forge [23][], XGtE
+- Grave [23][], XGtE
 - Protection [23][]
 - Solidarity [44][]
 - Strength [44][]
 - Zeal [44][]
 
 #### Druid circles
-- Circle of Dreams [24][]
-- Circle of the Shepherd [24][], [43][]
+- Circle of Dreams [24][], XGtE
+- Circle of the Shepherd [24][], [43][], XGtE
 - Circle of Twilight [24][]
 
 #### Fighter archetypes
-- Arcane Archer [25][], [41][]
-- Cavalier [13][], [43][]
+- Arcane Archer [25][], [41][], XGtE
+- Cavalier [13][], [43][], XGtE
 - Knight [25][]
 - Monster Hunter [15][]
-- Samurai [25][]
+- Samurai [25][], XGtE
 - Scout [13][]
 - Sharpshooter [25][]
 
@@ -143,43 +144,43 @@ standard race are not listed.
 
 #### Monk traditions
 - Way of Tranquility [26][]
-- Way of the Drunken Master [36][]
-- Way of the Kensei [26][], [41][]
+- Way of the Drunken Master [36][], XGtE
+- Way of the Kensei [26][], [41][], XGtE
 
 #### Paladin oaths
-- Oath of Conquest [27][], [43][]
-- Oath of Redemption [36][]
+- Oath of Conquest [27][], [43][], XGtE
+- Oath of Redemption [36][], XGtE
 - Oath of Treachery [27][]
 
 #### Ranger archetypes
 - Beast [19][]
-- Deep Stalker [11][],  [19][]
+- Deep Stalker (Gloom Stalker) [11][], [19][], XGtE
 - Guardian [9][]
-- Horizon Walker [29][]
+- Horizon Walker [29][], XGtE
 - Hunter [19][]
-- Monster Slayer [36][]
+- Monster Slayer [36][], XGtE
 - Primeval Guardian [29][]
 - Seeker [9][]
 - Stalker [9][]
 
 #### Rogue archetypes
-- Inquisitive [15][]
-- Swashbuckler [5][]
+- Inquisitive [15][], XGtE
+- Scout [29][], XGtE
+- Swashbuckler [5][], XGtE
 
 #### Sorcerous origins
-- Favored Soul [4][], [30][], [41][]
+- Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Phoenix Sorcery [30][]
 - Pyromancer [42][]
-- Scout [29][]
 - Sea Sorcery [30][]
-- Shadow [11][]
+- Shadow (Shadow Magic) [11][], XGtE
 - Stone Sorcery [30][]
-- Storm [5][]
+- Storm (Storm Sorcery) [5][], XGtE
 
 #### Warlock patrons
 - Ghost in the Machine [8][]
-- The Celestial (The Undying Light) [11][], [43][]
-- The Hexblade [31][]
+- The Celestial (The Undying Light) [11][], [43][], XGtE
+- The Hexblade [31][], XGtE
 - The Raven Queen [31][]
 - The Seeker [18][]
 
@@ -188,7 +189,7 @@ standard race are not listed.
 - Loremaster [31][]
 - Technomancy [8][]
 - Theurgy [18][], [35][]
-- War Magic [35][]
+- War Magic [35][], XGtE
 
 ### New classes and variant classes
 - Artificer [28][]
@@ -200,16 +201,16 @@ standard race are not listed.
 ### Spells
 
 #### Cantrips
-- Hand of Radiance (Clr) [37][]
-- Infestation (Drd/Sor/War/Wiz) [37][]
+- Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
+- Infestation (Drd/Sor/War/Wiz) [37][], XGtE
 - On/Off (Sor/War/Wiz) [8][]
-- Primal Savagery (Drd) [37][]
-- Toll the Dead (Clr/Wiz) [37][]
+- Primal Savagery (Drd) [37][], XGtE
+- Toll the Dead (Clr/Wiz) [37][], XGtE
 - Virtue (Clr) [37][]
 
 #### Level 1
-- Cause Fear (War/Wiz) [37][]
-- Ceremony (Clr/Pal) [37][]
+- Cause Fear (War/Wiz) [37][], XGtE
+- Ceremony (Clr/Pal) [37][], XGtE
 - Chaos Bolt (Sor) [37][]
 - Guiding Hand (Brd/Clr/Drd/Wiz) [37][]
 - Healing Elixir (War/Wiz) [37][]
@@ -217,11 +218,11 @@ standard race are not listed.
 - Puppet (Brd/War/Wiz) [37][]
 - Remote Access (Sor/War/Wiz) [8][]
 - Sense Emotion (Brd/War/Wiz) [37][]
-- Snare (Drd/Rgr/Wiz) [37][]
+- Snare (Drd/Rgr/Wiz) [37][], XGtE
 - Sudden Awakaneing (Brd/Rgr/Sor/Wiz) [37][]
 - Unearthly Chorus (Brd) [37][]
 - Wild Cunning (Drd/Rgr) [37][]
-- Zephyr Strike (Rgr) [37][]
+- Zephyr Strike (Rgr) [37][], XGtE
 
 #### Level 2
 - Arcane Hacking (Sor/War/Wiz)[8][]
@@ -229,28 +230,28 @@ standard race are not listed.
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
 
 #### Level 3
-- Conjure Lesser Demon (Sor/Wiz) [12][]
+- Conjure Lesser Demon (Summon Lesser Demons) (Sor/Wiz) [12][], XGtE
 - Haywire (Sor/War/Wiz) [8][]
 - Invisibility to Cameras (Sor/War/Wiz) [8][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
 
 #### Level 4
-- Conjure Barlgura (Sor/Wiz) [12][]
+- Conjure Barlgura (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Conjure Knowbot (Sor/War/Wiz) [8][]
-- Conjure Shadow Demon (Sor/Wiz) [12][]
+- Conjure Shadow Demon (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Synchronicity (Sor/War/Wiz) [8][]
 - System Backdoor (Sor/War/Wiz) [8][]
 
 #### Level 5
 - Commune with City (Sor/War/Wiz) [8][]
-- Conjure Vrock (Sor/Wiz) [12][]
+- Conjure Vrock (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
 - Shutdown (Sor/War/Wiz) [8][]
 
 #### Level 6
 - none
 
 #### Level 7
-- Conjure Hezrou (Sor/Wiz) [12][]
+- Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
 
 #### Level 8
 - none
@@ -301,47 +302,47 @@ standard race are not listed.
 - Burglar [16][]
 - Critter Friend (forest gnome) [40][]
 - Diplomat [39][]
-- Dragon Fear (dragonborn) [40][]
-- Dragon Hide (dragonborn) [40][]
+- Dragon Fear (dragonborn) [40][], XGtE
+- Dragon Hide (dragonborn) [40][], XGtE
 - Dragon Wings (dragonborn) [40][]
 - Dragonmark [2][]
-- Drow High Magic (drow) [40][]
-- Dwarf Resilience (dwarf) [40][]
-- Elven Accuracy (elf/half-elf) [40][]
+- Drow High Magic (drow) [40][], XGtE
+- Dwarf Resilience (Dwarven Fortitude) (dwarf) [40][], XGtE
+- Elven Accuracy (elf/half-elf) [40][], XGtE
 - Empathic [39][]
 - Everybody's Friend (half-elf) [40][]
-- Fade Away (gnome) [40][]
+- Fade Away (gnome) [40][], XGtE
 - Fell Handed [16][]
-- Fey Teleportation (high elf) [40][]
+- Fey Teleportation (high elf) [40][], XGtE
 - Flail Mastery [16][]
-- Flames of Phlegethos (tiefling) [40][]
+- Flames of Phlegethos (tiefling) [40][], XGtE
 - Gourmand [16][]
 - Grudge-Bearer (dwarf) [40][]
 - Historian [39][]
 - Human Determination (human) [40][]
-- Infernal Constitution (tiefling) [40][]
+- Infernal Constitution (tiefling) [40][], XGtE
 - Investigator [39][]
 - Master of Disguise [16][]
 - Medic [39][]
 - Menacing [39][]
 - Naturalist [39][]
 - Orcish Aggression (half-orc) [40][]
-- Orcish Fury (half-orc) [40][]
+- Orcish Fury (half-orc) [40][], XGtE
 - Perceptive [39][]
 - Performer [39][]
-- Prodigy (human/half-elf) [40][]
+- Prodigy (human/half-elf/half-orc) [40][], XGtE
 - Quick-Fingered [39][]
 - Quicksmithing [42][]
-- Second Chance (halfling) [40][]
+- Second Chance (halfling) [40][], XGtE
 - Servo Crafting [42][]
 - Silver-Tongued [39][]
 - Spear Mastery [16][]
-- Squat Nimbleness (dwarf/gnome/halfling) [40][]
+- Squat Nimbleness (dwarf/gnome/halfling/any Small) [40][], XGtE
 - Stealthy [39][]
 - Survivalist [39][]
 - Theologian [39][]
 - Wonder Maker (rock gnome) [40][]
-- Wood Elf Magic (wood elf) [40][]
+- Wood Elf Magic (wood elf) [40][], XGtE
 
 ### Backgrounds
 
@@ -371,11 +372,11 @@ standard race are not listed.
 - Army-scale mass combat [3][], [32][]
 - Creating new class options [4][]
 - Custom alignments [6][]
-- Downtime (craft/buy/sell item, train, etc) [38][]
+- Downtime (craft/buy/sell item, train, etc) [38][], XGtE
 - Dragonmarks [2][]
 - Demonic boons and diabolical cults [50][]
 - Druid wild shape forms [24][]
-- Encounter building [20][]
+- Encounter building [20][], XGtE
 - Firearm proficiency [1][]
 - Hacking tools [8][]
 - Initiative variant [47][]
@@ -385,7 +386,7 @@ standard race are not listed.
 - Prestige classes [10][]
 - Quick characters [17][]
 - Rune magic [10][]
-- Traps [33][]
+- Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
 
@@ -442,6 +443,7 @@ standard race are not listed.
 49. [Eladrin and Gith][49]
 50. [Fiendish Options][50]
 51. [Elf Subraces][51]
+52. [Xanathar's Guide to Everything][52] (print book)
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -494,3 +496,4 @@ standard race are not listed.
 [49]: https://media.wizards.com/2017/dnd/downloads/UA-Eladrin-Gith.pdf "Eladrin and Gith"
 [50]: https://media.wizards.com/2017/dnd/downloads/UA_FiendishOptions.pdf "Fiendish Options"
 [51]: https://media.wizards.com/2017/dnd/downloads/UA-ElfSubraces.pdf "Elf Subraces"
+[52]: https://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything "Xanathar's Guide to Everything"
