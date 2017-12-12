@@ -1,7 +1,7 @@
 ---
 title: Data's password
 categories: tv startrek
-redirect-from: /2015-05-22-how-strong-is-datas-password.html
+redirect_from: /2015-05-22-how-strong-is-datas-password.html
 ---
 
 There's an episode of Star Trek: The Next Generation where Data impersonates

@@ -1,7 +1,7 @@
 ---
 title: Metal Gear deep lore
 categories: games mgs
-redirect-from: /games/metal-gear-deep-lore.html
+redirect_from: /games/metal-gear-deep-lore.html
 ---
 
 Considerable spoilers follow for most of the Metal Gear series.
