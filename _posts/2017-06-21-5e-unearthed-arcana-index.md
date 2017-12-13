@@ -261,33 +261,31 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Invocations
 - Arcane Gunslinger [8][]
-- Aspect of the Moon [31][], [43][]
+- Aspect of the Moon [31][], [43][], XGtE
 - Burning Hex [31][]
 - Caiphon's Beacon [31][]
 - Chilling Hex [31][]
 - Chronicle of the Raven Queen [31][]
 - Claw of Acamar [31][]
-- Cloak of Flies (Cloak of Baalzebul) [31][], [43][]
+- Cloak of Flies (Cloak of Baalzebul) [31][], [43][], XGtE
 - Curse Bringer [31][]
-- Eldritch Smite (Mace of Dispater) [31][], [43][]
-- Frost Lance [31][], [43][]
-- Ghostly Gaze (Gaze of Khirad) [31][], [43][]
-- Gift of the Depths [43][]
-- Gift of the Ever-Living Ones [43][]
-- Grasp of Hadar [31][], [43][]
-- Green Lord's Gift [31][]
-- Improved Pact Weapon [31][], [43][]
+- Eldritch Smite (Mace of Dispater) [31][], [43][], XGtE
+- Frost Lance (Lance of Lethargy) [31][], [43][], XGtE
+- Ghostly Gaze (Gaze of Khirad) [31][], [43][], XGtE
+- Gift of the Depths (Sea Twins' Gift) [31][], [43][], XGtE
+- Gift of the Ever-Living Ones (Green Lord's Gift) [31][], [43][], XGtE
+- Grasp of Hadar [31][], [43][], XGtE
+- Improved Pact Weapon [31][], [43][], XGtE
 - Kiss of Mephistopheles [31][], [43][]
-- Maddening Hex [43][]
+- Maddening Hex [43][], XGtE
 - Moon Bow [31][]
 - Raven Queen's Blessing [31][]
-- Relentless Hex [31][], [43][]
-- Sea Twins' Gift [31][]
+- Relentless Hex [31][], [43][], XGtE
 - Seeker's Speech [31][]
-- Shroud of Shadow (Shroud of Ulban) [31][], [43][]
+- Shroud of Shadow (Shroud of Ulban) [31][], [43][], XGtE
 - Superior Pact Weapon [31][]
-- Tomb of Levistus [31][], [43][]
-- Trickster's Escape (Path of the Seeker) [31][], [43][]
+- Tomb of Levistus [31][], [43][], XGtE
+- Trickster's Escape (Path of the Seeker) [31][], [43][], XGtE
 - Ultimate Pact Weapon [31][]
 
 ### Feats
