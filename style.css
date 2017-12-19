@@ -148,6 +148,12 @@ body {
   padding: 0;
 }
 
+#content blockquote {
+  border-left: 0.4em solid gainsboro;
+  padding-left: 1em;
+  margin-left: 1em;
+}
+
 #content li {
   margin: 0;
 }
