@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2017-12-12
+updated: 2018-01-08
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2017-12-12
+2018-01-08
 </b>
 
 1. Table of Contents
@@ -17,12 +17,12 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][]
+- Feats [2][], [16][], [39][], [42][], [53][]
 - Downtime rules [38][]
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -35,17 +35,17 @@ This index last updated: <b>
 
 ### For characters of a certain class
 - Barbarian [21][], [41][]
-- Bard [13][], [22][], [41][]
+- Bard [13][], [22][], [41][], [53][]
 - Cleric [8][], [23][], [37][], [44][]
-- Druid [24][], [37][], [43][]
-- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][]
+- Druid [24][], [37][], [43][], [53][], [54][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
 - Monk [26][], [36][], [41][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
 - Rogue [5][], [15][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][]
 
 ## Content index by type
 
@@ -58,6 +58,7 @@ item has changed name, its alternate name appears in parentheses. Items marked
 
 Race variants with identical stats to a standard race are not listed.
 
+- Aarakocra [53][] - Dex+2 Wis+1. Winged people
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
@@ -71,9 +72,15 @@ Race variants with identical stats to a standard race are not listed.
 - Elf, Shadar-kai [51][] - Dex+2 Cha+1. Shadow elves
 - Elf, Tajuru [45][] - Wis+2 Cha+1. Versatile elves
 - Elf, Vahadar [42][] - Dex+2 Wis+1. Elves with druid cantrip
+- Genasi, Air [53][] - Con+2 Air+1. People of wind
+- Genasi, Earth [53][] - Con+2 Str+1. People of stone
+- Genasi, Fire [53][] - Con+2 Int+1. People of flame
+- Genasi, Water [53][] - Con+2 Wis+1. People of water
 - Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
 - Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
+- Gnome, Deep [53][] - Int+2 Dex+1. Svirneblin, stony underground gnomes
 - Goblin [45][] - Con+2. Small chaotic creatures
+- Goliath [53][] - Str+1 Con+1. Giant mountain people
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
@@ -126,10 +133,12 @@ Race variants with identical stats to a standard race are not listed.
 #### Druid circles
 - Circle of Dreams [24][], XGtE
 - Circle of the Shepherd [24][], [43][], XGtE
+- Circle of Spores [54][]
 - Circle of Twilight [24][]
 
 #### Fighter archetypes
 - Arcane Archer [25][], [41][], XGtE
+- Brute [54][]
 - Cavalier [13][], [43][], XGtE
 - Knight [25][]
 - Monster Hunter [15][]
@@ -187,6 +196,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Wizard traditions
 - Artificer [2][]
 - Loremaster [31][]
+- School of Invention [54][]
 - Technomancy [8][]
 - Theurgy [18][], [35][]
 - War Magic [35][], XGtE
@@ -201,19 +211,31 @@ Race variants with identical stats to a standard race are not listed.
 ### Spells
 
 #### Cantrips
+- Control Flames (Drd/Sor/Wiz) [53][]
+- Create Bonfire (Drd/Sor/War/Wiz) [53][]
+- Frostbite (Drd/Sor/War/Wiz) [53][]
+- Gust (Drd/Sor/Wiz) [53][]
 - Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
 - Infestation (Drd/Sor/War/Wiz) [37][], XGtE
+- Magic Stone (Drd/War) [53][]
+- Mold Earth (Drd/Sor/Wiz) [53][]
 - On/Off (Sor/War/Wiz) [8][]
 - Primal Savagery (Drd) [37][], XGtE
+- Shape Water (Drd/Sor/Wiz) [53][]
+- Thunderclap (Brd/Drd/Sor/War/Wiz) [53][]
 - Toll the Dead (Clr/Wiz) [37][], XGtE
 - Virtue (Clr) [37][]
 
 #### Level 1
+- Absorb Elements (Drd/Rgr/Wiz) [53][]
+- Beast Bond (Drd/Rgr) [53][]
 - Cause Fear (War/Wiz) [37][], XGtE
 - Ceremony (Clr/Pal) [37][], XGtE
 - Chaos Bolt (Sor) [37][]
+- Earth Tremor (Brd/Drd/Sor/Wiz) [53][]
 - Guiding Hand (Brd/Clr/Drd/Wiz) [37][]
 - Healing Elixir (War/Wiz) [37][]
+- Ice Knife (Drd/Sor/Wiz) [53][]
 - Infallible Relay (Sor/War/Wiz) [8][]
 - Puppet (Brd/War/Wiz) [37][]
 - Remote Access (Sor/War/Wiz) [8][]
@@ -225,36 +247,64 @@ Race variants with identical stats to a standard race are not listed.
 - Zephyr Strike (Rgr) [37][], XGtE
 
 #### Level 2
+- Aganazzar's Scorcher (Sor/Wiz) [53][]
 - Arcane Hacking (Sor/War/Wiz)[8][]
 - Digital Phantom (Sor/War/Wiz) [8][]
+- Dust Devil (Drd/Sor/Wiz) [53][]
+- Earthbind (Drd/Sor/War/Wiz) [53][]
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
+- Maximilian's Earthen Grasp (Sor/Wiz) [53][]
+- Pyrotechnics (Brd/Sor/Wiz) [53][]
+- Skywrite (Brd/Drd/Wiz) [53][]
+- Snilloc's Snowball Swarm (Sor/Wiz) [53][]
+- Warding Wind (Brd/Drd/Sor) [53][]
 
 #### Level 3
 - Conjure Lesser Demon (Summon Lesser Demons) (Sor/Wiz) [12][], XGtE
+- Erupting Earth (Drd/Sor/Wiz) [53][]
+- Flame Arrows (Drd/Rgr/Sor/Wiz) [53][]
 - Haywire (Sor/War/Wiz) [8][]
 - Invisibility to Cameras (Sor/War/Wiz) [8][]
+- Melf's Minute Meteors (Sor/Wiz) [53][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
+- Tidal Wave (Drd/Wiz) [53][]
+- Wall of Sand (Wiz) [53][]
+- Wall of Water (Drd/Sor/Wiz) [53][]
 
 #### Level 4
 - Conjure Barlgura (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Conjure Knowbot (Sor/War/Wiz) [8][]
 - Conjure Shadow Demon (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
+- Elemental Bane (Drd/War/Wiz) [53][]
+- Storm Sphere (Sor/Wiz) [53][]
 - Synchronicity (Sor/War/Wiz) [8][]
 - System Backdoor (Sor/War/Wiz) [8][]
+- Vitriolic Sphere (Sor/Wiz) [53][]
+- Watery Sphere (Drd/Sor/Wiz) [53][]
 
 #### Level 5
 - Commune with City (Sor/War/Wiz) [8][]
 - Conjure Vrock (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
+- Control Winds (Drd/Sor/Wiz) [53][]
+- Immolation (Sor/Wiz) [53][]
+- Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
+- Transmute Rock (Drd/Wiz) [53][]
 
 #### Level 6
-- none
+- Bones of Earth (Drd) [53][]
+- Investiture of Flame (Drd/Sor/War/Wiz) [53][]
+- Investiture of Ice (Drd/Sor/War/Wiz) [53][]
+- Investiture of Stone (Drd/Sor/War/Wiz) [53][]
+- Investiture of Wind (Drd/Sor/War/Wiz) [53][]
+- Primordial Ward (Drd) [53][]
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
+- Whirlwind (Drd/Wiz) [53][]
 
 #### Level 8
-- none
+- Abi-Dalzim's Horrid Wilding (Sor/Wiz) [53][]
 
 #### Level 9
 - none
@@ -338,6 +388,7 @@ Race variants with identical stats to a standard race are not listed.
 - Squat Nimbleness (dwarf/gnome/halfling/any Small) [40][], XGtE
 - Stealthy [39][]
 - Survivalist [39][]
+- Svirfneblin Magic (deep gnome) [53][]
 - Theologian [39][]
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][], XGtE
@@ -442,6 +493,8 @@ Race variants with identical stats to a standard race are not listed.
 50. [Fiendish Options][50]
 51. [Elf Subraces][51]
 52. [Xanathar's Guide to Everything][52] (print book)
+53. [Elemental Evil Player's Companion][53]
+54. [Three Subclasses][54]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -495,3 +548,5 @@ Race variants with identical stats to a standard race are not listed.
 [50]: https://media.wizards.com/2017/dnd/downloads/UA_FiendishOptions.pdf "Fiendish Options"
 [51]: https://media.wizards.com/2017/dnd/downloads/UA-ElfSubraces.pdf "Elf Subraces"
 [52]: https://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything "Xanathar's Guide to Everything"
+[53]: https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf "Elemental Evil Player's Companion"
+[54]: https://media.wizards.com/2018/dnd/downloads/UA-3Subclasses0108.pdf "Three Subclasses"
