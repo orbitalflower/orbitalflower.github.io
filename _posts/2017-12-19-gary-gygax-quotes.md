@@ -1,10 +1,14 @@
 ---
 title: "Gary Gygax quotes"
 categories: rpg people
+updated: 2018-01-08
 ---
 
 The following is a selection of quotes by Gary Gygax, creator of _Dungeons &
 Dragons_.
+
+1. Table of Contents
+{:toc}
 
 ## Philosophy of D&D
 
@@ -72,6 +76,11 @@ Dragons_.
 > course and reaching the untimate conclusion.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 3, 2003
+
+> Those who reject the dungeon crawl are like painters who refuse to use red
+> pigment in their work. This leaves their palette lacking in a primary color.
+>
+> --- Dragon #272, _Hooray for the Dungeon Crawl!_, June 2000
 
 ### Roleplaying vs roll-playing
 
