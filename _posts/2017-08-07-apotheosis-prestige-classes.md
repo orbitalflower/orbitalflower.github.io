@@ -1,6 +1,7 @@
 ---
 title: "Apotheosis prestige classes"
 categories: rpg rules
+updated: 2018-01-18
 ---
 
 In retrospect, one of the weirdest standard D&D third edition rules was the
@@ -19,6 +20,8 @@ ten-level prestige class.
 
 ### Aberration
 
+- Aberrant paragon class (Dragon #332) gains the aberration type at level 3, its
+  final level.
 - Fleshwarper (Lords of Madness) gains the aberration type.
 
 The Alienist is aberration-like, but only gains the Outsider type.
@@ -89,9 +92,13 @@ and ooze is already somewhat covered in the oozemaster prestige class.
 - Spirit Shaman (Complete Divine), a standard class rather than a prestige
   class, gains the fey type at level 20.
 - Swanmay (Book of Exalted Deeds) gains the fey type at 10th level.
+- Tree-Friend (Dragon #307) gains the fey type at level 5 of 5.
 - Wildrunner (Races of the Wild) gains the fey type at level 9 of 10.
 
 ### Giant
+
+- Thrall of Kostchtchie (Dragon #345) gains giant type at level 10, if they were
+  originally humanoid or monstrous humanoid.
 
 Giant is generally unsuitable for player character transformations. It's just a
 really tall humanoid. You would gain reach and not fit into dungeons any more.
@@ -118,6 +125,7 @@ It's difficult to make another prestige class that turns a human into a beast.
 
 ### Monstrous humanoid
 
+<!--
 I'm not aware of any prestige class that transforms someone into a monstrous
 humanoid. This is surprising because it's an entirely plausible transformation;
 monstrous humanoids are still bipedal and able to wear equipment and wield
@@ -130,6 +138,12 @@ The most plausible is something like a minotaur transformation class that would
 probably look a lot like Dragon Disciple, gaining ability score improvements and
 natural weapons over levels. There are also some level progressions in Savage
 Species that cover the harpy, medusa and various hags.
+-->
+
+- Deep Thrall (Dragon #300) turns a character into Monstrous Humanoid
+  with the aquatic subtype at its final level, level 5.
+- Shoal Servant (Dragon #300) turns a character into Monstrous Humanoid
+  with the aquatic subtype at its final level, level 5.
 
 ### Ooze
 
@@ -150,6 +164,9 @@ that just rolls over people and absorbs all their bone.
   essentially a fiend.
 - Alienist ([Tome and Blood][]) gains the outsider type, becoming somewhat a
   pseudonatural creature.
+- Artist's Vengeance (Dragon #307) gains the outsider type at level 5 of 5.
+- Aspirant (Dragon #311), a standard class, gains the outsider type at level 20,
+  as the monk does.
 - Contemplative (Complete Divine) gains outsider type at level 10,
   which given the unusually high prerequisites (Knowledge (religion) 13 ranks)
   will occur at total level 20. This is a particularly good prestige class for
@@ -161,11 +178,14 @@ that just rolls over people and absorbs all their bone.
 - Fatespinner ([Tome and Blood][]) gains the outsider type, but of no particular
   plane. The updated five-level version of Fatespinner printed in Complete
   Arcane no longer gains outsider type.
+- Follower of the Skyserpent (Dragon #307) changes to outsider type at level 5
+  of 5.
 - Incandescent Champion (Magic of Incarnum) gains the outsider type at level 10.
 - Initiate of Pistis Sophia (Book of Exalted Deeds) gains the outsider type at
   level 10.
 - Knight of the Sacred Seal (Tome of Magic) gains the outsider type at level 5,
   its final level.
+- Tiger Mask (Dragon #300) gains the outsider type at level 5, its final level.
 - Troubador of Stars (Book of Exalted Deeds) gains the outsider type at 10th
   level.
 - Yuan-Ti Cultist (Savage Species) gains Outsider type at level 10.
@@ -181,9 +201,14 @@ notable outsider, one of each alignment, and so on.
 - Verdant Lord (Masters of the Wild) gains the plant type. Along with
   Oozemaster, this book has two of the weirdest things anyone would want to
   transform into.
+- Thrall of Zuggtmoy (Dragon #337) is reborn as a fungus at level 10, gaining
+  the plant type.
 
 ### Undead
 
+- Companion of the Dead (Dragon #315) gains the undead type at level 10.
+- Deathwalker (Dragon #312), a standard class, gains the undead type  at level
+  20.
 - Walker in the Waste (Sandstorm) gains the undead type along with the dry lich
   template.
 - Pale Master ([Tome and Blood][]) is an undead apotheosis prestige class,
@@ -222,7 +247,16 @@ option to become.
 
 ### Aquatic
 
+- Darkwater Scion (Dragon #314) gains the aquatic subtype at level 10.
+- Deep Thrall (Dragon #300) turns a character into Monstrous Humanoid
+  with the aquatic subtype at its final level, level 5.
+- Shoal Servant (Dragon #300) turns a character into Monstrous Humanoid
+  with the aquatic subtype at its final level, level 5.
+- Thrall of Dagon (Dragon #349) gains the aquatic subtype at level 10.
+
+<!--
 It's not a prestige class, but Unearthed Arcana has an aquatic racial variant.
+-->
 
 ### Archon
 
@@ -238,6 +272,9 @@ This is applied automatically to a creature who changes type due to a template
 or the like.
 
 ### Chaotic
+
+- The alternate chaos monk standard class (Dragon #335) gains the chaotic
+  subtype at level 20.
 
 Alignment-fixing subtypes are rare.
 
@@ -310,10 +347,14 @@ None.
 
 ### Shapechanger
 
+- Faceless One (Dragon #300) gains the shapechanger subtype at level 5, its
+  final level.
 - Master Transmogrifist (Complete Arcane) gains the Shapechanger subtype at
   level 5. This is rare in that it's granted halfway through the prestige class
   instead of at the end.
 - Primeval (Frostburn) gains the shapechanger subtype at level 10.
+- Shapeshifter (Oriental Adventures, per errata in Dragon #318) gains the
+  shapechanger subtype.
 
 ### Swarm
 
