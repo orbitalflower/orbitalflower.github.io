@@ -142,7 +142,8 @@ body {
 }
 
 #content p, #content li, #content dl, #content table, #content pre {
-  font-size: 0.875em;
+  /*font-size: 0.875em;*/
+  /*font-size: 1em;*/
   line-height: 160%;
   margin: 0.5em 0;
   padding: 0;
