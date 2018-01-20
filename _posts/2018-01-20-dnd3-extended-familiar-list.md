@@ -1,5 +1,5 @@
 ---
-title: "Extended list of familiars in D&D 3e"
+title: "Extended list of familiars in D&D 3.5"
 categories: rpg rules
 ---
 
