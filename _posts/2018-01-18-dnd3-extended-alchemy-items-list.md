@@ -1,5 +1,5 @@
 ---
-title: "List of alchemy items in D&D 3.5"
+title: "Extended list of alchemy items in D&D 3.5"
 categories: rpg rules
 ---
 
