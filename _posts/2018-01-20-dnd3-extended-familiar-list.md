@@ -42,6 +42,7 @@ Groudhog                   | +2 Fort saves        | Dragon #277
 Hare                       | +3 Listen            | Dragon #280
 Hawk                       | +3 Spot (light)      | Player's Handbook 3.5
 Hedgehog<sup>T</sup>       | +1 Natural Armor     | Tome and Blood
+Huitzil                    | +3 Sleight of Hand   | Dragon Magic
 Iguana                     | +3 Climb             | Dragon #341
 Jankx                      | +3 Listen            | Dragon #319/Dungeon #110
 Kes'trekel                 | +2 Fortitude         | Dragon #319/Dungeon #110
@@ -323,6 +324,24 @@ Shadow asp                          | Sor/Wiz 6          | Fiend Folio
 Shadow mastiff                      | Sor/Wiz 14         | Monster Manual
 Sinister bat                        | Sor/Wiz 8          | Monsters of Faerun
 Wraith                              | Sor/Wiz 14         | Monster Manual
+
+The following familiars specifically require the Planar Familiar feat (Planar
+Handbook), even though this feat has essentially the same effect as Improved
+Familiar and nearly every creature on the planar familiar list is already
+available with that feat.
+
+Familiar                    | Alignment         | Level | Source
+----------------------------|-------------------|-------|------------------
+Anarchic animal             | Any chaotic       |   5   | Planar Handbook
+Axiomatic animal            | Any lawful        |   5   | Planar Handbook
+Celestial animal            | Any good          |   3   | Planar Handbook
+Elemental, small (any)      | N                 |   5   | Planar Handbook
+Fiendish animal             | Any evil          |   3   | Planar Handbook
+Imp                         | LE                |   7   | Planar Handbook
+Imp, filth                  | LE                |   7   | Planar Handbook/Fiend Folio
+Lantern archon              | LG                |   7   | Planar Handbook
+Mephit                      | N                 |   7   | Planar Handbook
+Quasit                      | CE                |   7   | Planar Handbook
 
 ## Familiar feats
 
