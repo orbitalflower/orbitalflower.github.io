@@ -371,7 +371,7 @@ The following spells specially affect familiars.
 Spell              | Level     | Benefit                           | Source
 -------------------|-----------|-----------------------------------|----------------
 Call Familiar      | Sor/Wiz 3 | Summon familiar instantly         | Dragon #280
-Enhance Familiar   | Sor/Wiz 3 | Temporarily boosy familiar        | Tome and Blood
+Enhance Familiar   | Sor/Wiz 3 | Temporarily boost familiar        | Tome and Blood
 Familiar Melding   | Sor/Wiz 4 | Possess familiar's body           | Ultimate Magic 
 Familiar Pocket    | Sor/Wiz 1 | Hold familiar in a container      | Tome and Blood
 Familiar's Form    | Sor/Wiz 3 | Possess familiar's body           | Dragon #280
