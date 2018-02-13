@@ -2954,7 +2954,7 @@ More Living Greyhawk news.
 - [A Sudden Turn of Events](http://archive.wizards.com/default.asp?x=lg/lgdc/200700828b) (2007-08-28) 
 - [Backlash](http://archive.wizards.com/default.asp?x=lg/lgdc/20070914a) (2007-09-14) 
 - [End of Days](http://archive.wizards.com/default.asp?x=lg/lgdc/20071016a) (2007-10-16) 
-- [Lost time and Lost Memories](http://archive.wizards.com/default.asp?x=lg/lgdc/20071020a) (2007-11-20) 
+- [Lost time and Lost Memories](http://archive.wizards.com/default.asp?x=lg/lgdc/20071120a) (2007-11-20) 
 
 #### Dispel Confusion
 

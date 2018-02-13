@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-01-08
+updated: 2018-02-13
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-01-08
+2018-02-13
 </b>
 
 1. Table of Contents
@@ -438,6 +438,7 @@ Race variants with identical stats to a standard race are not listed.
 - Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
+- Wilderness travel [55][]
 
 ## Full list of articles
 
@@ -495,6 +496,7 @@ Race variants with identical stats to a standard race are not listed.
 52. [Xanathar's Guide to Everything][52] (print book)
 53. [Elemental Evil Player's Companion][53]
 54. [Three Subclasses][54]
+55. [Into the Wild][55]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -550,3 +552,4 @@ Race variants with identical stats to a standard race are not listed.
 [52]: https://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything "Xanathar's Guide to Everything"
 [53]: https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf "Elemental Evil Player's Companion"
 [54]: https://media.wizards.com/2018/dnd/downloads/UA-3Subclasses0108.pdf "Three Subclasses"
+[55]: https://media.wizards.com/2018/dnd/downloads/UA_IntoTheWild.pdf "Into the Wild"
