@@ -1,6 +1,7 @@
 ---
 title: "Extended list of alchemy items in D&D 3.5"
 categories: rpg rules
+Updated: 2018-03-03
 ---
 
 The following is a list of items which appear in official D&D third edition
@@ -27,6 +28,7 @@ Antitoxin           |  50 gp | 25 | Resist poison                            | P
 Antitoxin capsule   |  15 gp | 20 | Improves saves vs poison                 | Complete Adventurer
 Armor insulation    |  50 gp | 25 | Resist cold weather                      | Frostburn
 Armor soft          |  50 gp | 25 | Soften metal armor to reduce sound       | Dragon #280
+Astral effluvium    | 750 gp | -- | Explodes in the astral plane             | Dungeon #100
 Aura gel            |  25 gp | 20 | Glows in the presence of psionics        | Dragon #358
 Auran mask          |  60 gp | 25 | Resist inhaled toxins                    | Complete Mage
 Bile droppings      |  50 gp | 15 | Grenadelike weapon, acid and stench      | Drow of the Underdark
@@ -51,6 +53,7 @@ Burning dust        |  40 gp | 25 | Sickens enemy                            | D
 Burning dust pot    | 100 gp | 25 | Siege weapon dust pot                    | Dragon #334
 Burrfoot's nut ale  |  20 gp | 20 | Burrfoot's nut brown ale, aid speech     | Dragon #334
 Catstink            |  50 gp | 20 | Hinders tracking by scent                | Complete Adventurer
+Cerebral grist      | 500 gp | -- | Turns corpse into explosive spores       | Dungeon #100
 Cerebral serum      | 150 gp | 30 | Resist psionics                          | Dragon #358
 Charm, anarchic     |  30 gp | 20 | Damage creature vulnerable to law        | Dragon #331
 Charm, axiomatic    |  30 gp | 20 | Damage creature vulnerable to chaos      | Dragon #331
@@ -178,6 +181,7 @@ Miner's milk        |   5 gp | 20 | Resist poison                            | D
 Motelight           |  20 gp | 20 | Sparks hinder concentration              | Arms & Equipment Guide
 Nature's draught    |  50 gp | 25 | Aids handling animals                    | Complete Adventurer
 Nerv                |  25 gp | 25 | Resist fear                              | Complete Scoundrel
+Netherflame         |1800 gp | -- | Dark explosive flames                    | Dungeon #100
 Night eyes          |  25 gp | 25 | Grants low-light vision                  | Dragon #280
 Night venom         | 500 gp | 35 | Poison additive, sleep effect            | Dragon #301
 Nose numb           |  --    | 15 | Removes scent, immune to stench          | Dragon #357
@@ -294,7 +298,7 @@ A frequent error writers made was to forget to include a craft DC.
 In several instances, the same item appears in multiple books.
 
 Alchemy items are generally like weak magic items. They tend to be less than 100
-gp in price, with no item over 1,000 gp. It's awkward that alchemy requires a
+gp in price, almost never over 1,000 gp. It's awkward that alchemy requires a
 skill while magic item creation requires feats, and by the time you can craft
 reliably, the benefit of saving money by making your own alchemy items is
 insignificant.
