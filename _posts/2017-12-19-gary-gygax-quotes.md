@@ -1304,13 +1304,14 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- Dragonfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=250121#p250121), 2005
 
-> How many times have you seen, either as a player or as DM, a player character
-> actually using polearms like the bec de corbin or the guisarme glaive?
+> __Q:__ How many times have you seen, either as a player or as DM, a player
+> character actually using polearms like the bec de corbin or the guisarme
+> glaive?
 >
-> Pole-arms are not meant for PCs. they are meant for men-at-arms, soldiers,
-> humanoids such as orcs, hobgoblins, gnolls, and bugbears. i have had had such
-> NPC figures so armed any number of times--and think of the scenes showing them
-> in Return of the King! 
+> __Gary:__ Pole-arms are not meant for PCs. they are meant for men-at-arms,
+> soldiers, humanoids such as orcs, hobgoblins, gnolls, and bugbears. i have had
+> had such NPC figures so armed any number of times--and think of the scenes
+> showing them in Return of the King! 
 >
 > --- Dragonsfoot, [Q&A With Gary Gygax, Part X](https://www.dragonsfoot.org/forums/viewtopic.php?p=443072#p443072), 2007
 
