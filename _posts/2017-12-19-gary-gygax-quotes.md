@@ -1,7 +1,7 @@
 ---
 title: "Gary Gygax quotes"
 categories: rpg people
-updated: 2018-01-08
+updated: 2018-03-03
 ---
 
 The following is a selection of quotes by Gary Gygax, creator of _Dungeons &
@@ -81,6 +81,14 @@ Dragons_.
 > pigment in their work. This leaves their palette lacking in a primary color.
 >
 > --- Dragon #272, _Hooray for the Dungeon Crawl!_, June 2000
+
+> As for a story, that's an adjunct to the "adventure" the PCs experience. the
+> players and the GM do create something than might be a story dull or exciting,
+> dramatic or comedic....if it were written or told after the fact. that isn't
+> the aim of the game though. An RPG is to enterain and amuse the participants
+> through play.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=204109#p204109), 2005
 
 ### Roleplaying vs roll-playing
 
@@ -242,6 +250,14 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 4, 2003
 
+> _In response to a request to publish his original campaign notes_
+>
+> There is no earthly use to most GMs for reproductions of sloppily hand-drawn
+> maps and one-line encounter notes, other than to say thay have a copy. The
+> heart of all the adventures in those dungeons was improvisation.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VII](https://www.dragonsfoot.org/forums/viewtopic.php?p=343947#p343947), 2006
+
 ### Player/character divide
 
 > Finally, there is no distinction between "having a PC figure something out"
@@ -268,6 +284,18 @@ Dragons_.
 >
 > --- Foreword, _Dungeons & Dragons_, 1973
 
+### Fudging
+
+> If mere chance is the cause of the impending failure, I modify the situation
+> to have the adversarial side be likewise blighted by ill fortune. If I
+> over-powered the NPCs/monsters I do indeed reduce these capacities in some way
+> so as to enable the party to uscceed.
+>
+> In the case of sheer foolish play on the part of the players, I let the chips
+> fall where they may, and if that means new Avatars, that's the breaks
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VI](https://www.dragonsfoot.org/forums/viewtopic.php?p=324540#p324540), 2006
+
 ## The origins of D&D
 
 > __Q:__ What inspired you to create roleplaying?
@@ -284,6 +312,20 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
 
+> We played with my toy soldiers and 54 mm figurines regularly from c. 1950
+> through 1954 but never got a decent set of rules cobbled up back then. Games
+> of this sort sans rules are nothing more nor less that child's play, and I did
+> that since I was about four years of age, and by the time I was 12 found it
+> most unsatisfactory.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part XI](https://www.dragonsfoot.org/forums/viewtopic.php?p=479280#p479280), 2007
+
+> I began playing The Avalon hill Game Company's wargames back with original
+> Gettysburg back in 1958. I have played virtually all of TAHC board wargames
+> produced tereafter through c. 1970.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part XI](https://www.dragonsfoot.org/forums/viewtopic.php?p=508698#p508698), 2008
+
 > We started playing man-to-man games around 1968, with several players on each
 > side and a command figure for each. From there it was a short step to one
 > figure per player. Note that there was still a lot of stress on hiring
@@ -291,12 +333,30 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 7, 2005
 
+> There was no medieval board wargame nor any miniatures game rules for me to
+> reference when I wrote the Chainmail "Man-to-Man" material. I made them up as
+> I went. Of course I had a lot of knowledge of medieval military history,
+> weapons, and armor to draw upon.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part XII](https://www.dragonsfoot.org/forums/viewtopic.php?p=508698#p508698), 2008
+
 > What with command figures and the rules, individual figure play was not
 > startling. When heroes, superheroes, and wizards were considered in the
 > "Fantasy supplement," the concept of a player with but a single figure on the
 > table born.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 9, 2005
+
+> The Chainmail military miniatures rules wree originally four pages to typed
+> rules written by Jeff Perren for the 40 mm Hauser Elastolin figurines he had
+> recently acquired (back in c, 1969). I loved those figurines, enjoyed his
+> rules, so I expanded them into around 16 pages and called the enlarged
+> material the Lake Geneva Tactical Studies Association Medieval Military
+> Miniatures Rules. When Guidon Games wanted to publish rules for that period, I
+> expanded the material by creating the Man-to-Man Rules, Jousting, and Fantasy
+> Supplement sections. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=292808#p292808), 2006
 
 > No game I had played before I devised the Man-to-Man rules for the Chainmail
 > rules book influenced that design. I made it all up off the top of my head,
@@ -376,6 +436,49 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
 
+> Most of the D&D game's inspiration comes from a mix of the ancient
+> (quasi-ancient Hyborea of Howard's Conan) and medieval (and imaginary middle
+> ages fiction), so there's no way I can measure the relative weight of each. I
+> read pretty well equally in both historical periods. The medieval was a less
+> organized and more individualistic period, though, so that's why general
+> technological and socio-cultural assumptions are set in that time...or later.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=163870#p163870), 2005
+
+> I was absolutely certain that the D&D game would be popular and have legs back
+> in 1972 when I completed the initial draft of the rules. That assurance never
+> wavered from then on.
+> 
+> The size of the potential audience was not ascertained by me or anyone else,
+> however. I was thinking of the customer base being military game fans and
+> imaginative literature (SF, fantasy, horror, occult) readers--maybe 100,000
+> persons or so. That's why I was careful to add as much as possible to appeal
+> to the fans of J.R.R.T. so as to broaden the audience base. 
+>
+> ... By the end of 1975 I was very much aware of the broad appeal of the game.
+> The appeal was to almost anyone with an active imagination, as the theme of
+> the game is the heroic quest one of mankind's folklore and legend. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=166223#p166223), 2005
+
+> __Q:__ I was wondering while playing OD&D did you ever use the chainmail
+> combat system instead of the "Alternative Combat System"?
+>
+> __Gary:__ No to the first. When I write the original D&D ms. I wasn't sure how
+> many of the players would be cming directly from CHAINMAIL. when it became
+> apparent that only a small fractin of D&D fans were also miniatures players, I
+> wnet with the system that suited the game. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=199523#p199523), 2005
+
+> As a matter of fact we did dungeon crawls until DM and players alike were sick
+> and tired of them, mainly because the large number of players at each session
+> made almost any other sort of adventure very difficult. As the players dropped
+> out, the adventures shifted to outdoors settings, town adventures, action in a
+> tavern, etc.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VI](https://www.dragonsfoot.org/forums/viewtopic.php?p=327997#p327997), 2006
+
 ## Game mechanics
 
 ### Alignment
@@ -405,6 +508,28 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
 
+> I think my definition of Neutral alignment in the DMG is sufficient, and the
+> neutral isn't a generalist but one who belioeves in the harmony of creation
+> and a balance between all of its forces. It's up to you to rationalize any
+> changes you wish to make in the alignment for your own campaign.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=162162#p162162), 2005
+
+> Simply put, alignments are for the use of the DM in the development of the
+> nations and the peoples that inhabit them, principally the dramatis personae
+> that will interact with the group of player characters. It is meant to serve
+> the DM as a measuring stick against the performance of the PCs in the
+> campaign, after each has elected an alignment as a general template for the
+> ethical and moral views of their game persona. In the same secondary role,
+> they are meant to be useful in regards use of magical spells and magic items
+> that require the imbuing of some spirit (force) in their making.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=182085#p182085), 2005
+
+> All undead are of negative plane energy, and can not be of neutrality.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=193951), 2005
+
 ### Armor class and HP
 
 > While AC increases mainly by the wearing of superior protectionm HPs increase
@@ -412,6 +537,22 @@ Dragons_.
 > increase.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 6, 2004
+
+> Anyway, keep in mind that the OA/D&D systems were never meant to be combat
+> simulators, and all wise DMs ignored the few portions that lead in that
+> direction. Damage and hit points in any game are most probably based on game
+> considerations that have nothing to do with actual human or animal frailties,
+> if you will. A 6" knife will kill a person just as dead as a 6' long
+> two-handed sword, for example.
+>
+> The actual measure of harm inclifted is tissue damage from weapon penetration
+> of flesh, and shock to tissue--as well as vital organ damage and blood loss,
+> of course. In a game, details of such things are pretty well minor
+> considerations, never to be dealt with in any sort of mechanic that is based
+> on actuality, or else the whole reason for the game form, adventure on an
+> onging basis with a heroic game persona, is lost. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=242647#p242647), 2005
 
 ### Campaigns
 
@@ -448,6 +589,12 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
 
+> __Q:__ Would you allow a saving throw for level drain?
+>
+> __Gary:__ Never! Simple as that.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=202484#p202484), 2005
+
 ### Percentile strength
 
 > Adding a d% roll to an 18 Strength roll is hardly complicated. It was done
@@ -461,6 +608,18 @@ Dragons_.
 > in a jiffy. Not elegant at all, and simply foolish ;-)
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
+
+### System shock
+
+> __Q__: Is it intentional in AD&D that the Haste spell (causing magical aging)
+> should require a system shock roll, risking death ?
+>
+> __Gary:__ the system shock check was included so DMs has something to use to
+> prevent abuse of the spell, such as when a PC drank a potion of speed and then
+> had a haste spell cast on him. My players knew better that to try to get cutsy
+> like that when I was the DM.
+>
+> Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=181908#p181908), 2005
 
 ### Vancian spellcasting
 
@@ -492,6 +651,13 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
+### Weapon speed factors
+
+> Forget weapons speed factors. I must have been under the effect of a hex when
+> I included them in the bloody rules.
+>
+> --- Dragonfoot, [Q&A with Gary Gygax, Part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=198346#p198346), 2005
+
 ## Character classes
 
 > In seeking clear class distinctions I did indeed proscribe m-us from the use
@@ -500,16 +666,7 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
 
-> Remember that I modeled the cleric class on Bishop Odo and Friar Tuck...both
-> able combatants ;-) 
->
-> --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
-
-> The Thief was based on Jack of Shadows (Zelazny) and Cugel (Vance) with a
-> touch of REH's Conan, rather than solely on the Gray Mouser. Mouser was too
-> good a swordsman to serve as the pure model.
->
-> --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
+### Bard
 
 > __Q:__ Why did the original bard require Rogue? _[thief]_
 >
@@ -518,40 +675,29 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
 
-> The illusionist sub-class sprang from my reading. So many spellworkers in
-> fable and fiction used only the illusory, not "real magic" that had actual
-> substance and effect, that I thought it would be fun to include such an option
-> in the game.
->
-> --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
-
-> As far as I am concerned, the Paladin is Lawful Good--perior. The class takes
-> vows, swears an oath, and then follows it. The concept is drawn from some
-> legend--Authurian--and some quasi-legend--the paladins of Charlemaine plus the
-> code of chivalry as it was written, more honored in the breach than the
-> keeping.
->
-> --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
-
-> The Ranger class was originally devised by Joe Fischer, then a regular in my
-> D&D game group. I published his initial treatment of the class in The
-> Strategic Review, thereafter revised it and included it in the core game
-> rules. Of course it is apparent that Joe based the class on JRRT's work and
-> Aragorn.
->
-> --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
+### Cavalier
 
 > The cavalier class was created mainly because all noble warriors were not in
 > the same stamp as Sir Galahad and Roland.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 9, 2005
 
-> All of the titles for the Monk Class were taken unabashedly from mah jjong,
-> one of my favorite games. As flowers are honors tiles, delicate and beautiful,
-> I thought it fitted well with an Eastern aesthetic martial artist, the object
-> belying his actual prowess.
+### Cleric
+
+> Remember that I modeled the cleric class on Bishop Odo and Friar Tuck...both
+> able combatants ;-) 
 >
-> --- ENWorld, _Q&A with Gary Gygax_ part 6, 2004
+> --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
+
+> __Q:__ What was your "reasoning" behind a cleric's turning ability, as in how
+> is it able to function?
+>
+> __Gary__: The fokelore example of a vampire being turned by a cleric
+> presenting the cross.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=174465#p174465), 2005
+
+### Druid
 
 > __Q:__ Why do druids use scimitars?
 >
@@ -565,6 +711,68 @@ Dragons_.
 > virtually nothing about either :-o
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 12, 2006
+
+> Dennis [Sustare] sent in the material that was used to make the druid a class
+> rather than a sort of evil human monster as it had been in the OD&D game. The
+> spell in question [Chariot of Sustarre] was ondeed named in his honor. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=182720#p182720), 2005
+
+### Illusionist
+
+> The illusionist sub-class sprang from my reading. So many spellworkers in
+> fable and fiction used only the illusory, not "real magic" that had actual
+> substance and effect, that I thought it would be fun to include such an option
+> in the game.
+>
+> --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
+
+> __Q:__ In your opinion, what literary figures would be the appropriate
+> archetype example for the Illusionist class?
+>
+> __Gary:__ I believe that the best examples of illusion magic are found in L.
+> Sprague de Camp's "Haorld Shea" stories, with various practitioners using it,
+> the Finnish wizards most generally. there are plenty of others found in fairy
+> tales such as those of Andrew Lang.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=161433#p161433), 2008
+
+### Monk
+
+> All of the titles for the Monk Class were taken unabashedly from mah jjong,
+> one of my favorite games. As flowers are honors tiles, delicate and beautiful,
+> I thought it fitted well with an Eastern aesthetic martial artist, the object
+> belying his actual prowess.
+>
+> --- ENWorld, _Q&A with Gary Gygax_ part 6, 2004
+
+### Paladin
+
+> As far as I am concerned, the Paladin is Lawful Good--perior. The class takes
+> vows, swears an oath, and then follows it. The concept is drawn from some
+> legend--Authurian--and some quasi-legend--the paladins of Charlemaine plus the
+> code of chivalry as it was written, more honored in the breach than the
+> keeping.
+>
+> --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
+
+### Ranger
+
+> The Ranger class was originally devised by Joe Fischer, then a regular in my
+> D&D game group. I published his initial treatment of the class in The
+> Strategic Review, thereafter revised it and included it in the core game
+> rules. Of course it is apparent that Joe based the class on JRRT's work and
+> Aragorn.
+>
+> --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
+
+### Thief/Rogue
+
+> The Thief was based on Jack of Shadows (Zelazny) and Cugel (Vance) with a
+> touch of REH's Conan, rather than solely on the Gray Mouser. Mouser was too
+> good a swordsman to serve as the pure model.
+>
+> --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
 
 ## Races
 
@@ -583,6 +791,14 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
 
+> When I was part of a lsrge con panel on the East Coast, one young twit of an
+> editor for a major publisher also a panelist asked me before the audience why
+> I had stolen dwarves from Tolkien. I responded in august tones: "I beg your
+> pardon, Young Lady," but I stole my dwarves from the same source the Good
+> Professor did, Norse Mythology."
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=236770#p236770), 2005
+
 ## Monsters
 
 > __Q:__ Someone asked what the first ever monster in a dungeon was (going back
@@ -599,7 +815,15 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
 
-### Celestials
+### Black pudding
+
+> Dave Arneson evidentaly disliked English black pudding, made up an amoeboid
+> monster of that name which I glommed onto..figuratively of course. If he was
+> thinking of Shoggoths when he envisaged the critter, only Dave knows... 
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VII](https://www.dragonsfoot.org/forums/viewtopic.php?p=340475#p340475), 2006
+
+### Celestial
 
 > Devas were drawn mainly from mytholology. Planetar and Solar were inspired by
 > Theosophy.
@@ -610,7 +834,7 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
-### Dragons
+### Dragon
 
 > If you read the intro to the SLAYER'S GUIDE TO DRAGONS fromMongoose, you'll
 > see therein how I came up with the chromatic dragons. Some colors other than
@@ -646,6 +870,15 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
+> The drow were actually created to be the dominant human-like race in the vast
+> subterranean world. what little i know about how they have been treated by
+> other authors since then is not at all palatable to me. The drow are purely
+> malign by temperment, as hateful as wolverines, as opportunistic as hyneas.
+> they have absolutely no angst, save when facing an immediate threat from a mor
+> epowerful drow or demon.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=161433#p161433), 2005
+
 ### Gelatinous cube
 
 > __Q:__ Who thought up the idea of the gelatinous cube?
@@ -667,14 +900,33 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
-### Golems
+### Giant
+
+> Jack and the Beanstalk was the inspiration for the cloud giant. That's one of
+> my favorite fairy tales. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=242958#p242958), 2005
+
+### Golem
 
 > The iron golem was drawn from Greek mythology, the bronze one therein, Talos.
 > The breath weapon addition was from Rob.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 8, 2005
 
-### Kobolds
+### Gorgon
+
+> __Q:__ Gorgons in all versions of D&D seem to bear little relationship with
+> the classical Greek idea of what a gorgon was. How did the D&D gorgon as a
+> petrifying bovine come about?
+>
+> __Gary:__ The bull-like gorgon with iron scales is found in medieval
+> bestiaries. i know it for a fact because that's where I got the critter--along
+> with the catoblepas and a handful of other monsters;)
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=220456#p220456), 2005
+
+### Kobold
 
 > I thought of kobolds as humanoid, but with green complexion due to their
 > forest habitat and skin that was rough and scaly even though they were
@@ -689,7 +941,15 @@ Dragons_.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 7, 2005
 
-### Orcs
+### Kuo-toa
+
+> The kuo-toa were mainly from my imagination, as was their deity,
+> Blibdoolpoolp. Perhaps I was thinking of HPL's batrachian people, but not
+> consciously. Maybe it was inspired by _The Creature from the Black Lagoon_.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VII](https://www.dragonsfoot.org/forums/viewtopic.php?p=340271#p340271), 2006
+
+### Orc
 
 > __Q:__ Early portrayals of orcs in AD&D gave them decidedly porcine physical
 > attributes. Was this done intentionally or was it simply the whim of the
@@ -726,9 +986,38 @@ Dragons_.
 "A crossbow is the method described in legend by which one may destroy
 a Rakshasa, with arrows blessed by the divine Brahma himself.")
 
+### Stirge
+
+> The stirgie was inspired from the mythological Strygia et al. as was noted.
+> for game purposes a more conventional vampiric creature was desirable, as
+> there were plenty of more potent sorts of monsters such as the vampire to
+> fulfill the larger roles of party antagonists.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=219948#p219948), 2005
+
+### Vampire
+
+> Heh, I have read Stoker's novel, Dracula, several times over the years.
+> However, my favorite screen rendition of that character is that done by Bela
+> Lugosi. I used Stoker and various folklore sources to develop the vampire as a
+> monster in the A/D&D game B)
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=160373#p160373), 2005
+
 ## Characters
 
 ### Mordenkainen
+
+> As a typically ambitious player, I did what all others of that ilk do:
+> Everything I could do to gain advantage for my PCs and rise in level as
+> rapidly as possible. That was a matter of honor, of course. Being the fellow
+> who wrote the bloody game, I had beter excel! So after starting play with Yrag
+> (a fighter) I soon added other PCs and henchmen to braden the scope of my
+> possibilities, and to be able to handle encounters of difficult sorts when
+> playing one-on-one with the MD. Thus came into being Mordenkainen the
+> magic-user, then Felnorith the fighter as Yrag's sidekick.
+>
+> --- Dragon #318, _What's in a Name?_, 2004
 
 > I have read Kalevala several times, admire Vainomoinen greatly, have seen the
 > b&w Eussian film about his journey to Pojola with Ilmarnen to get Louhi's
@@ -748,6 +1037,34 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > pronunciation ;-)
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 12, 2006
+
+> All of the major PCs bit the dust one way or another--petrified as was
+> Mordenkainen, poisoned as was Bigby, etc. Wish items were greatly prized and
+> carefully hoarded, reserved for use in such extremis. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=199257#p199257), 2005
+
+### Tenser
+
+> __Q:__  I was wondering if any of the name-specific spells in the PHB and UA
+> were actually the result of PC research on your original campaign.
+>
+> __Gary:__ The answer to many is a simple, yes because i wanted my PC to have
+> that sort of spell. some of the others were named for a PC who would have
+> loved to have such a spell but didn't think of creating it, so i did in the
+> name of the PC. Tenser's Transformation, for instance, was simply the magical
+> expression of what son Ernie would do with his PC when Tenser had cast his
+> last spell and still wanted to be in on the action.
+>
+> ... He never used Tenser;s Transformation, just went hell for breakfast into
+> battle. however, he did use Tenser's Floating Disk on every occassion it would
+> enable the party to haul out more loot.
+> 
+> ... Actually, in OD&D only the lack of armor and slow gain in chance to hit
+> were factors. The magic-user with a dagger did as much damage as a fighter
+> with a battle axe.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=162123#p162123), 2005
 
 ### Other
 
@@ -776,6 +1093,27 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > as I am :-D 
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 5, 2004
+
+> Kelanan, the Sword Lord, was something I made up out of whole cloth. I do have
+> a fighter PC that kept finding magic swords, totes a number of them around, so
+> there was some inspiration involved from there--he needed a deity
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=186958#p186958), 2005
+
+> I don't recall the names of several PCs of mine that lost their lives early in
+> their adventuring career. My two main mid-level PCs are Nigby and Slidell of
+> Fax. My lowest level PC is Snurre Shaprnose, a gnome illusionist-thief of
+> around 4th level (I seem to have lost his CRS).
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=285010#p285010), 2006
+
+> When the renowned Melf, a gray elf played by my son Luke, was but a fledgling
+> adventurer, he made a name for himself, "Melf of the Green Arrow", because he
+> painted that symbol on the floor of the first level of the Castle Greyhawk
+> dungeons so as to direct adventurers to a theretofore unknown means of
+> accessing the lower mazes.
+>
+> --- Dragon #311, _What's in a Magic Item?_, 2003
 
 ## World of Greyhawk
 
@@ -819,6 +1157,72 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
+> Of course after 1985 I quit most AD&D play and the dropped the World of
+> Greyhawk as my campaign setting.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=199531#p199531), 2005
+
+> __Q:__ Did any of your players' characters ever adventure in the Baklunish states?
+>
+> __Gary:__ Yes, a little. the culture was basically turkish/Persian.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=202491#p202491), 2005
+
+> As I wrote it Rel Astra is the capital city of the See of Medigia--named for a
+> wargame opponent of mine, BTW, than no one has ever asked about or picked up
+> on, Mike Magida. Perhaps i made the error, or more likely a bucy editor
+> inserted the "free city" tab for Rel Astra. One can live with a free city as a
+> capital, of course. London was a free city and the capital of England.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=217839#p217839), 2005
+
+> The correct name for the month is "Ready'reat." I recall that I had a
+> contraction in mind, but after all the time that has passed I'll be baked if I
+> can recall what it was.
+>
+> ... I was thinkig of "ready for reaping" when I conied the name, thought of
+> how language is distorted over time, and thus came up with "Ready'reat," a
+> Septemberish month.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=262234#p262234), 2005
+
+> __Q:__ Gary, your original Greyhawk campaign. Was it based on a fantasy
+> version of America?
+> 
+> __Gary:__ Yes indeed it was--easier to use existing outline maps than creating
+> a world setting from scratch. Greyhawk was about where Chicago is, and dyvers
+> was about where Milwaukee is. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=318326#p318326), 2006
+
+> furyondy is sort of an idealized medieval Great Britain with the Norman
+> influence. The Yeomanry is the idealized English countryside, including the
+> Lowlands of Scotland.
+> 
+> Perrenland is based on the Swiss Confederation where both my father and Feff
+> Perren's were born :wink:
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=320442#p320442), 2006
+
+> For certain the WoG product as published by TSR came into being about two or
+> three months before the date of its prionting and sale. Brian said that a
+> campaign setting was needed, so after ascertaining the maximum size map sheet
+> we could have printed, I free-handed the land outlines on those two sheeye of
+> apper, used colored pencils to put in terrain features, located the cities,
+> and made up the names for everything. that took me about 1 week. ...
+>
+> Of course a good deal of my wargaming experience, knowledge of history and
+> geography and use of such in other projects came into play in creating the map
+> and the states on it.
+>
+> My personal Greyhawk world was a version of earth, but as many palyers were
+> involved in the campaign, I did not want to use that as a base. the funny
+> thing is that about a mopnth after the printer WoG was out I liked it better
+> than what I was using, so for the most part my campaign play moved to Oerth,
+> Oerik. 
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VIII](https://www.dragonsfoot.org/forums/viewtopic.php?p=346381#p346381), 2006
+
 ## Editions of D&D
 
 ### OD&D
@@ -834,6 +1238,30 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > that I had to both ignore it and parody it at the same time.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
+
+> As to the removal of hobbit, ent, and balrog, that I can speak to. One morning
+> a marshall delivered a summons to me as an officer of TSR. It was from the
+> Saul Zaents division of ELan Merchandising, the sum named was $500,000, and
+> the filing claimed proprietarial rights to the above names as well as to
+> dwarf, elf, goblin, orc, and some others too. It also demanded a cease and
+> desist on the publication of the Battle of Five Armies game.
+> 
+> Of corsue the litigant was over-reaching, so in the end TSR did drop only the
+> game (the author had assured us he was grandfathered in, but he and his
+> attorney too were wrong) and the use of the names hobbit, balrog, and
+> ent--even though hobbit was not created by JRRT, and ent was the Anglo-Saxon
+> name for giant. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=234932#p234932), 2005
+
+> The chaps playing the game pretty much developed the concept of a balanced
+> party. When we first began playing most parties were mainly fighters, and we
+> got in trouble when facing spell-casters without our own artillery for fire
+> counter-battery.
+>
+> The short answer is that the concept evolved from play of the game.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=268432#p268432), 2005
 
 ### AD&D
 
@@ -862,6 +1290,37 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 7, 2004
 
+> Good players could manage to gain low levels for their PC in a half-dozen or
+> so adventures. Poor ones, those just goofing around couldn;t manage that in a
+> dozen adventures.
+>
+> As a DM I had to learn the hard way about giving out too much treasure and not
+> loading the NPCs with magical things that the PCs could pick up when they
+> trashed my encounters :?
+>
+> By the time AD&D was being played, all that had been ironed out, and the good
+> players were still gaining a level for their PCs every couple of months until
+> mid;kever, say around 8th. 
+>
+> --- Dragonfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=250121#p250121), 2005
+
+> How many times have you seen, either as a player or as DM, a player character
+> actually using polearms like the bec de corbin or the guisarme glaive?
+>
+> Pole-arms are not meant for PCs. they are meant for men-at-arms, soldiers,
+> humanoids such as orcs, hobgoblins, gnolls, and bugbears. i have had had such
+> NPC figures so armed any number of times--and think of the scenes showing them
+> in Return of the King! 
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part X](https://www.dragonsfoot.org/forums/viewtopic.php?p=443072#p443072), 2007
+
+> Out of curiosity, what's the "official" pronunciation of Acererak? :?
+>
+> FWIW, I initially said Ace-RE-rak, then changed it to A-CER-er-AK because it
+> sounded more exotic and threatening to me 8)
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part X](https://www.dragonsfoot.org/forums/viewtopic.php?p=452403#p452403), 2007
+
 ### AD&D second edition
 
 > I never played 2E, although I did play some OAD&D where parts of the 2E system
@@ -886,6 +1345,10 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > the lot.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 12, 2007
+
+> About 50% of the AD&D audience was lost when 2E was released.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part IX](https://www.dragonsfoot.org/forums/viewtopic.php?p=401549#p401549), 2007
 
 ### D&D third edition
 
@@ -951,6 +1414,14 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 4, 2003
 
+> ... I believe that the D20 and OGL were gross errors of business judgement,
+> hightly detrimental to the underlying game system they opened up ... In my
+> estimation WotC was the sucker, and by doing what they did they didn't give
+> the D&D game fans an even break...not to mention the harm it did to their
+> company and the D&D mark. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=271339#p271339), 2006
+
 ### D&D fourth edition
 
 > I think that if D&D goes into a 4th edition the marketplace will be damaged.
@@ -972,6 +1443,10 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > enjoy actual RPGing ;-)
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
+
+> I do believe that when 4E is launched, 3E and 3.5E will be orphened.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part VII](https://www.dragonsfoot.org/forums/viewtopic.php?p=344848#p344848), 2006
 
 ## The future of D&D
 
@@ -1005,6 +1480,12 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > of which will possibly reflect some of my style.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
+
+> I believe that the days of rule-playing are absolutely numbered, and less
+> complicated systems will prevail in time--a few years yet, bit relatively
+> soon.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=219713#p219713), 2005
 
 ## Gaming anecdotes
 
@@ -1066,6 +1547,49 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > up all of my dice and keeping them off the floor.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 8, 2005
+
+> __Q:__ About what level in your campaign did PCs retire? Did they usually go
+> the strongholds route, or something else?
+>
+> __Gary:__ The few who reached such level were ready to retire their PC
+> somewhere around 15. most never bothered to formally retire, simply created
+> new PCs when one reached 12th level or so and wasn't that much fun to have on
+> adventures with lower-level PCs, or was just a tad boring because of
+> familiarity.
+>
+> Rob Kuntz had Robilar build a stronghold, as he had so much wealth and the
+> pair of green dragons to manage.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=161433#p161433), 2005
+
+> All of the major PCs bit the dust one way or another--petrified as was
+> Mordenkainen, poisoned as was Bigby, etc. Wish items were greatly prized and
+> carefully hoarded, reserved for use in such extremis.
+>
+> On the rarest of occassions a particularly ill-fated adventure would be
+> chalked up to a collective bad dream. ... Exactly two: Rob got one, and Rob
+> allowed one other. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part II](https://www.dragonsfoot.org/forums/viewtopic.php?p=199257#p199257), 2005
+
+> I did create an Artifact for son Luke's PC after that worthy had gone through
+> severe tests. I told him to that if he found a needle in a haystack in an
+> hour's time thet Zagyg would reward him with a special weapon. Durned if the
+> lad didn't burn the hay and find the "needle" easily.
+> 
+> Thus that PC came into possession of the Spear of Zagyg. It is a needle until
+> drawn forth from fabric and commanded to become a weapon. A d8 is rolled and
+> the weapon size and plus is determined thus. Somehow. though, a +8 pike is not
+> the favored result.
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part X](https://www.dragonsfoot.org/forums/viewtopic.php?p=441348#p441348), 2007
+
+> Not only did the mysterious Erac's Cousin find and gain the only vorpal blade
+> that I placed in the Greyhawk campaign, but he subsequently acquired, by
+> random roll, the only other vorpal sword that came into play in that heavily
+> played game.
+>
+> --- Dragon #320, "Cut to the Quick", 2004
 
 ## Being a GM
 
@@ -1138,6 +1662,31 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
+> Pcs create magic items before they achieve high level and retire? Never! What
+> on earth is adventurous about manufacturing? If they sought a special magic
+> item they quested for it. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=305963#p305963), 2006
+
+> Villains can do most anything!
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part X](https://www.dragonsfoot.org/forums/viewtopic.php?p=441731#p441731), 2007
+
+> The hobby needs to recognize and give proper laurels to GMs, especially those
+> that run several RPG systems for large numbers of players. That was one of my
+> goals when i conceived the RPGA. Of course any publisher has a goal of
+> conversion of GMs to their system, but that is short sighted, and the goal
+> should be to convince the GM to add the RPG to his repitore. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=166628#p166628), 2005
+
+> Any able DM can craft adventures that weed out unwise and inept players who
+> think to bulldoze their way through problems by use of undeserved power.
+> That's possible only in computer games where saved games and cheat codes serve
+> to reward such play.
+>
+> --- Dragon #314, _Self-Destructing PCs_, 2003
+
 ### House rules
 
 > Seldom did I allow non-regulars to start above 2nd level.
@@ -1171,6 +1720,40 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 > things considered, quite unnecessary.
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
+
+> __Q:__ A good heuristic for a DM is: Before breaking a rule, try to understand
+> the reasons why that rule was made in the first place. If you understand the
+> "why" of the rule, you can break it in an informed, knowledgeable way. ;)
+>
+> __Gary__: Heh...  As if that usually were the case. for every able GM running
+> a game there are probably 99 others who are less than that, and gaining a real
+> understanding of the overall workings of an RPG isn't an easy thing unless one
+> has sat down and designed one...or made a hash of a revision.
+>
+> The number of crashed RPG groups from ill-advised "improvements" to the game
+> system is likely staggering. What the hobby really needs is a school to teach
+> GMing, with classes in game design and creative writing included. thet would
+> surely add greatly to the number of RPG fans enjoying real RPGing;) 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=166610#p166610), 2005
+
+> The usual is to have all the players roll up 2nd level characters--fighters,
+> clerics, magic-users, dwarves, elves, of hobbits. I have house rules so that
+> any score above 14 gains a bonus of some sort for the PC, As all the team os
+> 2nd level equiment is whatever on the list is desired.
+>
+> 15 + attribute score chart:
+> 
+> - STR +1 to hit for all (& +1 damage for fighters)
+> - INT +1 1st evel spell (for m-us)
+> - WIS +1 1st evel spell (for clerics)
+> - DEX +1 to AC (for all)
+> - CON +1 to each HD (for all)
+> - CHA +1 to reaction checks (for all)
+>
+> The party then enters the original 1st level of my dungeons and goes on from there. 
+>
+> --- Dragonsfoot, [Q&A With Gary Gygax, Part XI](https://www.dragonsfoot.org/forums/viewtopic.php?p=474736#p474736), 2007
 
 ## Advice for writers
 
@@ -1221,6 +1804,20 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 12, 2006
 
+> The very able GM also understands how to design an RPG and create an adventure
+> module. Then ego takes over, he designs his own system and plays it with a
+> handful of associates for some time, then grows discouraged becase his
+> masterpiece is viewed as yet just another ordinary RPG by gamers at large. He
+> quits being a GM, his players leave the hobby, and that's that.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=166628#p166628), 2005
+
+> A poor adventure is one that doesn't challenge the party of PCs, rather bores
+> them or just is not enjoyable for the group. Totally silly material is also
+> bad news. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=284443#p284443), 2006
+
 ## Jokes and witticisms
 
 > __Q:__ Where do you get your ideas from?
@@ -1262,13 +1859,9 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 1, 2002
 
-> __Dan:__ Hey Gary,
->
-> __Dan:__ It's little Dan from Wiscosin GenCon (83 I think)
->
-> __Dan:__ I got one question, why did ya let Cook screw up the game soo badly?
->
-> __Dan:__ Was is the cocaine, or did ya just not give a rat's ass?
+> __Dan:__ Hey Gary, It's little Dan from Wiscosin GenCon (83 I think). I got
+> one question, why did ya let Cook screw up the game soo badly? Was is the
+> cocaine, or did ya just not give a rat's ass?
 >
 > __Gary:__ Well, I can understand your calling yourself "little," because from
 > the above it is evident that you are a small person in many ways. I won't
@@ -1316,6 +1909,11 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 13, 2007
 
+> JRRT's "rings Trilogy" was too slow paced for me, although I did enjoy The
+> Hobbit.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax](https://www.dragonsfoot.org/forums/viewtopic.php?p=189664#p189664), 2005
+
 ## Miscellaneous
 
 > I seldom have the opportnity to read, let alone play, other authors' material.
@@ -1346,6 +1944,25 @@ a Rakshasa, with arrows blessed by the divine Brahma himself.")
 >
 > --- ENWorld, _Q&A with Gary Gygax_ part 8, 2005
 
+> When I was in mm early 20s my pal John Kohn and I bought a case (!00
+> half-pound sticks) of 60% amonium nitrate dynamite, 50 blasting caps, and 100'
+> of fuse. It was a lot of fun blowing all sorts of things up:)
+> 
+> Can't get dynamite at hardware stores in farm communities so easily anymore. 
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part III](https://www.dragonsfoot.org/forums/viewtopic.php?p=217507#p217507), 2005
+
+> Have you ever seen the middle-aged fat guy that dresses in a Sailor Moon
+> costume at gaming cons? What a sight!
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part IV](https://www.dragonsfoot.org/forums/viewtopic.php?p=252328#p252328), 2005
+
+> According to family oral tradition, all of the Gygaxes are descended from four
+> brothers of the family Gygax that came by way of the Middle East to Macedonia,
+> then those four went on to the Alps sometime around 50 BC.
+>
+> --- Dragonsfoot, [Q&A with Gary Gygax, Part V](https://www.dragonsfoot.org/forums/viewtopic.php?p=274977#p274977), 2006
+
 ## Sources
 
 __Note:__ Several of these quotes date back to a series of thirteen Q&A
@@ -1358,3 +1975,7 @@ In 2011, _Blog of Holding_ collected all of Gary's Q&A replies
 [into one page](http://blogofholding.com/?p=2761). Unfortunately, this was
 since taken down and made into a book, _Cheers, Gary_, which at time of
 writing appears to be out of print.
+
+Gygax also answered many questions at the Dragonsfoot forums, collected there in
+the [Zagyg's Wisdom](https://www.dragonsfoot.org/forums/viewforum.php?f=50)
+board.
