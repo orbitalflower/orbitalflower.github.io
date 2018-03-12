@@ -8,7 +8,7 @@ redirect_from:
   - /etc/fun/index.html
   - /etc/meta/index.html
   - /etc/misc/index.html
-category: tv
+category: etc
 subcategories:
   -
     slug: fun
