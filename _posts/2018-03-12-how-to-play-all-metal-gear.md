@@ -21,15 +21,15 @@ hardware you have or are willing to buy. This guide contains _no spoilers_.
 The following table lists all platforms on which you can play each game in the
 main _Metal Gear Solid_ series.
 
-                           | PSX | Win | GC | PS2 | Xbox | PSP | PS3 | 3DS | Vita | 360 | PS4 | XB1 |
----------------------------|-----|-----|----|-----|------|-----|-----|-----|------|-----|-----|-----|
-__Metal Gear Solid__       |  ✔️  |  ✔️  | ✔️  | ✔️:b:|      |     | ✔️:b:|     |  ✔️:b:|     |     |     |
-__Metal Gear Solid 2__     |     |  ✔️  |    |  ✔️  |  ✔️   |     |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |
-__Metal Gear Solid 3__     |     |     |    |  ✔️  |      |     |  ✔️✔️ |  ✔️  |  ✔️   |  ✔️✔️ |     |     |
-__Metal Gear Solid 4__     |     |     |    |     |      |     |  ✔️❗|     |      |     |     |     |
-__MGS: Peace Walker__      |     |     |    |     |      |  ✔️  |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |
-__MGS5: Ground Zeroes__    |     |  ✔️✔️ |    |     |      |     |  ✔️  |     |      |  ✔️  |  ✔️  |  ✔️  |
-__MGSV: The Phantom Pain__ |     |  ✔️✔️ |    |     |      |     |  ✔️  |     |      |  ✔️  |  ✔️  |  ✔️  |
+|                            | PSX | Win | GC | PS2 | Xbox | PSP | PS3 | 3DS | Vita | 360 | PS4 | XB1 |
+|----------------------------|-----|-----|----|-----|------|-----|-----|-----|------|-----|-----|-----|
+| __Metal Gear Solid__       |  ✔️  |  ✔️  | ✔️  | ✔️:b:|      |     | ✔️:b:|     |  ✔️:b:|     |     |     |
+| __Metal Gear Solid 2__     |     |  ✔️  |    |  ✔️  |  ✔️   |     |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |
+| __Metal Gear Solid 3__     |     |     |    |  ✔️  |      |     |  ✔️✔️ |  ✔️  |  ✔️   |  ✔️✔️ |     |     |
+| __Metal Gear Solid 4__     |     |     |    |     |      |     |  ✔️❗|     |      |     |     |     |
+| __MGS: Peace Walker__      |     |     |    |     |      |  ✔️  |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |
+| __MGS5: Ground Zeroes__    |     |  ✔️✔️ |    |     |      |     |  ✔️  |     |      |  ✔️  |  ✔️  |  ✔️  |
+| __MGSV: The Phantom Pain__ |     |  ✔️✔️ |    |     |      |     |  ✔️  |     |      |  ✔️  |  ✔️  |  ✔️  |
 
 Key:
 
@@ -195,29 +195,29 @@ so there's no point in skipping ahead.
 
 ## All Metal Gear games
 
-                            | MSX2 | C64 | NES | GBC | PSX | DOS | Win | OSX | GC | PS2 | Xbox | PSP | Wii   | PS2 | 3DS | Vita | 360 | iOS | And | PS4 | XB1 | N-Gage | Pachinko |
-----------------------------|------|-----|-----|-----|-----|-----|-----|-----|----|-----|------|-----|-------|-----|-----|------|-----|-----|-----|-----|-----|--------|----------|
-__Metal Gear__              |  ✔️   |  ✔️  |  ✔️  |     |     |  ✔️  |     |     | ✔️  |  ✔️  |      |     |:japan:| ✔️   |     |  ✔️   |  ✔️  |     |     |     |     |        |          |
-  Snake's Revenge           |      |     |  ✔️❗|     |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
-__Metal Gear 2__            |  ✔️   |     |     |     |     |     |     |     |    |  ✔️  |      |     |:japan:| ✔️   |     |  ✔️   |  ✔️  |     |     |     |     |        |          |
-__Metal Gear Solid__        |      |     |     |     |  ✔️  |     |  ✔️  |     | ✔️  |✔️:b: |      |     |✔️:b:   |✔️:b: |     |✔️:b:  |     |     |     |     |     |        |          |
-  Metal Gear: Ghost Babel   |      |     |     |  ✔️❗|     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
-__Metal Gear Solid 2__      |      |     |     |     |     |     |  ✔️  |     |    |  ✔️  |  ✔️   |     |       |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |     |     |        |          |
-__Metal Gear Solid 3__      |      |     |     |     |     |     |     |     |    |  ✔️  |      |     |       |  ✔️✔️ |  ✔️  |  ✔️   |  ✔️✔️ |     |     |     |     |        |    ✔️     |
-  Metal Gear Acid           |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |      |     |     |     |     |     |        |          |
-  Metal Gear Acid 2         |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |      |     |     |     |     |     |        |          |
-  MGS: Portable Ops         |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |  ✔️   |     |     |     |     |     |        |          |
-  MGS: Portable Ops+        |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |  ✔️   |     |     |     |     |     |        |          |
-  Metal Gear Solid Mobile   |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |   ✔️    |          |
-__Metal Gear Solid 4__      |      |     |     |     |     |     |     |     |    |     |      |     |       |  ✔️❗|     |      |     |     |     |     |     |        |          |
-  Metal Gear Online         |      |     |     |     |     |     |     |     |    |     |      |     |       |  ✔️❗|     |      |     |     |     |     |     |        |          |
-  Metal Gear Solid Touch    |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |  ✔️  |  ✔️  |     |     |        |          |
-__MGS: Peace Walker__       |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |     |     |        |          |
-  MGS: Social Ops           |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |  ✔️  |  ✔️  |     |     |        |          |
-  Metal Gear Rising         |      |     |     |     |     |     |  ✔️  | ✔️   |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |     |     |        |          |
-__MGS5: Ground Zeroes__     |      |     |     |     |     |     |  ✔️✔️ |     |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |  ✔️  |  ✔️  |        |          |
-__MGSV: The Phantom Pain__  |      |     |     |     |     |     |  ✔️✔️ |     |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |  ✔️  |  ✔️  |        |          |
-  Metal Gear Survive        |      |     |     |     |     |     |  ✔️  |     |    |     |      |     |       |     |     |      |     |     |     |  ✔️  |  ✔️  |        |          |
+|                             | MSX2 | C64 | NES | GBC | PSX | DOS | Win | OSX | GC | PS2 | Xbox | PSP | Wii   | PS2 | 3DS | Vita | 360 | iOS | And | PS4 | XB1 | N-Gage | Pachinko |
+|-----------------------------|------|-----|-----|-----|-----|-----|-----|-----|----|-----|------|-----|-------|-----|-----|------|-----|-----|-----|-----|-----|--------|----------|
+| __Metal Gear__              |  ✔️   |  ✔️  |  ✔️  |     |     |  ✔️  |     |     | ✔️  |  ✔️  |      |     |:japan:| ✔️   |     |  ✔️   |  ✔️  |     |     |     |     |        |          |
+|   Snake's Revenge           |      |     |  ✔️❗|     |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
+| __Metal Gear 2__            |  ✔️   |     |     |     |     |     |     |     |    |  ✔️  |      |     |:japan:| ✔️   |     |  ✔️   |  ✔️  |     |     |     |     |        |          |
+| __Metal Gear Solid__        |      |     |     |     |  ✔️  |     |  ✔️  |     | ✔️  |✔️:b: |      |     |✔️:b:   |✔️:b: |     |✔️:b:  |     |     |     |     |     |        |          |
+|   Metal Gear: Ghost Babel   |      |     |     |  ✔️❗|     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
+| __Metal Gear Solid 2__      |      |     |     |     |     |     |  ✔️  |     |    |  ✔️  |  ✔️   |     |       |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |     |     |        |          |
+| __Metal Gear Solid 3__      |      |     |     |     |     |     |     |     |    |  ✔️  |      |     |       |  ✔️✔️ |  ✔️  |  ✔️   |  ✔️✔️ |     |     |     |     |        |    ✔️     |
+|   Metal Gear Acid           |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |      |     |     |     |     |     |        |          |
+|   Metal Gear Acid 2         |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |      |     |     |     |     |     |        |          |
+|   MGS: Portable Ops         |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |  ✔️   |     |     |     |     |     |        |          |
+|   MGS: Portable Ops+        |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |     |     |  ✔️   |     |     |     |     |     |        |          |
+|   Metal Gear Solid Mobile   |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |   ✔️    |          |
+| __Metal Gear Solid 4__      |      |     |     |     |     |     |     |     |    |     |      |     |       |  ✔️❗|     |      |     |     |     |     |     |        |          |
+|   Metal Gear Online         |      |     |     |     |     |     |     |     |    |     |      |     |       |  ✔️❗|     |      |     |     |     |     |     |        |          |
+|   Metal Gear Solid Touch    |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |  ✔️  |  ✔️  |     |     |        |          |
+| __MGS: Peace Walker__       |      |     |     |     |     |     |     |     |    |     |      |  ✔️  |       |  ✔️✔️ |     |  ✔️   |  ✔️✔️ |     |     |     |     |        |          |
+|   MGS: Social Ops           |      |     |     |     |     |     |     |     |    |     |      |     |       |     |     |      |     |  ✔️  |  ✔️  |     |     |        |          |
+|   Metal Gear Rising         |      |     |     |     |     |     |  ✔️  | ✔️   |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |     |     |        |          |
+| __MGS5: Ground Zeroes__     |      |     |     |     |     |     |  ✔️✔️ |     |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |  ✔️  |  ✔️  |        |          |
+| __MGSV: The Phantom Pain__  |      |     |     |     |     |     |  ✔️✔️ |     |    |     |      |     |       |  ✔️  |     |      |  ✔️  |     |     |  ✔️  |  ✔️  |        |          |
+|   Metal Gear Survive        |      |     |     |     |     |     |  ✔️  |     |    |     |      |     |       |     |     |      |     |     |     |  ✔️  |  ✔️  |        |          |
 
 Key:
 
