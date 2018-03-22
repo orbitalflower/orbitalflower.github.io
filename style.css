@@ -203,6 +203,7 @@ body {
 
 code {
   font-size: 1.2em;
+  background: gainsboro;
 }
 
 #content pre {
