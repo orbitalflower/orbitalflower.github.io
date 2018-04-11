@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-02-13
+updated: 2018-04-11
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-02-13
+2018-04-11
 </b>
 
 1. Table of Contents
@@ -36,7 +36,7 @@ This index last updated: <b>
 ### For characters of a certain class
 - Barbarian [21][], [41][]
 - Bard [13][], [22][], [41][], [53][]
-- Cleric [8][], [23][], [37][], [44][]
+- Cleric [8][], [23][], [37][], [44][], [56][]
 - Druid [24][], [37][], [43][], [53][], [54][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
 - Monk [26][], [36][], [41][]
@@ -125,6 +125,7 @@ Race variants with identical stats to a standard race are not listed.
 - City [8][]
 - Forge [23][], XGtE
 - Grave [23][], XGtE
+- Order [56][]
 - Protection [23][]
 - Solidarity [44][]
 - Strength [44][]
@@ -497,6 +498,7 @@ Race variants with identical stats to a standard race are not listed.
 53. [Elemental Evil Player's Companion][53]
 54. [Three Subclasses][54]
 55. [Into the Wild][55]
+56. [Order Domain][56]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -553,3 +555,4 @@ Race variants with identical stats to a standard race are not listed.
 [53]: https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf "Elemental Evil Player's Companion"
 [54]: https://media.wizards.com/2018/dnd/downloads/UA-3Subclasses0108.pdf "Three Subclasses"
 [55]: https://media.wizards.com/2018/dnd/downloads/UA_IntoTheWild.pdf "Into the Wild"
+[56]: https://media.wizards.com/2018/dnd/downloads/UA_OrderDomain.pdf "Order Domain"
