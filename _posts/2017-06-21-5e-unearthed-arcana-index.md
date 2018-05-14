@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-04-11
+updated: 2018-05-14
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-04-11
+2018-05-14
 </b>
 
 1. Table of Contents
@@ -22,7 +22,7 @@ This index last updated: <b>
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][], [57][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -62,6 +62,7 @@ Race variants with identical stats to a standard race are not listed.
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
+- Centaur [57][] - Str+2 Wis+1. Horse people
 - Changeling [2][] - Dex+1 Cha+1. Descendents of doppelgangers
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
@@ -91,6 +92,7 @@ Race variants with identical stats to a standard race are not listed.
 - Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
 - Minotaur, from Amonkhet [44][] - Str+2 Con+1. Horned, warlike
 - Minotaur, from Krynn [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
+- Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][] - Dex+2 or Dex+1 Str+1/Con+1/Wis+1. Descendants of lycanthropes
@@ -499,6 +501,7 @@ Race variants with identical stats to a standard race are not listed.
 54. [Three Subclasses][54]
 55. [Into the Wild][55]
 56. [Order Domain][56]
+57. [Centaurs and Minotaurs][57]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -556,3 +559,4 @@ Race variants with identical stats to a standard race are not listed.
 [54]: https://media.wizards.com/2018/dnd/downloads/UA-3Subclasses0108.pdf "Three Subclasses"
 [55]: https://media.wizards.com/2018/dnd/downloads/UA_IntoTheWild.pdf "Into the Wild"
 [56]: https://media.wizards.com/2018/dnd/downloads/UA_OrderDomain.pdf "Order Domain"
+[57]: https://media.wizards.com/2018/dnd/downloads/UA-Centaur.pdf

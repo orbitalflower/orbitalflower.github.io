@@ -101,8 +101,22 @@ society.
 49. To improve social order, funding will be made available to promote rap music
     about positive activities like cleaning up litter.
 50. Richard Stallman will get his own TV show.
+51. Tipping will be forbidden.
+52. All prices will include sales tax.
+53. All citizens will be measured for clothing on a regular basis. Measuring
+    will be paid for by the government, but this policy will pay for itself
+    with the new jobs created in the bespoke clothing industry.
+54. To avoid confusion over pronunciation, "meme" will now be spelled "meem".
+55. It will be illegal to play or perform "Let It Go" from Frozen in public.
+56. I will outlaw plastic food containers, cutlery and appliances which smell
+    strongly of plastic. It cannot be healthy.
+57. All anime streaming services will be required to subtitle the
+    opening/ending theme karaoke.
+58. By royal decree, the plural of Linux is _Linuces_.
+59. Advertising popups will be heavily taxed.
+60. Tattoo artists and sign makers will be required to pass a spelling test.
 
-## Updates
+## Changelog
 
 - __2017-10-27__: Added 1-35.
 - __2017-11-18__; Added 36-50.
