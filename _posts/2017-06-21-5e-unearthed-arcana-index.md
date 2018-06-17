@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-05-14
+updated: 2018-06-17
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-05-14
+2018-06-17
 </b>
 
 1. Table of Contents
@@ -43,7 +43,7 @@ This index last updated: <b>
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
 - Rogue [5][], [15][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][]
 
@@ -182,6 +182,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Sorcerous origins
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
+- Giant Soul [58][]
 - Phoenix Sorcery [30][]
 - Pyromancer [42][]
 - Sea Sorcery [30][]
@@ -502,6 +503,7 @@ Race variants with identical stats to a standard race are not listed.
 55. [Into the Wild][55]
 56. [Order Domain][56]
 57. [Centaurs and Minotaurs][57]
+58. [Giant Soul Sorcerer][58]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -559,4 +561,5 @@ Race variants with identical stats to a standard race are not listed.
 [54]: https://media.wizards.com/2018/dnd/downloads/UA-3Subclasses0108.pdf "Three Subclasses"
 [55]: https://media.wizards.com/2018/dnd/downloads/UA_IntoTheWild.pdf "Into the Wild"
 [56]: https://media.wizards.com/2018/dnd/downloads/UA_OrderDomain.pdf "Order Domain"
-[57]: https://media.wizards.com/2018/dnd/downloads/UA-Centaur.pdf
+[57]: https://media.wizards.com/2018/dnd/downloads/UA-Centaur.pdf "Centaurs and Minotaurs"
+[58]: https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf "Giant Soul Sorcerer"
