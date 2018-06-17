@@ -2,7 +2,7 @@
 title: "When I am king of the world"
 categories: etc fun
 redirect_from: /misc/funny/when-i-am-king.html
-updated: 2017-11-18
+updated: 2018-06-17
 ---
 
 When I am ruler, the following changes will be made for the betterment of
@@ -120,3 +120,4 @@ society.
 
 - __2017-10-27__: Added 1-35.
 - __2017-11-18__; Added 36-50.
+- __2018-06-17__: Added 51-60.
