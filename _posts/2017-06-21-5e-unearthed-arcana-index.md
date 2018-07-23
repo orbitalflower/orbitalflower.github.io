@@ -22,7 +22,8 @@ This index last updated: <b>
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][], [57][] [59][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
+  [49][], [50][], [51][], [53][], [57][], [59][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -63,7 +64,7 @@ Race variants with identical stats to a standard race are not listed.
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Centaur [57][] - Str+2 Wis+1. Horse people
-- Changeling [2][][59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
+- Changeling [2][], [59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Grugach [51][] - Dex+2 Str+1. Greyhawk forest elves
@@ -96,7 +97,7 @@ Race variants with identical stats to a standard race are not listed.
 - Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
-- Shifter [2][][59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
+- Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
 - Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
@@ -108,7 +109,7 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
 - Vampire [45][] - Cha+2 Int+1. Undead with drain touch
 - Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
-- Warforged [2][][59][] - Str+2 or varies by subrace. Mechanical constructs built for war
+- Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs built for war
 
 ### Class archetypes
 
