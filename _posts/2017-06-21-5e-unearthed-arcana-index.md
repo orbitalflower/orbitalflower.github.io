@@ -23,7 +23,7 @@ This index last updated: <b>
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
-  [49][], [50][], [51][], [53][], [57][], [59][]
+  [49][], [50][], [51][], [53][], [57][], [59][], [60][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -81,7 +81,8 @@ Race variants with identical stats to a standard race are not listed.
 - Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
 - Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
 - Gnome, Deep [53][] - Int+2 Dex+1. Svirneblin, stony underground gnomes
-- Goblin [45][] - Con+2. Small chaotic creatures
+- Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
+- Goblin, Ixalan [60][] - Dex+2. Small humanoids who climb well.
 - Goliath [53][] - Str+1 Con+1. Giant mountain people
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
@@ -89,15 +90,19 @@ Race variants with identical stats to a standard race are not listed.
 - Kalashtar [59][] - Wis+1 Cha+1 Any+1. Psionic humans
 - Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
 - Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
+- Merfolk, Blue [60][] - Int+2 Cha+1. Aquatic people with wizard cantrip
 - Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
 - Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
+- Merfolk, Green [60][] - Wis+2 Cha+1. Aquatic jungle people with druid cantrip
 - Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
 - Minotaur, from Amonkhet [44][] - Str+2 Con+1. Horned, warlike
 - Minotaur, from Krynn [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
 - Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
+- Orc [60][] - Str+2 Con+1. Menacing warriors.
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
+- Siren [60][] - Cha+2. Chaotic flying humanoids.
 - Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
@@ -107,7 +112,8 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, Mammon [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Mephistopheles [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
-- Vampire [45][] - Cha+2 Int+1. Undead with drain touch
+- Vampire, Zendikar [45][] - Cha+2 Int+1. Undead with drain touch
+- Vampire, Ixalan [60][] - Cha+2 Wis+1. Undead with drain touch
 - Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
 - Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs built for war
 
@@ -409,22 +415,28 @@ Race variants with identical stats to a standard race are not listed.
 ### Creatures
 
 - Archon of Redemption (CR10) [45][]
+- Chupacabra (CR3) [60][]
 - Gremlin (CR1/2) [42][]
 - Creepy Doll (CR2) [46][]
 - Criosphinx (CR13) [44][]
+- Elder Dinosaur (CR30) [60][]
 - Felidar (CR5) [45][]
+- Frilled Deathspitter (CR1/2) [60][]
 - Geist (CR4) [46][]
+- Gishath, Sun'S Avatar (CR10) [60][]
 - Kraken (CR13) [45][]
 - Manticore, heart-piercer (CR5) [44][]
 - Serpopard (CR3) [44][]
 - Servo (CR0) [42][]
 - Sky Leviathan (CR10) [42][]
+- Sunbird (CR13) [60][]
 - Vampire Neonate (CR5) [46][]
 - Werewolf (Krallenhorde) (CR3) [46][]
 
 ### Miscellaneous new rules
 - Action points [2][]
 - Army-scale mass combat [3][], [32][]
+- Colors of Magic alignment system [60][]
 - Creating new class options [4][]
 - Custom alignments [6][]
 - Downtime (craft/buy/sell item, train, etc) [38][], XGtE
@@ -507,6 +519,7 @@ Race variants with identical stats to a standard race are not listed.
 57. [Centaurs and Minotaurs][57]
 58. [Giant Soul Sorcerer][58]
 59. [Eberron Races][59]
+60. [Plane Shift: Ixalan][60]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -567,3 +580,4 @@ Race variants with identical stats to a standard race are not listed.
 [57]: https://media.wizards.com/2018/dnd/downloads/UA-Centaur.pdf "Centaurs and Minotaurs"
 [58]: https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf "Giant Soul Sorcerer"
 [59]: https://media.wizards.com/2018/dnd/downloads/723UA_EberronRaces7232018.pdf "Eberron Races"
+[60]: https://media.wizards.com/2018/downloads/magic/plane-shift_ixalan.pdf "Plane Shift: Ixalan"
