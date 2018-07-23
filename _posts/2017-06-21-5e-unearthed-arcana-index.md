@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-06-17
+updated: 2018-07-23
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-06-17
+2018-07-23
 </b>
 
 1. Table of Contents
@@ -22,7 +22,7 @@ This index last updated: <b>
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
-- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][], [57][]
+- New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][], [49][], [50][], [51][], [53][], [57][] [59][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -63,7 +63,7 @@ Race variants with identical stats to a standard race are not listed.
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Centaur [57][] - Str+2 Wis+1. Horse people
-- Changeling [2][] - Dex+1 Cha+1. Descendents of doppelgangers
+- Changeling [2][][59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Grugach [51][] - Dex+2 Str+1. Greyhawk forest elves
@@ -85,6 +85,7 @@ Race variants with identical stats to a standard race are not listed.
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
+- Kalashtar [59][] - Wis+1 Cha+1 Any+1. Psionic humans
 - Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
 - Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
 - Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
@@ -95,7 +96,7 @@ Race variants with identical stats to a standard race are not listed.
 - Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Revenant subrace (any race) [15][] - a character who returns to life
-- Shifter [2][] - Dex+2 or Dex+1 Str+1/Con+1/Wis+1. Descendants of lycanthropes
+- Shifter [2][][59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
 - Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
@@ -107,7 +108,7 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
 - Vampire [45][] - Cha+2 Int+1. Undead with drain touch
 - Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
-- Warforged [2][] - Str+1 Con+1. Mechanical constructs built for war
+- Warforged [2][][59][] - Str+2 or varies by subrace. Mechanical constructs built for war
 
 ### Class archetypes
 
@@ -504,6 +505,7 @@ Race variants with identical stats to a standard race are not listed.
 56. [Order Domain][56]
 57. [Centaurs and Minotaurs][57]
 58. [Giant Soul Sorcerer][58]
+59. [Eberron Races][59]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -563,3 +565,4 @@ Race variants with identical stats to a standard race are not listed.
 [56]: https://media.wizards.com/2018/dnd/downloads/UA_OrderDomain.pdf "Order Domain"
 [57]: https://media.wizards.com/2018/dnd/downloads/UA-Centaur.pdf "Centaurs and Minotaurs"
 [58]: https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf "Giant Soul Sorcerer"
+[59]: https://media.wizards.com/2018/dnd/downloads/723UA_EberronRaces7232018.pdf "Eberron Races"
