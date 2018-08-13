@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-07-23
+updated: 2018-08-13
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-07-23
+2018-08-13
 </b>
 
 1. Table of Contents
@@ -23,7 +23,7 @@ This index last updated: <b>
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
-  [49][], [50][], [51][], [53][], [57][], [59][], [60][]
+  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -90,6 +90,7 @@ Race variants with identical stats to a standard race are not listed.
 - Kalashtar [59][] - Wis+1 Cha+1 Any+1. Psionic humans
 - Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
 - Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
+- Loxodon [61][] - Con+2 Wis+1. Elephant people
 - Merfolk, Blue [60][] - Int+2 Cha+1. Aquatic people with wizard cantrip
 - Merfolk, Cosi [45][] - Cha+2 Int+1. Aquatic tricksters with bard cantrip
 - Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
@@ -102,6 +103,7 @@ Race variants with identical stats to a standard race are not listed.
 - Orc [60][] - Str+2 Con+1. Menacing warriors.
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
+- Simic Hybrid [61][] - Con+1 Any+1. People with animal characteristics
 - Siren [60][] - Cha+2. Chaotic flying humanoids.
 - Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
@@ -114,8 +116,9 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
 - Vampire, Zendikar [45][] - Cha+2 Int+1. Undead with drain touch
 - Vampire, Ixalan [60][] - Cha+2 Wis+1. Undead with drain touch
-- Vedalken [42][] - Int+2 Wis+1. Blue-skinned inventors
-- Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs built for war
+- Vedalken [42][][61][] - Int+2 Wis+1. Blue-skinned inventors
+- Viashino [61][] - Dex+1 Str+1. Reptilian people
+- Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs
 
 ### Class archetypes
 
@@ -520,6 +523,7 @@ Race variants with identical stats to a standard race are not listed.
 58. [Giant Soul Sorcerer][58]
 59. [Eberron Races][59]
 60. [Plane Shift: Ixalan][60]
+61. [Races of Ravnica][61]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -581,3 +585,4 @@ Race variants with identical stats to a standard race are not listed.
 [58]: https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf "Giant Soul Sorcerer"
 [59]: https://media.wizards.com/2018/dnd/downloads/723UA_EberronRaces7232018.pdf "Eberron Races"
 [60]: https://media.wizards.com/2018/downloads/magic/plane-shift_ixalan.pdf "Plane Shift: Ixalan"
+[61]: https://media.wizards.com/2018/dnd/downloads/UA_RavnicaRaces.pdf "Races of Ravnica"
