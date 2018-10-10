@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-09-12
+updated: 2018-10-08
 ---
 
 This is an index of official free online D&D 5e content, primarily Unearthed
 Arcana material.
 
 This index last updated: <b>
-2018-09-12
+2018-10-08
 </b>
 
 1. Table of Contents
@@ -20,6 +20,7 @@ This index last updated: <b>
 - Feats [2][], [16][], [39][], [42][], [53][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
+- Magic items [63][]
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
@@ -34,6 +35,7 @@ This index last updated: <b>
 - Halfling [40][]
 - Human [40][]
 - Tiefling [12][], [40][]
+- Warforged [63][]
 
 ### For characters of a certain class
 - Barbarian [21][], [41][]
@@ -529,6 +531,7 @@ Race variants with identical stats to a standard race are not listed.
 60. [Plane Shift: Ixalan][60]
 61. [Races of Ravnica][61]
 62. [Dragonmarks][62]
+63. [Magic Items of Eberron][63]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -592,3 +595,4 @@ Race variants with identical stats to a standard race are not listed.
 [60]: https://media.wizards.com/2018/downloads/magic/plane-shift_ixalan.pdf "Plane Shift: Ixalan"
 [61]: https://media.wizards.com/2018/dnd/downloads/UA_RavnicaRaces.pdf "Races of Ravnica"
 [62]: https://media.wizards.com/2018/dnd/downloads/UA_Dragonmarks.pdf "Dragonmarks"
+[63]: https://media.wizards.com/2018/dnd/downloads/UA_Magic_Items_of_Eberron.pdf "Magic Items of Eberron"
