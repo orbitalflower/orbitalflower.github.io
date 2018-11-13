@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-10-08
+updated: 2018-11-13
 ---
 
-This is an index of official free online D&D 5e content, primarily Unearthed
-Arcana material.
+This is an index of the official free online D&D 5e content, primarily
+Unearthed Arcana material.
 
 This index last updated: <b>
-2018-10-08
+2018-11-13
 </b>
 
 1. Table of Contents
@@ -462,6 +462,7 @@ Race variants with identical stats to a standard race are not listed.
 - Prestige classes [10][]
 - Quick characters [17][]
 - Rune magic [10][]
+- Ships and naval combat [64][]
 - Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
@@ -532,6 +533,7 @@ Race variants with identical stats to a standard race are not listed.
 61. [Races of Ravnica][61]
 62. [Dragonmarks][62]
 63. [Magic Items of Eberron][63]
+64. [Of Ships and the Sea][64]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -596,3 +598,4 @@ Race variants with identical stats to a standard race are not listed.
 [61]: https://media.wizards.com/2018/dnd/downloads/UA_RavnicaRaces.pdf "Races of Ravnica"
 [62]: https://media.wizards.com/2018/dnd/downloads/UA_Dragonmarks.pdf "Dragonmarks"
 [63]: https://media.wizards.com/2018/dnd/downloads/UA_Magic_Items_of_Eberron.pdf "Magic Items of Eberron"
+[64]: https://media.wizards.com/2018/dnd/downloads/UA_ShipsSea.pdf "Of Ships and the Sea"
