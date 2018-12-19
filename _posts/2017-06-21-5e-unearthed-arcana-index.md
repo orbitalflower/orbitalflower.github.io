@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-11-13
+updated: 2018-12-19
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2018-11-13
+2018-12-19
 </b>
 
 1. Table of Contents
@@ -21,6 +21,7 @@ This index last updated: <b>
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
+- Sidekicks [65][]
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][]
@@ -463,6 +464,7 @@ Race variants with identical stats to a standard race are not listed.
 - Quick characters [17][]
 - Rune magic [10][]
 - Ships and naval combat [64][]
+- Sidekicks [65][]
 - Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
@@ -534,6 +536,7 @@ Race variants with identical stats to a standard race are not listed.
 62. [Dragonmarks][62]
 63. [Magic Items of Eberron][63]
 64. [Of Ships and the Sea][64]
+65. [Sidekicks][65]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -599,3 +602,4 @@ Race variants with identical stats to a standard race are not listed.
 [62]: https://media.wizards.com/2018/dnd/downloads/UA_Dragonmarks.pdf "Dragonmarks"
 [63]: https://media.wizards.com/2018/dnd/downloads/UA_Magic_Items_of_Eberron.pdf "Magic Items of Eberron"
 [64]: https://media.wizards.com/2018/dnd/downloads/UA_ShipsSea.pdf "Of Ships and the Sea"
+[65]: https://media.wizards.com/2018/dnd/downloads/UA_Sidekicks.pdf "Sidekicks"
