@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2018-12-19
+updated: 2019-03-06
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2018-12-19
+2019-03-06
 </b>
 
 1. Table of Contents
@@ -24,7 +24,7 @@ This index last updated: <b>
 - Sidekicks [65][]
 
 ### For any new character
-- New classes [4][], [10][], [28][], [34][]
+- New classes [4][], [10][], [28][], [34][], [66][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
   [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][]
 - New backgrounds [44][], [46][]
@@ -248,6 +248,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Level 1
 - Absorb Elements (Drd/Rgr/Wiz) [53][]
+- Arcane Weapon [66][]
 - Beast Bond (Drd/Rgr) [53][]
 - Cause Fear (War/Wiz) [37][], XGtE
 - Ceremony (Clr/Pal) [37][], XGtE
@@ -424,6 +425,7 @@ Race variants with identical stats to a standard race are not listed.
 
 ### Creatures
 
+- Alchemical Homunculus (CR special) [66][]
 - Archon of Redemption (CR10) [45][]
 - Chupacabra (CR3) [60][]
 - Gremlin (CR1/2) [42][]
@@ -537,6 +539,7 @@ Race variants with identical stats to a standard race are not listed.
 63. [Magic Items of Eberron][63]
 64. [Of Ships and the Sea][64]
 65. [Sidekicks][65]
+66. [Artificer][66]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -603,3 +606,4 @@ Race variants with identical stats to a standard race are not listed.
 [63]: https://media.wizards.com/2018/dnd/downloads/UA_Magic_Items_of_Eberron.pdf "Magic Items of Eberron"
 [64]: https://media.wizards.com/2018/dnd/downloads/UA_ShipsSea.pdf "Of Ships and the Sea"
 [65]: https://media.wizards.com/2018/dnd/downloads/UA_Sidekicks.pdf "Sidekicks"
+[66]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer-2019.pdf "Artificer"
