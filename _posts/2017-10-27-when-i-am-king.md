@@ -2,7 +2,7 @@
 title: "When I am king of the world"
 categories: etc fun
 redirect_from: /misc/funny/when-i-am-king.html
-updated: 2018-06-17
+updated: 2019-04-01
 ---
 
 When I am ruler, the following changes will be made for the betterment of
@@ -115,9 +115,37 @@ society.
 58. By royal decree, the plural of Linux is _Linuces_.
 59. Advertising popups will be heavily taxed.
 60. Tattoo artists and sign makers will be required to pass a spelling test.
+61. The plural of _footprint_ will be _feetprint_.
+62. A chessboxing match shall decide whether it is pronounced _gif_ or _jif_.
+63. I shall secretly rig the chessboxing match.
+64. Statues shall be built of Richard Stallman.
+65. Subsidies shall be given to cover all that empty land in the United States
+    with trees. It worked for Dark Ages Europe.
+66. Playing Monopoly without [the true
+rules](http://www.criticalmiss.com/issue10/CampaignRealMonopoly1.html) shall be
+    forbidden.
+67. Anyone who falsely sells a processed burger as "flame-grilled" will
+    themselves be flame grilled.
+68. For ease of cooking instructions, all microwave ovens will be standardized
+    at 800 watts.
+69. "Amen" is too archaic for modern churchgoers. Prayers will now end with
+    "Nice".
+70. [Funko Pops](https://twitter.com/drewtoothpaste/status/930795364508229632)
+    shall be heavily taxed to fund public art education so that future
+    generations will not create something like Funko Pops.
+71. Any forms which require my subjects to fill in their name will place the
+    first name first and surname last.
+72. There shall be a Nobel Prize for Discovering Interesting Glitches in
+    Videogames.
+73. "Being a dick" is now a crime. Internet and TV advertisements will remind
+    people of the new law with a catchy slogan: "Don't be a dick!"
+74. March 1 shall be celebrated annually as X-COM Day.
+75. The tradition of inventing fake news stories on April Fools day is
+    abolished. False news isn't a joke, because jokes are funny.
 
 ## Changelog
 
 - __2017-10-27__: Added 1-35.
 - __2017-11-18__; Added 36-50.
 - __2018-06-17__: Added 51-60.
+- __2019-04-01__: Added 61-75.
