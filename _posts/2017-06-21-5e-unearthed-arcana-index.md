@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-03-06
+updated: 2019-05-14
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-03-06
+2019-05-14
 </b>
 
 1. Table of Contents
@@ -24,7 +24,7 @@ This index last updated: <b>
 - Sidekicks [65][]
 
 ### For any new character
-- New classes [4][], [10][], [28][], [34][], [66][]
+- New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
   [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][]
 - New backgrounds [44][], [46][]
@@ -127,6 +127,13 @@ Race variants with identical stats to a standard race are not listed.
 
 ### Class archetypes
 
+#### Artificer specialists
+
+- Alchemist [66][], [67][]
+- Archivist [66][]
+- Artillerist [66][], [67][]
+- Battle Smith [66][]
+
 #### Barbarian paths
 - Path of the Ancestral Guardian [21][], [41][], XGtE
 - Path of the Storm Herald [21][], XGtE
@@ -214,7 +221,7 @@ Race variants with identical stats to a standard race are not listed.
 - The Seeker [18][]
 
 #### Wizard traditions
-- Artificer [2][]
+- Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
 - School of Invention [54][]
 - Technomancy [8][]
@@ -222,7 +229,7 @@ Race variants with identical stats to a standard race are not listed.
 - War Magic [35][], XGtE
 
 ### New classes and variant classes
-- Artificer [28][]
+- Artificer [28][], [66][], [67][]
 - Mystic [7][], [14][], [34][]
 - Ranger revised [9][], [19][]
 - Ranger with no spells, variant [4][]
@@ -248,7 +255,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Level 1
 - Absorb Elements (Drd/Rgr/Wiz) [53][]
-- Arcane Weapon [66][]
+- Arcane Weapon (Art) [66][], [67][]
 - Beast Bond (Drd/Rgr) [53][]
 - Cause Fear (War/Wiz) [37][], XGtE
 - Ceremony (Clr/Pal) [37][], XGtE
@@ -359,6 +366,20 @@ Race variants with identical stats to a standard race are not listed.
 - Trickster's Escape (Path of the Seeker) [31][], [43][], XGtE
 - Ultimate Pact Weapon [31][]
 
+#### Infusions
+
+- Boots of the Winding Path [66][], [67][]
+- Enhanced Defense [66][], [67][]
+- Enhanced Wand [66][]
+- Enhanced Weapon [66][], [67][]
+- Many-Handed Pouch [66][], [67][]
+- Radiant Weapon [66][], [67][]
+- Repeating Shot [66][]
+- Replicate Magic item [66][], [67][]
+- Repulsion Shield [66][]
+- Resistant Armor [66][], [67][]
+- Returning Weapon [66][], [67][]
+
 ### Feats
 - Aberrant Dragonmark [62][]
 - Acrobat [39][]
@@ -425,7 +446,7 @@ Race variants with identical stats to a standard race are not listed.
 
 ### Creatures
 
-- Alchemical Homunculus (CR special) [66][]
+- Alchemical Homunculus (CR special) [66][], [67][]
 - Archon of Redemption (CR10) [45][]
 - Chupacabra (CR3) [60][]
 - Gremlin (CR1/2) [42][]
@@ -436,6 +457,7 @@ Race variants with identical stats to a standard race are not listed.
 - Frilled Deathspitter (CR1/2) [60][]
 - Geist (CR4) [46][]
 - Gishath, Sun'S Avatar (CR10) [60][]
+- Iron Defender (CR special) [66][]
 - Kraken (CR13) [45][]
 - Manticore, heart-piercer (CR5) [44][]
 - Serpopard (CR3) [44][]
@@ -540,6 +562,7 @@ Race variants with identical stats to a standard race are not listed.
 64. [Of Ships and the Sea][64]
 65. [Sidekicks][65]
 66. [Artificer][66]
+67. [Artificer 2][67]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -607,3 +630,4 @@ Race variants with identical stats to a standard race are not listed.
 [64]: https://media.wizards.com/2018/dnd/downloads/UA_ShipsSea.pdf "Of Ships and the Sea"
 [65]: https://media.wizards.com/2018/dnd/downloads/UA_Sidekicks.pdf "Sidekicks"
 [66]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer-2019.pdf "Artificer"
+[67]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer2-2019.pdf "Artificer 2"
