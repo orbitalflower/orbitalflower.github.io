@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-05-14
+updated: 2019-08-15
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-05-14
+2019-08-15
 </b>
 
 1. Table of Contents
@@ -39,12 +39,12 @@ This index last updated: <b>
 - Warforged [63][]
 
 ### For characters of a certain class
-- Barbarian [21][], [41][]
+- Barbarian [21][], [41][], [68][]
 - Bard [13][], [22][], [41][], [53][]
 - Cleric [8][], [23][], [37][], [44][], [56][]
 - Druid [24][], [37][], [43][], [53][], [54][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
-- Monk [26][], [36][], [41][]
+- Monk [26][], [36][], [41][], [68][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
 - Rogue [5][], [15][]
@@ -138,6 +138,7 @@ Race variants with identical stats to a standard race are not listed.
 - Path of the Ancestral Guardian [21][], [41][], XGtE
 - Path of the Storm Herald [21][], XGtE
 - Path of the Zealot [21][], XGtE
+- Path of the Wild Soul [68][]
 
 #### Bard colleges
 - College of Glamour [22][], XGtE
@@ -181,6 +182,7 @@ Race variants with identical stats to a standard race are not listed.
 - Way of Tranquility [26][]
 - Way of the Drunken Master [36][], XGtE
 - Way of the Kensei [26][], [41][], XGtE
+- Way of the Astral Self [68][]
 
 #### Paladin oaths
 - Oath of Conquest [27][], [43][], XGtE
@@ -563,6 +565,7 @@ Race variants with identical stats to a standard race are not listed.
 65. [Sidekicks][65]
 66. [Artificer][66]
 67. [Artificer 2][67]
+68. [Barbarian and Monk][68]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -631,3 +634,4 @@ Race variants with identical stats to a standard race are not listed.
 [65]: https://media.wizards.com/2018/dnd/downloads/UA_Sidekicks.pdf "Sidekicks"
 [66]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer-2019.pdf "Artificer"
 [67]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer2-2019.pdf "Artificer 2"
+[68]: https://media.wizards.com/2019/dnd/downloads/UA-WildAstral.pdf "Barbarian and Monk"
