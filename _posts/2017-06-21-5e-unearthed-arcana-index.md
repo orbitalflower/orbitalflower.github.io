@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-08-15
+updated: 2019-09-05
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-08-15
+2019-09-05
 </b>
 
 1. Table of Contents
@@ -48,9 +48,9 @@ This index last updated: <b>
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
 - Rogue [5][], [15][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][]
 
 ## Content index by type
 
@@ -206,6 +206,7 @@ Race variants with identical stats to a standard race are not listed.
 - Swashbuckler [5][], XGtE
 
 #### Sorcerous origins
+- Aberrant Mind [69][]
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
 - Phoenix Sorcery [30][]
@@ -219,6 +220,7 @@ Race variants with identical stats to a standard race are not listed.
 - Ghost in the Machine [8][]
 - The Celestial (The Undying Light) [11][], [43][], XGtE
 - The Hexblade [31][], XGtE
+- The Lurker in the Deep [69][]
 - The Raven Queen [31][]
 - The Seeker [18][]
 
@@ -247,6 +249,7 @@ Race variants with identical stats to a standard race are not listed.
 - Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
 - Infestation (Drd/Sor/War/Wiz) [37][], XGtE
 - Magic Stone (Drd/War) [53][]
+- Mind Sliver (Sor/War/Wiz) [69][]
 - Mold Earth (Drd/Sor/Wiz) [53][]
 - On/Off (Sor/War/Wiz) [8][]
 - Primal Savagery (Drd) [37][], XGtE
@@ -566,6 +569,7 @@ Race variants with identical stats to a standard race are not listed.
 66. [Artificer][66]
 67. [Artificer 2][67]
 68. [Barbarian and Monk][68]
+69. [Sorcerer and Warlock][69]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -635,3 +639,4 @@ Race variants with identical stats to a standard race are not listed.
 [66]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer-2019.pdf "Artificer"
 [67]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer2-2019.pdf "Artificer 2"
 [68]: https://media.wizards.com/2019/dnd/downloads/UA-WildAstral.pdf "Barbarian and Monk"
+[69]: https://media.wizards.com/2019/dnd/downloads/UA-AberrantLurk.pdf "Sorcerer and Warlock"
