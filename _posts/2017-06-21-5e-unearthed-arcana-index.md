@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-09-05
+updated: 2019-09-18
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-09-05
+2019-09-18
 </b>
 
 1. Table of Contents
@@ -40,12 +40,12 @@ This index last updated: <b>
 
 ### For characters of a certain class
 - Barbarian [21][], [41][], [68][]
-- Bard [13][], [22][], [41][], [53][]
+- Bard [13][], [22][], [41][], [53][], [70][]
 - Cleric [8][], [23][], [37][], [44][], [56][]
 - Druid [24][], [37][], [43][], [53][], [54][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
 - Monk [26][], [36][], [41][], [68][]
-- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][]
+- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
 - Rogue [5][], [15][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][]
@@ -141,6 +141,7 @@ Race variants with identical stats to a standard race are not listed.
 - Path of the Wild Soul [68][]
 
 #### Bard colleges
+- College of Eloquence [70][]
 - College of Glamour [22][], XGtE
 - College of Satire [13][]
 - College of Swords [13][], [41][], XGtE
@@ -186,6 +187,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Paladin oaths
 - Oath of Conquest [27][], [43][], XGtE
+- Oath of Heroism [70][]
 - Oath of Redemption [36][], XGtE
 - Oath of Treachery [27][]
 
@@ -570,6 +572,7 @@ Race variants with identical stats to a standard race are not listed.
 67. [Artificer 2][67]
 68. [Barbarian and Monk][68]
 69. [Sorcerer and Warlock][69]
+70. [Bard and Paladin][70]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -640,3 +643,4 @@ Race variants with identical stats to a standard race are not listed.
 [67]: https://media.wizards.com/2019/dnd/downloads/UA-Artificer2-2019.pdf "Artificer 2"
 [68]: https://media.wizards.com/2019/dnd/downloads/UA-WildAstral.pdf "Barbarian and Monk"
 [69]: https://media.wizards.com/2019/dnd/downloads/UA-AberrantLurk.pdf "Sorcerer and Warlock"
+[70]: https://media.wizards.com/2019/dnd/downloads/UA-EloquentHeroics.pdf "Bard and Paladin"
