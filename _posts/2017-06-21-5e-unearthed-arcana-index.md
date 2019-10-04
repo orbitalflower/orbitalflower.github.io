@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-09-18
+updated: 2019-10-04
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-09-18
+2019-10-04
 </b>
 
 1. Table of Contents
@@ -41,8 +41,8 @@ This index last updated: <b>
 ### For characters of a certain class
 - Barbarian [21][], [41][], [68][]
 - Bard [13][], [22][], [41][], [53][], [70][]
-- Cleric [8][], [23][], [37][], [44][], [56][]
-- Druid [24][], [37][], [43][], [53][], [54][]
+- Cleric [8][], [23][], [37][], [44][], [56][], [71][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
 - Monk [26][], [36][], [41][], [68][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][]
@@ -50,7 +50,7 @@ This index last updated: <b>
 - Rogue [5][], [15][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][]
 
 ## Content index by type
 
@@ -156,6 +156,7 @@ Race variants with identical stats to a standard race are not listed.
 - Protection [23][]
 - Solidarity [44][]
 - Strength [44][]
+- Twilight [71][]
 - Zeal [44][]
 
 #### Druid circles
@@ -163,6 +164,7 @@ Race variants with identical stats to a standard race are not listed.
 - Circle of the Shepherd [24][], [43][], XGtE
 - Circle of Spores [54][]
 - Circle of Twilight [24][]
+- Circle of Wildfire [71][]
 
 #### Fighter archetypes
 - Arcane Archer [25][], [41][], XGtE
@@ -229,6 +231,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Wizard traditions
 - Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
+- Onomancy (Truename magic) [71][]
 - School of Invention [54][]
 - Technomancy [8][]
 - Theurgy [18][], [35][]
@@ -473,6 +476,7 @@ Race variants with identical stats to a standard race are not listed.
 - Sunbird (CR13) [60][]
 - Vampire Neonate (CR5) [46][]
 - Werewolf (Krallenhorde) (CR3) [46][]
+- Wildfire Spirit [71][]
 
 ### Miscellaneous new rules
 - Action points [2][]
@@ -573,6 +577,7 @@ Race variants with identical stats to a standard race are not listed.
 68. [Barbarian and Monk][68]
 69. [Sorcerer and Warlock][69]
 70. [Bard and Paladin][70]
+71. [Cleric, Druid and Wizard][71]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -644,3 +649,4 @@ Race variants with identical stats to a standard race are not listed.
 [68]: https://media.wizards.com/2019/dnd/downloads/UA-WildAstral.pdf "Barbarian and Monk"
 [69]: https://media.wizards.com/2019/dnd/downloads/UA-AberrantLurk.pdf "Sorcerer and Warlock"
 [70]: https://media.wizards.com/2019/dnd/downloads/UA-EloquentHeroics.pdf "Bard and Paladin"
+[71]: https://media.wizards.com/2019/dnd/downloads/UA-TwilightFireNames.pdf "Cleric, Druid and Wizard"
