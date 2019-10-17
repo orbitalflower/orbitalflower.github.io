@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-10-04
+updated: 2019-10-17
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-10-04
+2019-10-17
 </b>
 
 1. Table of Contents
@@ -22,6 +22,7 @@ This index last updated: <b>
 - Dragonmarks [62][]
 - Magic items [63][]
 - Sidekicks [65][]
+
 
 ### For any new character
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
@@ -43,11 +44,11 @@ This index last updated: <b>
 - Bard [13][], [22][], [41][], [53][], [70][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][]
-- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][]
 - Monk [26][], [36][], [41][], [68][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][]
-- Rogue [5][], [15][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][]
+- Rogue [5][], [15][], [72][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][]
@@ -172,6 +173,7 @@ Race variants with identical stats to a standard race are not listed.
 - Cavalier [13][], [43][], XGtE
 - Knight [25][]
 - Monster Hunter [15][]
+- Rune Knight [72][]
 - Samurai [25][], XGtE
 - Scout [13][]
 - Sharpshooter [25][]
@@ -203,11 +205,13 @@ Race variants with identical stats to a standard race are not listed.
 - Primeval Guardian [29][]
 - Seeker [9][]
 - Stalker [9][]
+- Swarmkeeper [72][]
 
 #### Rogue archetypes
 - Inquisitive [15][], XGtE
 - Scout [29][], XGtE
 - Swashbuckler [5][], XGtE
+- The Revived [72][]
 
 #### Sorcerous origins
 - Aberrant Mind [69][]
@@ -578,6 +582,7 @@ Race variants with identical stats to a standard race are not listed.
 69. [Sorcerer and Warlock][69]
 70. [Bard and Paladin][70]
 71. [Cleric, Druid and Wizard][71]
+72. [Fighter, Ranger, and Rogue][72]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -650,3 +655,4 @@ Race variants with identical stats to a standard race are not listed.
 [69]: https://media.wizards.com/2019/dnd/downloads/UA-AberrantLurk.pdf "Sorcerer and Warlock"
 [70]: https://media.wizards.com/2019/dnd/downloads/UA-EloquentHeroics.pdf "Bard and Paladin"
 [71]: https://media.wizards.com/2019/dnd/downloads/UA-TwilightFireNames.pdf "Cleric, Druid and Wizard"
+[72]: https://media.wizards.com/2019/dnd/downloads/UA-RuneSwarmRevived.pdf "Fighter, Ranger, and Rogue"
