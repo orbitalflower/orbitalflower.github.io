@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-11-04
+updated: 2019-12-20
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-11-04
+2019-12-20
 </b>
 
 1. Table of Contents
@@ -17,7 +17,7 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][], [53][]
+- Feats [2][], [16][], [39][], [42][], [53][], [74][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
@@ -43,14 +43,14 @@ This index last updated: <b>
 - Bard [13][], [22][], [41][], [53][], [70][],[73][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][],[73][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][],[73][]
-- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][],[73][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][],  [72][],[73][], [74][]
 - Monk [26][], [36][], [41][], [68][],[73][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][],[73][]
-- Rogue [5][], [15][], [72][],[73][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][],[73][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][],[73][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][],[73][]
+- Rogue [5][], [15][], [72][],[73][], [74][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][]
 
 ## Content index by type
 
@@ -172,6 +172,7 @@ Race variants with identical stats to a standard race are not listed.
 - Cavalier [13][], [43][], XGtE
 - Knight [25][]
 - Monster Hunter [15][]
+- Psychic Warrior [74][]
 - Rune Knight [72][]
 - Samurai [25][], XGtE
 - Scout [13][]
@@ -209,6 +210,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Rogue archetypes
 - Inquisitive [15][], XGtE
 - Scout [29][], XGtE
+- Soulknife [74][]
 - Swashbuckler [5][], XGtE
 - The Revived [72][]
 
@@ -235,6 +237,7 @@ Race variants with identical stats to a standard race are not listed.
 - Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
 - Onomancy (Truename magic) [71][]
+- Psionics [74][]
 - School of Invention [54][]
 - Technomancy [8][]
 - Theurgy [18][], [35][]
@@ -257,7 +260,7 @@ Race variants with identical stats to a standard race are not listed.
 - Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
 - Infestation (Drd/Sor/War/Wiz) [37][], XGtE
 - Magic Stone (Drd/War) [53][]
-- Mind Sliver (Sor/War/Wiz) [69][]
+- Mind Sliver (Brd/Sor/War/Wiz) [69][], [74][]
 - Mold Earth (Drd/Sor/Wiz) [53][]
 - On/Off (Sor/War/Wiz) [8][]
 - Primal Savagery (Drd) [37][], XGtE
@@ -294,10 +297,14 @@ Race variants with identical stats to a standard race are not listed.
 - Dust Devil (Drd/Sor/Wiz) [53][]
 - Earthbind (Drd/Sor/War/Wiz) [53][]
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
+- Id Insinuation (Brd/Sor/War/Wiz) [74][]
 - Maximilian's Earthen Grasp (Sor/Wiz) [53][]
+- Mind Thrust (Brd/Sor/War/Wiz) [74][]
+- Mental Barrier (Brd/Sor/War/Wiz) [74][]
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
+- Thought Shield (Brd/Sor/War/Wiz) [74][]
 - Warding Wind (Brd/Drd/Sor) [53][]
 
 #### Level 3
@@ -308,6 +315,7 @@ Race variants with identical stats to a standard race are not listed.
 - Invisibility to Cameras (Sor/War/Wiz) [8][]
 - Melf's Minute Meteors (Sor/Wiz) [53][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
+- Psionic Blast (Brd/Sor/War/Wiz) [74][]
 - Tidal Wave (Drd/Wiz) [53][]
 - Wall of Sand (Wiz) [53][]
 - Wall of Water (Drd/Sor/Wiz) [53][]
@@ -316,6 +324,7 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Barlgura (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Conjure Knowbot (Sor/War/Wiz) [8][]
 - Conjure Shadow Demon (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
+- Ego Whip (Brd/Sor/War/Wiz) [74][]
 - Elemental Bane (Drd/War/Wiz) [53][]
 - Storm Sphere (Sor/Wiz) [53][]
 - Synchronicity (Sor/War/Wiz) [8][]
@@ -328,6 +337,7 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Vrock (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
 - Control Winds (Drd/Sor/Wiz) [53][], [62][]
 - Immolation (Sor/Wiz) [53][]
+- Intellect Fortress (Brd/Sor/War/Wiz) [74][]
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
 - Transmute Rock (Drd/Wiz) [53][]
@@ -339,6 +349,7 @@ Race variants with identical stats to a standard race are not listed.
 - Investiture of Stone (Drd/Sor/War/Wiz) [53][]
 - Investiture of Wind (Drd/Sor/War/Wiz) [53][]
 - Primordial Ward (Drd) [53][]
+- Psychic Crush (Brd/Sor/War/Wiz) [74][]
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
@@ -446,6 +457,8 @@ Race variants with identical stats to a standard race are not listed.
 - Stealthy [39][]
 - Survivalist [39][]
 - Svirfneblin Magic (deep gnome) [53][]
+- Telekinetic [74][]
+- Telepathic [74][]
 - Theologian [39][]
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][], XGtE
@@ -584,6 +597,7 @@ Race variants with identical stats to a standard race are not listed.
 71. [Cleric, Druid and Wizard][71]
 72. [Fighter, Ranger, and Rogue][72]
 73. [Class Feature Variants][73]
+74. [Fighter, Rogue, and Wizard][74]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -658,3 +672,4 @@ Race variants with identical stats to a standard race are not listed.
 [71]: https://media.wizards.com/2019/dnd/downloads/UA-TwilightFireNames.pdf "Cleric, Druid and Wizard"
 [72]: https://media.wizards.com/2019/dnd/downloads/UA-RuneSwarmRevived.pdf "Fighter, Ranger, and Rogue"
 [73]: https://media.wizards.com/2019/dnd/downloads/UA-ClassFeatures.pdf "Class Feature Variants"
+[74]: https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf "Fighter, Rogue, and Wizard"
