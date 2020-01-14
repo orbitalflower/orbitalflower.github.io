@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2019-12-20
+updated: 2020-01-14
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2019-12-20
+2020-01-14
 </b>
 
 1. Table of Contents
@@ -39,17 +39,17 @@ This index last updated: <b>
 - Warforged [63][]
 
 ### For characters of a certain class
-- Barbarian [21][], [41][], [68][],[73][]
+- Barbarian [21][], [41][], [68][], [73][], [75][]
 - Bard [13][], [22][], [41][], [53][], [70][],[73][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][],[73][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][],[73][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][],  [72][],[73][], [74][]
-- Monk [26][], [36][], [41][], [68][],[73][]
-- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][],[73][]
+- Monk [26][], [36][], [41][], [68][], [73][], [75][]
+- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][]
 - Rogue [5][], [15][], [72][],[73][], [74][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][]
 
 ## Content index by type
@@ -136,6 +136,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Barbarian paths
 - Path of the Ancestral Guardian [21][], [41][], XGtE
+- Path of the Beast [75][]
 - Path of the Storm Herald [21][], XGtE
 - Path of the Zealot [21][], XGtE
 - Path of the Wild Soul [68][]
@@ -184,16 +185,18 @@ Race variants with identical stats to a standard race are not listed.
 - Tunnel Fighter [11][]
 
 #### Monk traditions
-- Way of Tranquility [26][]
+- Way of the Astral Self [68][]
 - Way of the Drunken Master [36][], XGtE
 - Way of the Kensei [26][], [41][], XGtE
-- Way of the Astral Self [68][]
+- Way of Mercy [75][]
+- Way of Tranquility [26][]
 
 #### Paladin oaths
 - Oath of Conquest [27][], [43][], XGtE
 - Oath of Heroism [70][]
 - Oath of Redemption [36][], XGtE
 - Oath of Treachery [27][]
+- Oath of the Watchers [75][]
 
 #### Ranger archetypes
 - Beast [19][]
@@ -230,6 +233,7 @@ Race variants with identical stats to a standard race are not listed.
 - The Celestial (The Undying Light) [11][], [43][], XGtE
 - The Hexblade [31][], XGtE
 - The Lurker in the Deep [69][]
+- The Noble Genie [75][]
 - The Raven Queen [31][]
 - The Seeker [18][]
 
@@ -598,6 +602,7 @@ Race variants with identical stats to a standard race are not listed.
 72. [Fighter, Ranger, and Rogue][72]
 73. [Class Feature Variants][73]
 74. [Fighter, Rogue, and Wizard][74]
+75. [Subclasses, Part 1][75]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -673,3 +678,4 @@ Race variants with identical stats to a standard race are not listed.
 [72]: https://media.wizards.com/2019/dnd/downloads/UA-RuneSwarmRevived.pdf "Fighter, Ranger, and Rogue"
 [73]: https://media.wizards.com/2019/dnd/downloads/UA-ClassFeatures.pdf "Class Feature Variants"
 [74]: https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf "Fighter, Rogue, and Wizard"
+[75]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses01.pdf "Subclasses, Part 1"
