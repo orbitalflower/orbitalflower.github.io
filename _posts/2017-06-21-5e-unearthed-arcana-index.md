@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-01-14
+updated: 2020-02-04
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-01-14
+2020-02-04
 </b>
 
 1. Table of Contents
@@ -40,15 +40,15 @@ This index last updated: <b>
 
 ### For characters of a certain class
 - Barbarian [21][], [41][], [68][], [73][], [75][]
-- Bard [13][], [22][], [41][], [53][], [70][],[73][]
-- Cleric [8][], [23][], [37][], [44][], [56][], [71][],[73][]
-- Druid [24][], [37][], [43][], [53][], [54][], [71][],[73][]
-- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][],  [72][],[73][], [74][]
+- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][]
+- Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][]
 - Rogue [5][], [15][], [72][],[73][], [74][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][]
 
@@ -142,6 +142,7 @@ Race variants with identical stats to a standard race are not listed.
 - Path of the Wild Soul [68][]
 
 #### Bard colleges
+- College of Creation [76][]
 - College of Eloquence [70][]
 - College of Glamour [22][], XGtE
 - College of Satire [13][]
@@ -153,6 +154,7 @@ Race variants with identical stats to a standard race are not listed.
 - City [8][]
 - Forge [23][], XGtE
 - Grave [23][], XGtE
+- Love [76][]
 - Order [56][]
 - Protection [23][]
 - Solidarity [44][]
@@ -219,6 +221,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Sorcerous origins
 - Aberrant Mind [69][]
+- Clockwork Soul [76][]
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
 - Phoenix Sorcery [30][]
@@ -603,6 +606,7 @@ Race variants with identical stats to a standard race are not listed.
 73. [Class Feature Variants][73]
 74. [Fighter, Rogue, and Wizard][74]
 75. [Subclasses, Part 1][75]
+76. [Subclasses, Part 2][76]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -679,3 +683,4 @@ Race variants with identical stats to a standard race are not listed.
 [73]: https://media.wizards.com/2019/dnd/downloads/UA-ClassFeatures.pdf "Class Feature Variants"
 [74]: https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf "Fighter, Rogue, and Wizard"
 [75]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses01.pdf "Subclasses, Part 1"
+[76]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses02.pdf "Subclasses, Part 2"
