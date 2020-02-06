@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-02-04
+updated: 2020-02-06
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-02-04
+2020-02-06
 </b>
 
 1. Table of Contents
@@ -683,4 +683,4 @@ Race variants with identical stats to a standard race are not listed.
 [73]: https://media.wizards.com/2019/dnd/downloads/UA-ClassFeatures.pdf "Class Feature Variants"
 [74]: https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf "Fighter, Rogue, and Wizard"
 [75]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses01.pdf "Subclasses, Part 1"
-[76]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses02.pdf "Subclasses, Part 2"
+[76]: https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf "Subclasses, Part 2"
