@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-02-06
+updated: 2020-02-24
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-02-06
+2020-02-24
 </b>
 
 1. Table of Contents
@@ -39,14 +39,15 @@ This index last updated: <b>
 - Warforged [63][]
 
 ### For characters of a certain class
+- Artificer [66][], [67][], [77][]
 - Barbarian [21][], [41][], [68][], [73][], [75][]
 - Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][]
-- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][]
 - Rogue [5][], [15][], [72][],[73][], [74][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][]
@@ -131,6 +132,7 @@ Race variants with identical stats to a standard race are not listed.
 
 - Alchemist [66][], [67][]
 - Archivist [66][]
+- Armorer [77][]
 - Artillerist [66][], [67][]
 - Battle Smith [66][]
 
@@ -166,6 +168,7 @@ Race variants with identical stats to a standard race are not listed.
 - Circle of Dreams [24][], XGtE
 - Circle of the Shepherd [24][], [43][], XGtE
 - Circle of Spores [54][]
+- Circle of the Stars [77][]
 - Circle of Twilight [24][]
 - Circle of Wildfire [71][]
 
@@ -203,6 +206,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Ranger archetypes
 - Beast [19][]
 - Deep Stalker (Gloom Stalker) [11][], [19][], XGtE
+- Fey Wanderer [77][]
 - Guardian [9][]
 - Horizon Walker [29][], XGtE
 - Hunter [19][]
@@ -399,17 +403,22 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Infusions
 
+- Armor of Magical Strength [77][]
+- Armor of Tools [77][]
 - Boots of the Winding Path [66][], [67][]
 - Enhanced Defense [66][], [67][]
 - Enhanced Wand [66][]
 - Enhanced Weapon [66][], [67][]
+- Helm of Awareness [77][]
 - Many-Handed Pouch [66][], [67][]
+- Mind Sharpener [77][]
 - Radiant Weapon [66][], [67][]
 - Repeating Shot [66][]
 - Replicate Magic item [66][], [67][]
 - Repulsion Shield [66][]
 - Resistant Armor [66][], [67][]
 - Returning Weapon [66][], [67][]
+- Spell-Refueling Ring [77][]
 
 ### Feats
 - Aberrant Dragonmark [62][]
@@ -607,6 +616,7 @@ Race variants with identical stats to a standard race are not listed.
 74. [Fighter, Rogue, and Wizard][74]
 75. [Subclasses, Part 1][75]
 76. [Subclasses, Part 2][76]
+77. [Subclasses, Part 3][77]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -684,3 +694,4 @@ Race variants with identical stats to a standard race are not listed.
 [74]: https://media.wizards.com/2019/dnd/downloads/UA-PsychicSoulPsionics.pdf "Fighter, Rogue, and Wizard"
 [75]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses01.pdf "Subclasses, Part 1"
 [76]: https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf "Subclasses, Part 2"
+[77]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses03_0224.pdf "Subclasses, Part 3"
