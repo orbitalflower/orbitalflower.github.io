@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-02-24
+updated: 2020-04-01
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-02-24
+2020-04-01
 </b>
 
 1. Table of Contents
@@ -41,17 +41,17 @@ This index last updated: <b>
 ### For characters of a certain class
 - Artificer [66][], [67][], [77][]
 - Barbarian [21][], [41][], [68][], [73][], [75][]
-- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][]
-- Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][]
-- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][]
+- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][]
+- Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][]
-- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][]
+- Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][]
 - Rogue [5][], [15][], [72][],[73][], [74][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][]
 
 ## Content index by type
 
@@ -282,6 +282,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Level 1
 - Absorb Elements (Drd/Rgr/Wiz) [53][]
+- Acid Stream (Sor/Wiz) [78][]
 - Arcane Weapon (Art) [66][], [67][]
 - Beast Bond (Drd/Rgr) [53][]
 - Cause Fear (War/Wiz) [37][], XGtE
@@ -315,6 +316,7 @@ Race variants with identical stats to a standard race are not listed.
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
+- Summon Bestial Spirit (Drd/Rgr) [78][]
 - Thought Shield (Brd/Sor/War/Wiz) [74][]
 - Warding Wind (Brd/Drd/Sor) [53][]
 
@@ -327,6 +329,10 @@ Race variants with identical stats to a standard race are not listed.
 - Melf's Minute Meteors (Sor/Wiz) [53][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
 - Psionic Blast (Brd/Sor/War/Wiz) [74][]
+- Spirit Shroud [78][]
+- Summon Fey Spirit [78][]
+- Summon Shadow Spirit [78][]
+- Summon Undead Spirit [78][]
 - Tidal Wave (Drd/Wiz) [53][]
 - Wall of Sand (Wiz) [53][]
 - Wall of Water (Drd/Sor/Wiz) [53][]
@@ -338,6 +344,8 @@ Race variants with identical stats to a standard race are not listed.
 - Ego Whip (Brd/Sor/War/Wiz) [74][]
 - Elemental Bane (Drd/War/Wiz) [53][]
 - Storm Sphere (Sor/Wiz) [53][]
+- Summon Aberrant Spirit [78][]
+- Summon Elemental Spirit [78][]
 - Synchronicity (Sor/War/Wiz) [8][]
 - System Backdoor (Sor/War/Wiz) [8][]
 - Vitriolic Sphere (Sor/Wiz) [53][]
@@ -351,6 +359,7 @@ Race variants with identical stats to a standard race are not listed.
 - Intellect Fortress (Brd/Sor/War/Wiz) [74][]
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
+- Summon Celestial Spirit [78][]
 - Transmute Rock (Drd/Wiz) [53][]
 
 #### Level 6
@@ -359,8 +368,10 @@ Race variants with identical stats to a standard race are not listed.
 - Investiture of Ice (Drd/Sor/War/Wiz) [53][]
 - Investiture of Stone (Drd/Sor/War/Wiz) [53][]
 - Investiture of Wind (Drd/Sor/War/Wiz) [53][]
+- Otherworldly Form [78][]
 - Primordial Ward (Drd) [53][]
 - Psychic Crush (Brd/Sor/War/Wiz) [74][]
+- Summon Fiendish Spirit [78][]
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
@@ -533,6 +544,7 @@ Race variants with identical stats to a standard race are not listed.
 - Rune magic [10][]
 - Ships and naval combat [64][]
 - Sidekicks [65][]
+- Tattoos [78][]
 - Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
@@ -617,6 +629,7 @@ Race variants with identical stats to a standard race are not listed.
 75. [Subclasses, Part 1][75]
 76. [Subclasses, Part 2][76]
 77. [Subclasses, Part 3][77]
+78. [Spells and Magic Tattoos][78]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -695,3 +708,4 @@ Race variants with identical stats to a standard race are not listed.
 [75]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses01.pdf "Subclasses, Part 1"
 [76]: https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf "Subclasses, Part 2"
 [77]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses03_0224.pdf "Subclasses, Part 3"
+[78]: https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf "Spells and Magic Tattoos"
