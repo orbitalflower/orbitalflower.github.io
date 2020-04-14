@@ -142,6 +142,27 @@ rules](http://www.criticalmiss.com/issue10/CampaignRealMonopoly1.html) shall be
 74. March 1 shall be celebrated annually as X-COM Day.
 75. The tradition of inventing fake news stories on April Fools day is
     abolished. False news isn't a joke, because jokes are funny.
+76. April 1st shall be made a day for wearing amusing costumes. It's at the
+    perfect interval between Halloween and next Halloween.
+77. The letter 'W' will be renamed "double V".
+78. Spoiling recently released movies shall be a crime.
+79. Wood veneer shall be standardized to make it easier to shop for
+    matching furniture.
+80. English numbers shall standardize on the [short scale](https://en.wikipedia.org/wiki/Long_and_short_scales).
+81. Youtube will ban anyone caught speeding up music and tagging it as
+    "Nightcore".
+82. Graffiti shall be a minor misdemeanor. Graffiti without artistic merit shall
+    be a felony. You want to draw on the walls, you'd better be ready to convey
+    tone and themes.
+81. Pills for cats and dogs shall be made out of beef jerky.
+82. To avoid international confusion with other forms of "football", soccer is
+    now officially known as "footy".
+83. I shall bring back walled cities in case of technological collapse or
+    zombie outbreak.
+84. Bathrooms shall be constructed to be an even width and length of bathroom
+    tiles.
+85. If amber worked for preserving million-year-old mosquitos, we'll preserve
+    the bodies of people in amber for future generations.
 
 ## Changelog
 

@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-04-01
+updated: 2020-04-14
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-04-01
+2020-04-14
 </b>
 
 1. Table of Contents
@@ -17,7 +17,7 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][], [53][], [74][]
+- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
@@ -44,12 +44,12 @@ This index last updated: <b>
 - Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][]
-- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][]
+- Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][], [79][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][]
-- Rogue [5][], [15][], [72][],[73][], [74][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][]
+- Rogue [5][], [15][], [72][],[73][], [74][], [79][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][]
 
@@ -179,6 +179,7 @@ Race variants with identical stats to a standard race are not listed.
 - Knight [25][]
 - Monster Hunter [15][]
 - Psychic Warrior [74][]
+- Psi Knight [79][]
 - Rune Knight [72][]
 - Samurai [25][], XGtE
 - Scout [13][]
@@ -219,16 +220,16 @@ Race variants with identical stats to a standard race are not listed.
 #### Rogue archetypes
 - Inquisitive [15][], XGtE
 - Scout [29][], XGtE
-- Soulknife [74][]
+- Soulknife [74][], [79][]
 - Swashbuckler [5][], XGtE
 - The Revived [72][]
 
 #### Sorcerous origins
-- Aberrant Mind [69][]
 - Clockwork Soul [76][]
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
 - Phoenix Sorcery [30][]
+- Psionic Soul (Aberrant Mind) [69][], [79][]
 - Pyromancer [42][]
 - Sea Sorcery [30][]
 - Shadow (Shadow Magic) [11][], XGtE
@@ -271,7 +272,7 @@ Race variants with identical stats to a standard race are not listed.
 - Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
 - Infestation (Drd/Sor/War/Wiz) [37][], XGtE
 - Magic Stone (Drd/War) [53][]
-- Mind Sliver (Brd/Sor/War/Wiz) [69][], [74][]
+- Mind Sliver (Brd/Sor/War/Wiz) [69][], [74][], [79][]
 - Mold Earth (Drd/Sor/Wiz) [53][]
 - On/Off (Sor/War/Wiz) [8][]
 - Primal Savagery (Drd) [37][], XGtE
@@ -311,7 +312,7 @@ Race variants with identical stats to a standard race are not listed.
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
 - Id Insinuation (Brd/Sor/War/Wiz) [74][]
 - Maximilian's Earthen Grasp (Sor/Wiz) [53][]
-- Mind Thrust (Brd/Sor/War/Wiz) [74][]
+- Mind Thrust (Brd/Sor/War/Wiz) [74][], [79][]
 - Mental Barrier (Brd/Sor/War/Wiz) [74][]
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
@@ -343,6 +344,7 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Shadow Demon (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Ego Whip (Brd/Sor/War/Wiz) [74][]
 - Elemental Bane (Drd/War/Wiz) [53][]
+- Intellect Fortress (Brd/Sor/War/Wiz) [74][], [79][]
 - Storm Sphere (Sor/Wiz) [53][]
 - Summon Aberrant Spirit [78][]
 - Summon Elemental Spirit [78][]
@@ -356,7 +358,6 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Vrock (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
 - Control Winds (Drd/Sor/Wiz) [53][], [62][]
 - Immolation (Sor/Wiz) [53][]
-- Intellect Fortress (Brd/Sor/War/Wiz) [74][]
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
 - Summon Celestial Spirit [78][]
@@ -468,6 +469,7 @@ Race variants with identical stats to a standard race are not listed.
 - Master of Disguise [16][]
 - Medic [39][]
 - Menacing [39][]
+- Metabolic Control [79][]
 - Naturalist [39][]
 - Orcish Aggression (half-orc) [40][]
 - Orcish Fury (half-orc) [40][], XGtE
@@ -484,9 +486,11 @@ Race variants with identical stats to a standard race are not listed.
 - Stealthy [39][]
 - Survivalist [39][]
 - Svirfneblin Magic (deep gnome) [53][]
-- Telekinetic [74][]
-- Telepathic [74][]
+- Telekinetic [74][], [79][]
+- Telepathic [74][], [79][]
+- Tower of Iron Will [79][]
 - Theologian [39][]
+- Wild Talent [79][]
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][], XGtE
 
@@ -630,6 +634,7 @@ Race variants with identical stats to a standard race are not listed.
 76. [Subclasses, Part 2][76]
 77. [Subclasses, Part 3][77]
 78. [Spells and Magic Tattoos][78]
+79. [Psionic Options Revisited][79]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -709,3 +714,4 @@ Race variants with identical stats to a standard race are not listed.
 [76]: https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf "Subclasses, Part 2"
 [77]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses03_0224.pdf "Subclasses, Part 3"
 [78]: https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf "Spells and Magic Tattoos"
+[79]: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf "Psionic Options Revisited"
