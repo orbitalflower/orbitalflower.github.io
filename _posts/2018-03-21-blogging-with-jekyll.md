@@ -1,5 +1,5 @@
 ---
-title: "Blogging with Jekyll"
+title: "The pros and cons of blogging with Jekyll"
 categories: comp web
 redirect-from: /20150819-blogging-with-jekyll.html
 ---

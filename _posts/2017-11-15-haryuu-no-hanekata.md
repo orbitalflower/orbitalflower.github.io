@@ -1,5 +1,5 @@
 ---
-title: "Haryuu no hanekata"
+title: "Haryuu no hanekata: FF7's misheard lyric"
 categories: games ff
 description: The origins of a misheard lyric in Final Fantasy VII.
 ---

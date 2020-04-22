@@ -1,5 +1,5 @@
 ---
-title: "Hymn of the Fayth"
+title: "Hymn of the Fayth lyrics and meaning"
 categories: games ff
 ---
 
@@ -26,7 +26,7 @@ the feeling of a forgotten language.
    | ま | |    | ma
    | え | |    | e
 
-## Modern lyrics
+## "Modern" lyrics
 
 This is the song as it is sung throughout _Final Fantasy X_. It is acquired by
 reading the above script from left-to-right.
@@ -41,12 +41,13 @@ reading the above script from left-to-right.
 This sounds like Japanese, since it uses Japanese syllables, but they don't form
 actual Japanese words this way, so it's impossible to translate.
 
-## Ancient lyrics
+## "Ancient" lyrics
 
 This is the "original" meaning of the song. It is acquired by reading the above
 script from top-to-bottom, right-to-left.
 
-Read in this direction, the text forms actual Japanese lyrics.
+Read in this direction, the text forms actual Japanese lyrics which match the
+same tune.
 
 Hiragana     | Romaji     | English translation
 -------------|------------|---------------------------

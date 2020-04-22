@@ -5,12 +5,13 @@ permalink: "/comp/"
 redirect_from:
   - /computing/index.html
   - /comp/jekyll/index.html
+  - /comp/python/index.html
   - /comp/web/index.html
 category: comp
 subcategories:
   -
-    slug: jekyll
-    title: "Jekyll"
+    slug: python
+    title: "python"
   -
     slug: web
     title: "Web"
