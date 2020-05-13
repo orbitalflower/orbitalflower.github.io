@@ -2,7 +2,7 @@
 title: "When I am king of the world"
 categories: etc fun
 redirect_from: /misc/funny/when-i-am-king.html
-updated: 2019-04-01
+updated: 2020-05-13
 ---
 
 When I am ruler, the following changes will be made for the betterment of
@@ -170,3 +170,4 @@ rules](http://www.criticalmiss.com/issue10/CampaignRealMonopoly1.html) shall be
 - __2017-11-18__; Added 36-50.
 - __2018-06-17__: Added 51-60.
 - __2019-04-01__: Added 61-75.
+- __2020-05-13__: Added 76-85.
