@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-04-14
+updated: 2020-05-13
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-04-14
+2020-05-13
 </b>
 
 1. Table of Contents
@@ -48,10 +48,10 @@ This index last updated: <b>
 - Monk [26][], [36][], [41][], [68][], [73][], [75][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][]
-- Rogue [5][], [15][], [72][],[73][], [74][], [79][]
+- Rogue [5][], [15][], [72][],[73][], [74][], [79][], [80][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][]
 
 ## Content index by type
 
@@ -219,6 +219,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Rogue archetypes
 - Inquisitive [15][], XGtE
+- Phantom [80][]
 - Scout [29][], XGtE
 - Soulknife [74][], [79][]
 - Swashbuckler [5][], XGtE
@@ -239,6 +240,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Warlock patrons
 - Ghost in the Machine [8][]
 - The Celestial (The Undying Light) [11][], [43][], XGtE
+- The Genie [80][]
 - The Hexblade [31][], XGtE
 - The Lurker in the Deep [69][]
 - The Noble Genie [75][]
@@ -249,6 +251,7 @@ Race variants with identical stats to a standard race are not listed.
 - Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
 - Onomancy (Truename magic) [71][]
+- Order of Scribes [80][]
 - Psionics [74][]
 - School of Invention [54][]
 - Technomancy [8][]
@@ -635,6 +638,7 @@ Race variants with identical stats to a standard race are not listed.
 77. [Subclasses, Part 3][77]
 78. [Spells and Magic Tattoos][78]
 79. [Psionic Options Revisited][79]
+80. [Subclasses Revisited][80]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -715,3 +719,4 @@ Race variants with identical stats to a standard race are not listed.
 [77]: https://media.wizards.com/2020/dnd/downloads/UA2020-Subclasses03_0224.pdf "Subclasses, Part 3"
 [78]: https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf "Spells and Magic Tattoos"
 [79]: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf "Psionic Options Revisited"
+[80]: https://media.wizards.com/2020/dnd/downloads/UA2020_SubclassesRevisited_0512.pdf "Subclasses Revisited"
