@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-05-13
+updated: 2020-07-21
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-05-13
+2020-07-21
 </b>
 
 1. Table of Contents
@@ -17,7 +17,7 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][]
+- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][], [81][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
@@ -436,17 +436,21 @@ Race variants with identical stats to a standard race are not listed.
 - Spell-Refueling Ring [77][]
 
 ### Feats
+
 - Aberrant Dragonmark [62][]
 - Acrobat [39][]
 - Alchemist [16][]
 - Animal Handler [39][]
 - Arcanist [39][]
+- Artificer Initiate [81][]
 - Barbed Hide (tiefling) [40][]
 - Blade Mastery [16][]
 - Bountiful Luck (halfling) [40][]
 - Brawny [39][]
 - Burglar [16][]
+- Chef [81][]
 - Critter Friend (forest gnome) [40][]
+- Crusher [81][]
 - Diplomat [39][]
 - Dragon Fear (dragonborn) [40][], XGtE
 - Dragon Hide (dragonborn) [40][], XGtE
@@ -454,17 +458,21 @@ Race variants with identical stats to a standard race are not listed.
 - Dragonmark [2][]
 - Drow High Magic (drow) [40][], XGtE
 - Dwarf Resilience (Dwarven Fortitude) (dwarf) [40][], XGtE
+- Eldritch Adept [81][]
 - Elven Accuracy (elf/half-elf) [40][], XGtE
 - Empathic [39][]
 - Everybody's Friend (half-elf) [40][]
 - Fade Away (gnome) [40][], XGtE
 - Fell Handed [16][]
 - Fey Teleportation (high elf) [40][], XGtE
+- Fey Touched [81][]
+- Fighting Initiate [81][]
 - Flail Mastery [16][]
 - Flames of Phlegethos (tiefling) [40][], XGtE
 - Gourmand [16][]
 - Greater Dragonmark [62][]
 - Grudge-Bearer (dwarf) [40][]
+- Gunner [81][]
 - Historian [39][]
 - Human Determination (human) [40][]
 - Infernal Constitution (tiefling) [40][], XGtE
@@ -473,26 +481,35 @@ Race variants with identical stats to a standard race are not listed.
 - Medic [39][]
 - Menacing [39][]
 - Metabolic Control [79][]
+- Metamagic Adept [81][]
 - Naturalist [39][]
 - Orcish Aggression (half-orc) [40][]
 - Orcish Fury (half-orc) [40][], XGtE
 - Perceptive [39][]
 - Performer [39][]
+- Piercer [81][]
+- Poisoner [81][]
+- Practiced Expert [81][]
 - Prodigy (human/half-elf/half-orc) [40][], XGtE
 - Quick-Fingered [39][]
 - Quicksmithing [42][]
 - Second Chance (halfling) [40][], XGtE
 - Servo Crafting [42][]
+- Shadow Touched [81][]
+- Shield Training [81][]
 - Silver-Tongued [39][]
+- Slasher [81][]
 - Spear Mastery [16][]
 - Squat Nimbleness (dwarf/gnome/halfling/any Small) [40][], XGtE
 - Stealthy [39][]
 - Survivalist [39][]
 - Svirfneblin Magic (deep gnome) [53][]
+- Tandem Tactician [81][]
 - Telekinetic [74][], [79][]
 - Telepathic [74][], [79][]
-- Tower of Iron Will [79][]
 - Theologian [39][]
+- Tower of Iron Will [79][]
+- Tracker [81][]
 - Wild Talent [79][]
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][], XGtE
@@ -639,6 +656,7 @@ Race variants with identical stats to a standard race are not listed.
 78. [Spells and Magic Tattoos][78]
 79. [Psionic Options Revisited][79]
 80. [Subclasses Revisited][80]
+81. [Feats][80]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -720,3 +738,4 @@ Race variants with identical stats to a standard race are not listed.
 [78]: https://media.wizards.com/2020/dnd/downloads/UA2020-SpellsTattoos.pdf "Spells and Magic Tattoos"
 [79]: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf "Psionic Options Revisited"
 [80]: https://media.wizards.com/2020/dnd/downloads/UA2020_SubclassesRevisited_0512.pdf "Subclasses Revisited"
+[81]: https://media.wizards.com/2020/dnd/downloads/UA2020_Feats.pdf "Feats"
