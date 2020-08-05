@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-07-21
+updated: 2020-08-05
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-07-21
+2020-08-05
 </b>
 
 1. Table of Contents
@@ -41,7 +41,7 @@ This index last updated: <b>
 ### For characters of a certain class
 - Artificer [66][], [67][], [77][]
 - Barbarian [21][], [41][], [68][], [73][], [75][]
-- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][]
+- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][],[82][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][], [79][]
@@ -50,7 +50,7 @@ This index last updated: <b>
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][]
 - Rogue [5][], [15][], [72][],[73][], [74][], [79][], [80][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][]
 - Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][]
 
 ## Content index by type
@@ -148,6 +148,7 @@ Race variants with identical stats to a standard race are not listed.
 - College of Eloquence [70][]
 - College of Glamour [22][], XGtE
 - College of Satire [13][]
+- College of Spirits [82][]
 - College of Swords [13][], [41][], XGtE
 - College of Whispers [22][], XGtE
 
@@ -246,6 +247,7 @@ Race variants with identical stats to a standard race are not listed.
 - The Noble Genie [75][]
 - The Raven Queen [31][]
 - The Seeker [18][]
+- The Undead [82][]
 
 #### Wizard traditions
 - Artificer [2][] (see also Artificer class)
@@ -657,6 +659,7 @@ Race variants with identical stats to a standard race are not listed.
 79. [Psionic Options Revisited][79]
 80. [Subclasses Revisited][80]
 81. [Feats][80]
+82. [Subclasses, Part 4][82]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -739,3 +742,4 @@ Race variants with identical stats to a standard race are not listed.
 [79]: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf "Psionic Options Revisited"
 [80]: https://media.wizards.com/2020/dnd/downloads/UA2020_SubclassesRevisited_0512.pdf "Subclasses Revisited"
 [81]: https://media.wizards.com/2020/dnd/downloads/UA2020_Feats.pdf "Feats"
+[82]: https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses04.pdf "Subclasses, Part 4"
