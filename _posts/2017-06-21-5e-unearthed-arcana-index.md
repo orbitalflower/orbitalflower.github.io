@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-08-05
+updated: 2020-10-26
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-08-05
+2020-10-26
 </b>
 
 1. Table of Contents
@@ -45,9 +45,9 @@ This index last updated: <b>
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
 - Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][], [79][]
-- Monk [26][], [36][], [41][], [68][], [73][], [75][]
+- Monk [26][], [36][], [41][], [68][], [73][], [75][], [83][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
-- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][]
+- Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][], [83][]
 - Rogue [5][], [15][], [72][],[73][], [74][], [79][], [80][]
 - Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][]
 - Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][]
@@ -192,6 +192,7 @@ Race variants with identical stats to a standard race are not listed.
 - Tunnel Fighter [11][]
 
 #### Monk traditions
+- Way of the Ascendant Dragon [83][]
 - Way of the Astral Self [68][]
 - Way of the Drunken Master [36][], XGtE
 - Way of the Kensei [26][], [41][], XGtE
@@ -208,6 +209,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Ranger archetypes
 - Beast [19][]
 - Deep Stalker (Gloom Stalker) [11][], [19][], XGtE
+- Drakewarden [83][]
 - Fey Wanderer [77][]
 - Guardian [9][]
 - Horizon Walker [29][], XGtE
@@ -531,6 +533,7 @@ Race variants with identical stats to a standard race are not listed.
 - Gremlin (CR1/2) [42][]
 - Creepy Doll (CR2) [46][]
 - Criosphinx (CR13) [44][]
+- Drake companion [83][]
 - Elder Dinosaur (CR30) [60][]
 - Felidar (CR5) [45][]
 - Frilled Deathspitter (CR1/2) [60][]
@@ -660,6 +663,7 @@ Race variants with identical stats to a standard race are not listed.
 80. [Subclasses Revisited][80]
 81. [Feats][80]
 82. [Subclasses, Part 4][82]
+83. [Subclasses, Part 5][83]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -743,3 +747,4 @@ Race variants with identical stats to a standard race are not listed.
 [80]: https://media.wizards.com/2020/dnd/downloads/UA2020_SubclassesRevisited_0512.pdf "Subclasses Revisited"
 [81]: https://media.wizards.com/2020/dnd/downloads/UA2020_Feats.pdf "Feats"
 [82]: https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses04.pdf "Subclasses, Part 4"
+[83]: https://media.wizards.com/2020/dnd/downloads/UA2020_102620_Subclasses05.pdf "Subclasses, Part 5"
