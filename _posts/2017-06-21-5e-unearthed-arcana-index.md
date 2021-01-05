@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2020-10-26
+updated: 2021-01-05
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2020-10-26
+2021-01-05
 </b>
 
 1. Table of Contents
@@ -57,8 +57,11 @@ This index last updated: <b>
 
 In cases where a revised version appears in a later article or book, the newest
 version is recommended, but for completeness all are listed in order. Where an
-item has changed name, its alternate name appears in parentheses. Items marked
-"XGtE" appear in final release form in Xanathar's Guide to Everything.
+item has changed name, its alternate name appears in parentheses.
+
+Some items later appeared in a print sourcebook which supercede the Unearthed
+Arcana version. These are marked "XGtE" (Xanathar's Guide to Everything) or
+"TCoE" (Tasha's Cauldron of Everything).
 
 ### New races and subraces
 
@@ -130,22 +133,22 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Artificer specialists
 
-- Alchemist [66][], [67][]
+- Alchemist [66][], [67][], TCoE
 - Archivist [66][]
-- Armorer [77][]
-- Artillerist [66][], [67][]
-- Battle Smith [66][]
+- Armorer [77][], TCoE
+- Artillerist [66][], [67][], TCoE
+- Battle Smith [66][], TCoE
 
 #### Barbarian paths
 - Path of the Ancestral Guardian [21][], [41][], XGtE
-- Path of the Beast [75][]
+- Path of the Beast [75][], TCoE
 - Path of the Storm Herald [21][], XGtE
 - Path of the Zealot [21][], XGtE
-- Path of the Wild Soul [68][]
+- Path of Wild Magic (Path of the Wild Soul) [68][], TCoE
 
 #### Bard colleges
-- College of Creation [76][]
-- College of Eloquence [70][]
+- College of Creation [76][], TCoE
+- College of Eloquence [70][], TCoE
 - College of Glamour [22][], XGtE
 - College of Satire [13][]
 - College of Spirits [82][]
@@ -157,21 +160,21 @@ Race variants with identical stats to a standard race are not listed.
 - City [8][]
 - Forge [23][], XGtE
 - Grave [23][], XGtE
-- Love [76][]
-- Order [56][]
+- Peace (Love, Unity) [76][], TCoE
+- Order [56][], TCoE
 - Protection [23][]
 - Solidarity [44][]
 - Strength [44][]
-- Twilight [71][]
+- Twilight [71][], TCoE
 - Zeal [44][]
 
 #### Druid circles
 - Circle of Dreams [24][], XGtE
 - Circle of the Shepherd [24][], [43][], XGtE
-- Circle of Spores [54][]
-- Circle of the Stars [77][]
+- Circle of Spores [54][], TCoE
+- Circle of the Stars [77][], TCoE
 - Circle of Twilight [24][]
-- Circle of Wildfire [71][]
+- Circle of Wildfire [71][], TCoE
 
 #### Fighter archetypes
 - Arcane Archer [25][], [41][], XGtE
@@ -179,9 +182,8 @@ Race variants with identical stats to a standard race are not listed.
 - Cavalier [13][], [43][], XGtE
 - Knight [25][]
 - Monster Hunter [15][]
-- Psychic Warrior [74][]
-- Psi Knight [79][]
-- Rune Knight [72][]
+- Psi Warrior (Psychic Warrior) [74][79][], TCoE
+- Rune Knight [72][], TCoE
 - Samurai [25][], XGtE
 - Scout [13][]
 - Sharpshooter [25][]
@@ -193,24 +195,24 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Monk traditions
 - Way of the Ascendant Dragon [83][]
-- Way of the Astral Self [68][]
+- Way of the Astral Self [68][], TCoE
 - Way of the Drunken Master [36][], XGtE
 - Way of the Kensei [26][], [41][], XGtE
-- Way of Mercy [75][]
+- Way of Mercy [75][], TCoE
 - Way of Tranquility [26][]
 
 #### Paladin oaths
 - Oath of Conquest [27][], [43][], XGtE
-- Oath of Heroism [70][]
+- Oath of Glory (Oath of Heroism) [70][], TCoE
 - Oath of Redemption [36][], XGtE
 - Oath of Treachery [27][]
-- Oath of the Watchers [75][]
+- Oath of the Watchers [75][], TCoE
 
 #### Ranger archetypes
 - Beast [19][]
 - Deep Stalker (Gloom Stalker) [11][], [19][], XGtE
 - Drakewarden [83][]
-- Fey Wanderer [77][]
+- Fey Wanderer [77][], TCoE
 - Guardian [9][]
 - Horizon Walker [29][], XGtE
 - Hunter [19][]
@@ -218,22 +220,22 @@ Race variants with identical stats to a standard race are not listed.
 - Primeval Guardian [29][]
 - Seeker [9][]
 - Stalker [9][]
-- Swarmkeeper [72][]
+- Swarmkeeper [72][], TCoE
 
 #### Rogue archetypes
 - Inquisitive [15][], XGtE
-- Phantom [80][]
+- Phantom (The Revived) [72][], [80][], TCoE
 - Scout [29][], XGtE
-- Soulknife [74][], [79][]
+- Soulknife [74][], [79][], TCoE
 - Swashbuckler [5][], XGtE
 - The Revived [72][]
 
 #### Sorcerous origins
-- Clockwork Soul [76][]
+- Aberrant Mind (Psionic Soul) [69][], [79][], TCoE
+- Clockwork Soul [76][], TCoE
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
 - Phoenix Sorcery [30][]
-- Psionic Soul (Aberrant Mind) [69][], [79][]
 - Pyromancer [42][]
 - Sea Sorcery [30][]
 - Shadow (Shadow Magic) [11][], XGtE
@@ -243,10 +245,9 @@ Race variants with identical stats to a standard race are not listed.
 #### Warlock patrons
 - Ghost in the Machine [8][]
 - The Celestial (The Undying Light) [11][], [43][], XGtE
-- The Genie [80][]
+- The Genie (The Noble Genie) [75][], [80][], TCoE
 - The Hexblade [31][], XGtE
-- The Lurker in the Deep [69][]
-- The Noble Genie [75][]
+- The Fathomless (The Lurker in the Deep) [69][], TCoE
 - The Raven Queen [31][]
 - The Seeker [18][]
 - The Undead [82][]
@@ -255,7 +256,7 @@ Race variants with identical stats to a standard race are not listed.
 - Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
 - Onomancy (Truename magic) [71][]
-- Order of Scribes [80][]
+- Order of Scribes [80][], TCoE
 - Psionics [74][]
 - School of Invention [54][]
 - Technomancy [8][]
@@ -263,7 +264,7 @@ Race variants with identical stats to a standard race are not listed.
 - War Magic [35][], XGtE
 
 ### New classes and variant classes
-- Artificer [28][], [66][], [67][]
+- Artificer [28][], [66][], [67][], TCoE
 - Mystic [7][], [14][], [34][]
 - Ranger revised [9][], [19][]
 - Ranger with no spells, variant [4][]
@@ -279,7 +280,7 @@ Race variants with identical stats to a standard race are not listed.
 - Hand of Radiance (Word of Radiance) (Clr) [37][], XGtE
 - Infestation (Drd/Sor/War/Wiz) [37][], XGtE
 - Magic Stone (Drd/War) [53][]
-- Mind Sliver (Brd/Sor/War/Wiz) [69][], [74][], [79][]
+- Mind Sliver (Brd/Sor/War/Wiz) [69][], [74][], [79][], TCoE
 - Mold Earth (Drd/Sor/Wiz) [53][]
 - On/Off (Sor/War/Wiz) [8][]
 - Primal Savagery (Drd) [37][], XGtE
@@ -324,7 +325,7 @@ Race variants with identical stats to a standard race are not listed.
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
-- Summon Bestial Spirit (Drd/Rgr) [78][]
+- Summon Bestial Spirit / Summon Beast (Drd/Rgr) [78][], TCoE
 - Thought Shield (Brd/Sor/War/Wiz) [74][]
 - Warding Wind (Brd/Drd/Sor) [53][]
 
@@ -337,10 +338,10 @@ Race variants with identical stats to a standard race are not listed.
 - Melf's Minute Meteors (Sor/Wiz) [53][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
 - Psionic Blast (Brd/Sor/War/Wiz) [74][]
-- Spirit Shroud [78][]
-- Summon Fey Spirit [78][]
-- Summon Shadow Spirit [78][]
-- Summon Undead Spirit [78][]
+- Spirit Shroud [78][], TCoE
+- Summon Fey Spirit / Summon Fey [78][], TCoE
+- Summon Shadow Spirit / Summon Shadowspawn [78][], TCoE
+- Summon Undead Spirit / Summon Undead [78][], TCoE
 - Tidal Wave (Drd/Wiz) [53][]
 - Wall of Sand (Wiz) [53][]
 - Wall of Water (Drd/Sor/Wiz) [53][]
@@ -351,10 +352,10 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Shadow Demon (Summon Greater Demon) (Sor/Wiz) [12][], XGtE
 - Ego Whip (Brd/Sor/War/Wiz) [74][]
 - Elemental Bane (Drd/War/Wiz) [53][]
-- Intellect Fortress (Brd/Sor/War/Wiz) [74][], [79][]
+- Intellect Fortress (Brd/Sor/War/Wiz) [74][], [79][], TCoE
 - Storm Sphere (Sor/Wiz) [53][]
-- Summon Aberrant Spirit [78][]
-- Summon Elemental Spirit [78][]
+- Summon Aberrant Spirit / Summon Aberration [78][], TCoE
+- Summon Elemental Spirit / Summon Elemental [78][], TCoE
 - Synchronicity (Sor/War/Wiz) [8][]
 - System Backdoor (Sor/War/Wiz) [8][]
 - Vitriolic Sphere (Sor/Wiz) [53][]
@@ -367,7 +368,7 @@ Race variants with identical stats to a standard race are not listed.
 - Immolation (Sor/Wiz) [53][]
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
-- Summon Celestial Spirit [78][]
+- Summon Celestial Spirit / Summon Celestial [78][], TCoE
 - Transmute Rock (Drd/Wiz) [53][]
 
 #### Level 6
@@ -376,10 +377,10 @@ Race variants with identical stats to a standard race are not listed.
 - Investiture of Ice (Drd/Sor/War/Wiz) [53][]
 - Investiture of Stone (Drd/Sor/War/Wiz) [53][]
 - Investiture of Wind (Drd/Sor/War/Wiz) [53][]
-- Otherworldly Form [78][]
+- Otherworldly Form / Tasha's Otherworldly Guise [78][], TCoE
 - Primordial Ward (Drd) [53][]
 - Psychic Crush (Brd/Sor/War/Wiz) [74][]
-- Summon Fiendish Spirit [78][]
+- Summon Fiendish Spirit / Summon Fiend [78][], TCoE
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
@@ -446,15 +447,15 @@ Race variants with identical stats to a standard race are not listed.
 - Alchemist [16][]
 - Animal Handler [39][]
 - Arcanist [39][]
-- Artificer Initiate [81][]
+- Artificer Initiate [81][], TCoE
 - Barbed Hide (tiefling) [40][]
 - Blade Mastery [16][]
 - Bountiful Luck (halfling) [40][]
 - Brawny [39][]
 - Burglar [16][]
-- Chef [81][]
+- Chef [81][], TCoE
 - Critter Friend (forest gnome) [40][]
-- Crusher [81][]
+- Crusher [81][], TCoE
 - Diplomat [39][]
 - Dragon Fear (dragonborn) [40][], XGtE
 - Dragon Hide (dragonborn) [40][], XGtE
@@ -462,21 +463,21 @@ Race variants with identical stats to a standard race are not listed.
 - Dragonmark [2][]
 - Drow High Magic (drow) [40][], XGtE
 - Dwarf Resilience (Dwarven Fortitude) (dwarf) [40][], XGtE
-- Eldritch Adept [81][]
+- Eldritch Adept [81][], TCoE
 - Elven Accuracy (elf/half-elf) [40][], XGtE
 - Empathic [39][]
 - Everybody's Friend (half-elf) [40][]
 - Fade Away (gnome) [40][], XGtE
 - Fell Handed [16][]
 - Fey Teleportation (high elf) [40][], XGtE
-- Fey Touched [81][]
-- Fighting Initiate [81][]
+- Fey Touched [81][], TCoE
+- Fighting Initiate [81][], TCoE
 - Flail Mastery [16][]
 - Flames of Phlegethos (tiefling) [40][], XGtE
 - Gourmand [16][]
 - Greater Dragonmark [62][]
 - Grudge-Bearer (dwarf) [40][]
-- Gunner [81][]
+- Gunner [81][], TCoE
 - Historian [39][]
 - Human Determination (human) [40][]
 - Infernal Constitution (tiefling) [40][], XGtE
@@ -485,32 +486,32 @@ Race variants with identical stats to a standard race are not listed.
 - Medic [39][]
 - Menacing [39][]
 - Metabolic Control [79][]
-- Metamagic Adept [81][]
+- Metamagic Adept [81][], TCoE
 - Naturalist [39][]
 - Orcish Aggression (half-orc) [40][]
 - Orcish Fury (half-orc) [40][], XGtE
 - Perceptive [39][]
 - Performer [39][]
-- Piercer [81][]
-- Poisoner [81][]
-- Practiced Expert [81][]
+- Piercer [81][], TCoE
+- Poisoner [81][], TCoE
+- Skill Expert (Practiced Expert) [81][], TCoE
 - Prodigy (human/half-elf/half-orc) [40][], XGtE
 - Quick-Fingered [39][]
 - Quicksmithing [42][]
 - Second Chance (halfling) [40][], XGtE
 - Servo Crafting [42][]
-- Shadow Touched [81][]
+- Shadow Touched [81][], TCoE
 - Shield Training [81][]
 - Silver-Tongued [39][]
-- Slasher [81][]
+- Slasher [81][], TCoE
 - Spear Mastery [16][]
 - Squat Nimbleness (dwarf/gnome/halfling/any Small) [40][], XGtE
 - Stealthy [39][]
 - Survivalist [39][]
 - Svirfneblin Magic (deep gnome) [53][]
 - Tandem Tactician [81][]
-- Telekinetic [74][], [79][]
-- Telepathic [74][], [79][]
+- Telekinetic [74][], [79][], TCoE
+- Telepathic [74][], [79][], TCoE
 - Theologian [39][]
 - Tower of Iron Will [79][]
 - Tracker [81][]
@@ -527,7 +528,7 @@ Race variants with identical stats to a standard race are not listed.
 
 ### Creatures
 
-- Alchemical Homunculus (CR special) [66][], [67][]
+- Alchemical Homunculus (CR special) [66][], [67][], TCoE
 - Archon of Redemption (CR10) [45][]
 - Chupacabra (CR3) [60][]
 - Gremlin (CR1/2) [42][]
@@ -554,7 +555,7 @@ Race variants with identical stats to a standard race are not listed.
 - Action points [2][]
 - Army-scale mass combat [3][], [32][]
 - Colors of Magic alignment system [60][]
-- Class Feature Variants [73][]
+- Class Feature Variants [73][], TCoE
 - Creating new class options [4][]
 - Custom alignments [6][]
 - Downtime (craft/buy/sell item, train, etc) [38][], XGtE
@@ -572,8 +573,8 @@ Race variants with identical stats to a standard race are not listed.
 - Quick characters [17][]
 - Rune magic [10][]
 - Ships and naval combat [64][]
-- Sidekicks [65][]
-- Tattoos [78][]
+- Sidekicks [65][], TCoE
+- Tattoos [78][], TCoE
 - Traps [33][], XGtE
 - Three-pillar XP variant [48][]
 - Vitality [6][]
