@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-01-05
+updated: 2021-01-29
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2021-01-05
+2021-01-29
 </b>
 
 1. Table of Contents
@@ -26,7 +26,7 @@ This index last updated: <b>
 ### For any new character
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
-  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][]
+  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -73,6 +73,7 @@ Race variants with identical stats to a standard race are not listed.
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Centaur [57][] - Str+2 Wis+1. Horse people
 - Changeling [2][], [59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
+- Dhampir [84][]
 - Dragonmark [62][] - Variant/subrace for seven of the standard core races
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
@@ -93,6 +94,7 @@ Race variants with identical stats to a standard race are not listed.
 - Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
 - Goblin, Ixalan [60][] - Dex+2. Small humanoids who climb well.
 - Goliath [53][] - Str+1 Con+1. Giant mountain people
+- Hexblood [84][]
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
@@ -110,6 +112,7 @@ Race variants with identical stats to a standard race are not listed.
 - Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Orc [60][] - Str+2 Con+1. Menacing warriors.
+- Reborn [84][]
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
 - Simic Hybrid [61][] - Con+1 Any+1. People with animal characteristics
@@ -665,6 +668,7 @@ Race variants with identical stats to a standard race are not listed.
 81. [Feats][80]
 82. [Subclasses, Part 4][82]
 83. [Subclasses, Part 5][83]
+84. [Gothic Lineages][84]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -749,3 +753,4 @@ Race variants with identical stats to a standard race are not listed.
 [81]: https://media.wizards.com/2020/dnd/downloads/UA2020_Feats.pdf "Feats"
 [82]: https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses04.pdf "Subclasses, Part 4"
 [83]: https://media.wizards.com/2020/dnd/downloads/UA2020_102620_Subclasses05.pdf "Subclasses, Part 5"
+[84]: https://media.wizards.com/2021/dnd/downloads/UA2021_GothicLineages.pdf "Gothic Lineages"
