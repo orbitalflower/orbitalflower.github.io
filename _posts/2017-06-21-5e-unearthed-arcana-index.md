@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-01-29
+updated: 2021-03-25
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2021-01-29
+2021-03-25
 </b>
 
 1. Table of Contents
@@ -26,7 +26,7 @@ This index last updated: <b>
 ### For any new character
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
-  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][]
+  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][], [85][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -69,8 +69,8 @@ Race variants with identical stats to a standard race are not listed.
 
 - Aarakocra [53][] - Dex+2 Wis+1. Winged people
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
-- Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
+- Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Centaur [57][] - Str+2 Wis+1. Horse people
 - Changeling [2][], [59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
 - Dhampir [84][]
@@ -84,6 +84,7 @@ Race variants with identical stats to a standard race are not listed.
 - Elf, Shadar-kai [51][] - Dex+2 Cha+1. Shadow elves
 - Elf, Tajuru [45][] - Wis+2 Cha+1. Versatile elves
 - Elf, Vahadar [42][] - Dex+2 Wis+1. Elves with druid cantrip
+- Fairy [85][] - Any+2 Any+1. Small creatures with flight
 - Genasi, Air [53][] - Con+2 Air+1. People of wind
 - Genasi, Earth [53][] - Con+2 Str+1. People of stone
 - Genasi, Fire [53][] - Con+2 Int+1. People of flame
@@ -91,10 +92,11 @@ Race variants with identical stats to a standard race are not listed.
 - Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
 - Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
 - Gnome, Deep [53][] - Int+2 Dex+1. Svirneblin, stony underground gnomes
-- Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
 - Goblin, Ixalan [60][] - Dex+2. Small humanoids who climb well.
+- Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
 - Goliath [53][] - Str+1 Con+1. Giant mountain people
 - Hexblood [84][]
+- Hobgoblin of the Feywild [85][] - Any+2 Any+1. Hobgoblins with fey ancestry
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
@@ -107,17 +109,18 @@ Race variants with identical stats to a standard race are not listed.
 - Merfolk, Emeria [45][] - Wis+2 Cha+1. Aquatic wind people with druid cantrip
 - Merfolk, Green [60][] - Wis+2 Cha+1. Aquatic jungle people with druid cantrip
 - Merfolk, Ula [45][] - Int+2 Cha+1. Aquatic water people with wizard cantrip
+- Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Minotaur, from Amonkhet [44][] - Str+2 Con+1. Horned, warlike
 - Minotaur, from Krynn [5][] - Str+2, or Str+1 Int/Wis+1. Dragonlance race
-- Minotaur [57][] - Str+2 Con+1. Horned humanoids
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Orc [60][] - Str+2 Con+1. Menacing warriors.
+- Owlfolk [85][] - Any+2 Any+1. Small or Medium winged people
+- Rabbitfolk [85][] - Any+2 Any+1. Small or Medium quick creatures with random hop
 - Reborn [84][]
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
 - Simic Hybrid [61][] - Con+1 Any+1. People with animal characteristics
 - Siren [60][] - Cha+2. Chaotic flying humanoids.
-- Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
 - Tiefling, Fierna [50][] - Cha +2 Wis+1. Alternate spells
@@ -126,8 +129,9 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, Mammon [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Mephistopheles [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Zariel [50][] - Cha +2 Str+1. Alternate spells
-- Vampire, Zendikar [45][] - Cha+2 Int+1. Undead with drain touch
+- Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Vampire, Ixalan [60][] - Cha+2 Wis+1. Undead with drain touch
+- Vampire, Zendikar [45][] - Cha+2 Int+1. Undead with drain touch
 - Vedalken [42][][61][] - Int+2 Wis+1. Blue-skinned inventors
 - Viashino [61][] - Dex+1 Str+1. Reptilian people
 - Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs
@@ -669,6 +673,7 @@ Race variants with identical stats to a standard race are not listed.
 82. [Subclasses, Part 4][82]
 83. [Subclasses, Part 5][83]
 84. [Gothic Lineages][84]
+85. [Folk of the Feywild][85]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -754,3 +759,4 @@ Race variants with identical stats to a standard race are not listed.
 [82]: https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses04.pdf "Subclasses, Part 4"
 [83]: https://media.wizards.com/2020/dnd/downloads/UA2020_102620_Subclasses05.pdf "Subclasses, Part 5"
 [84]: https://media.wizards.com/2021/dnd/downloads/UA2021_GothicLineages.pdf "Gothic Lineages"
+[85]: https://media.wizards.com/2021/dnd/downloads/UA2021_FeyFolk.pdf "Folk of the Feywild"
