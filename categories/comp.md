@@ -11,7 +11,7 @@ category: comp
 subcategories:
   -
     slug: python
-    title: "python"
+    title: "Python"
   -
     slug: web
     title: "Web"
