@@ -1,14 +1,15 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-03-25
+vim: tw=0 :
+updated: 2021-04-14
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2021-03-25
+2021-04-14
 </b>
 
 1. Table of Contents
@@ -17,7 +18,7 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][], [81][]
+- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][], [81][], [86][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
@@ -26,7 +27,8 @@ This index last updated: <b>
 ### For any new character
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
-  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][], [85][]
+  [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][], [85][],
+  [86][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -75,6 +77,9 @@ Race variants with identical stats to a standard race are not listed.
 - Changeling [2][], [59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
 - Dhampir [84][]
 - Dragonmark [62][] - Variant/subrace for seven of the standard core races
+- Dragonborn, chromatic [86][] - Any+2 Any+1 or Any three +1.
+- Dragonborn, metallic [86][] - Any+2 Any+1 or Any three +1.
+- Dragonborn, gem [86][] - Any+2 Any+1 or Any three +1.
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Grugach [51][] - Dex+2 Str+1. Greyhawk forest elves
@@ -102,6 +107,7 @@ Race variants with identical stats to a standard race are not listed.
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
 - Kalashtar [59][] - Wis+1 Cha+1 Any+1. Psionic humans
 - Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
+- Kobold [86][]
 - Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
 - Loxodon [61][] - Con+2 Wis+1. Elephant people
 - Merfolk, Blue [60][] - Int+2 Cha+1. Aquatic people with wizard cantrip
@@ -132,7 +138,7 @@ Race variants with identical stats to a standard race are not listed.
 - Tiefling, abyssal [12][] - Cha+2 Con+1. Random spells
 - Vampire, Ixalan [60][] - Cha+2 Wis+1. Undead with drain touch
 - Vampire, Zendikar [45][] - Cha+2 Int+1. Undead with drain touch
-- Vedalken [42][][61][] - Int+2 Wis+1. Blue-skinned inventors
+- Vedalken [42][], [61][] - Int+2 Wis+1. Blue-skinned inventors
 - Viashino [61][] - Dex+1 Str+1. Reptilian people
 - Warforged [2][], [59][] - Str+2 or varies by subrace. Mechanical constructs
 
@@ -325,10 +331,12 @@ Race variants with identical stats to a standard race are not listed.
 - Dust Devil (Drd/Sor/Wiz) [53][]
 - Earthbind (Drd/Sor/War/Wiz) [53][]
 - Find Vehicle (Pal/Sor/War/Wiz) [8][]
+- Icingdeath's Frost (Sor/Wiz) [86][]
 - Id Insinuation (Brd/Sor/War/Wiz) [74][]
 - Maximilian's Earthen Grasp (Sor/Wiz) [53][]
 - Mind Thrust (Brd/Sor/War/Wiz) [74][], [79][]
 - Mental Barrier (Brd/Sor/War/Wiz) [74][]
+- Nathair's Mischief (Brd/Sor/Wiz) [86][]
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
@@ -340,6 +348,7 @@ Race variants with identical stats to a standard race are not listed.
 - Conjure Lesser Demon (Summon Lesser Demons) (Sor/Wiz) [12][], XGtE
 - Erupting Earth (Drd/Sor/Wiz) [53][]
 - Flame Arrows (Drd/Rgr/Sor/Wiz) [53][]
+- Flame Stride (Art/Rgr/Sor/Wiz) [86][]
 - Haywire (Sor/War/Wiz) [8][]
 - Invisibility to Cameras (Sor/War/Wiz) [8][]
 - Melf's Minute Meteors (Sor/Wiz) [53][]
@@ -360,6 +369,7 @@ Race variants with identical stats to a standard race are not listed.
 - Ego Whip (Brd/Sor/War/Wiz) [74][]
 - Elemental Bane (Drd/War/Wiz) [53][]
 - Intellect Fortress (Brd/Sor/War/Wiz) [74][], [79][], TCoE
+- Raulothim's Psychic Lance (Brd/Sor/War/Wiz) [86][]
 - Storm Sphere (Sor/Wiz) [53][]
 - Summon Aberrant Spirit / Summon Aberration [78][], TCoE
 - Summon Elemental Spirit / Summon Elemental [78][], TCoE
@@ -376,10 +386,12 @@ Race variants with identical stats to a standard race are not listed.
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
 - Summon Celestial Spirit / Summon Celestial [78][], TCoE
+- Summon Draconic Spirit (Drd/Sor/Wiz) [86][]
 - Transmute Rock (Drd/Wiz) [53][]
 
 #### Level 6
 - Bones of Earth (Drd) [53][]
+- Fizban's Platinum Shield (Sor/Wiz) [86][]
 - Investiture of Flame (Drd/Sor/War/Wiz) [53][]
 - Investiture of Ice (Drd/Sor/War/Wiz) [53][]
 - Investiture of Stone (Drd/Sor/War/Wiz) [53][]
@@ -391,6 +403,7 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
+- Draconic Transformation (Drd/Sor/Wiz) [86][]
 - Whirlwind (Drd/Wiz) [53][]
 
 #### Level 8
@@ -481,6 +494,9 @@ Race variants with identical stats to a standard race are not listed.
 - Fighting Initiate [81][], TCoE
 - Flail Mastery [16][]
 - Flames of Phlegethos (tiefling) [40][], XGtE
+- Gift of the Chromatic Dragon [86][]
+- Gift of the Metallic Dragon [86][]
+- Gift of the Gem Dragon [86][]
 - Gourmand [16][]
 - Greater Dragonmark [62][]
 - Grudge-Bearer (dwarf) [40][]
@@ -541,6 +557,7 @@ Race variants with identical stats to a standard race are not listed.
 - Gremlin (CR1/2) [42][]
 - Creepy Doll (CR2) [46][]
 - Criosphinx (CR13) [44][]
+- Draconic Spirit [86][]
 - Drake companion [83][]
 - Elder Dinosaur (CR30) [60][]
 - Felidar (CR5) [45][]
@@ -674,6 +691,7 @@ Race variants with identical stats to a standard race are not listed.
 83. [Subclasses, Part 5][83]
 84. [Gothic Lineages][84]
 85. [Folk of the Feywild][85]
+86. [Draconic Options][86]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -760,3 +778,4 @@ Race variants with identical stats to a standard race are not listed.
 [83]: https://media.wizards.com/2020/dnd/downloads/UA2020_102620_Subclasses05.pdf "Subclasses, Part 5"
 [84]: https://media.wizards.com/2021/dnd/downloads/UA2021_GothicLineages.pdf "Gothic Lineages"
 [85]: https://media.wizards.com/2021/dnd/downloads/UA2021_FeyFolk.pdf "Folk of the Feywild"
+[86]: https://media.wizards.com/2021/downloads/Unearthed-Arcana-2021-Draconic-Options.pdf "Draconic Options"
