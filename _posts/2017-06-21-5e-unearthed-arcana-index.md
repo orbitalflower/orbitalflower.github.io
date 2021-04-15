@@ -1,7 +1,6 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-vim: tw=0 :
 updated: 2021-04-14
 ---
 
