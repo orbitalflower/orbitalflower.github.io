@@ -13,6 +13,9 @@ why it was so controversial at the time. Additionally, it's worth discussing the
 innovations of D&D 4e that actually did work, and the ideas that still hold
 relevance to modern players.
 
+1. Table of Contents
+{:toc}
+
 ## Background
 
 D&D 3.5 players and designers had begun to notice flaws in the edition's design.
@@ -523,8 +526,10 @@ campaign.
 [^1]:
     [D&D 4th Edition: Designing Encounters](https://www.youtube.com/watch?v=oRzcVi_ymzA&5=6m42s),
     6m 52s. 19 August 2007.
+
 [^2]:
     [4e rules will make some games much harder torun](https://www.enworld.org/threads/4e-rules-will-make-some-games-much-harder-to-run.221686/post-4112306),
     17 March 2008.
+
 [^3]:
     [Demonweb Booster Pack](https://web.archive.org/web/20090222073813/http://wizards.com/default.asp?x=products/dndmin/217950000)
