@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-04-14
+updated: 2021-07-11
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2021-04-14
+2021-07-11
 </b>
 
 1. Table of Contents
@@ -42,17 +42,17 @@ This index last updated: <b>
 ### For characters of a certain class
 - Artificer [66][], [67][], [77][]
 - Barbarian [21][], [41][], [68][], [73][], [75][]
-- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][],[82][]
+- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][],[82][], [87][]
 - Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
-- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][], [87][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][], [79][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][], [83][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][], [83][]
 - Rogue [5][], [15][], [72][],[73][], [74][], [79][], [80][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][], [87][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][], [87][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][], [87][]
 
 ## Content index by type
 
@@ -166,6 +166,8 @@ Race variants with identical stats to a standard race are not listed.
 - College of Spirits [82][]
 - College of Swords [13][], [41][], XGtE
 - College of Whispers [22][], XGtE
+- Mage of Lorehold [87][]
+- Mage of Silverquill [87][]
 
 #### Cleric domains
 - Ambition [44][]
@@ -182,11 +184,13 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Druid circles
 - Circle of Dreams [24][], XGtE
-- Circle of the Shepherd [24][], [43][], XGtE
 - Circle of Spores [54][], TCoE
-- Circle of the Stars [77][], TCoE
 - Circle of Twilight [24][]
 - Circle of Wildfire [71][], TCoE
+- Circle of the Shepherd [24][], [43][], XGtE
+- Circle of the Stars [77][], TCoE
+- Mage of Prismari [87][]
+- Mage of Witherbloom [87][]
 
 #### Fighter archetypes
 - Arcane Archer [25][], [41][], XGtE
@@ -247,6 +251,8 @@ Race variants with identical stats to a standard race are not listed.
 - Clockwork Soul [76][], TCoE
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
+- Mage of Prismari [87][]
+- Mage of Quandrix [87][]
 - Phoenix Sorcery [30][]
 - Pyromancer [42][]
 - Sea Sorcery [30][]
@@ -256,10 +262,13 @@ Race variants with identical stats to a standard race are not listed.
 
 #### Warlock patrons
 - Ghost in the Machine [8][]
+- Mage of Lorehold [87][]
+- Mage of Silverquill [87][]
+- Mage of Witherbloom [87][]
 - The Celestial (The Undying Light) [11][], [43][], XGtE
+- The Fathomless (The Lurker in the Deep) [69][], TCoE
 - The Genie (The Noble Genie) [75][], [80][], TCoE
 - The Hexblade [31][], XGtE
-- The Fathomless (The Lurker in the Deep) [69][], TCoE
 - The Raven Queen [31][]
 - The Seeker [18][]
 - The Undead [82][]
@@ -267,6 +276,10 @@ Race variants with identical stats to a standard race are not listed.
 #### Wizard traditions
 - Artificer [2][] (see also Artificer class)
 - Loremaster [31][]
+- Mage of Lorehold [87][]
+- Mage of Prismari [87][]
+- Mage of Quandrix [87][]
+- Mage of Silverquill [87][]
 - Onomancy (Truename magic) [71][]
 - Order of Scribes [80][], TCoE
 - Psionics [74][]
@@ -691,6 +704,7 @@ Race variants with identical stats to a standard race are not listed.
 84. [Gothic Lineages][84]
 85. [Folk of the Feywild][85]
 86. [Draconic Options][86]
+87. [Mages of Strixhaven][87]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -778,3 +792,4 @@ Race variants with identical stats to a standard race are not listed.
 [84]: https://media.wizards.com/2021/dnd/downloads/UA2021_GothicLineages.pdf "Gothic Lineages"
 [85]: https://media.wizards.com/2021/dnd/downloads/UA2021_FeyFolk.pdf "Folk of the Feywild"
 [86]: https://media.wizards.com/2021/downloads/Unearthed-Arcana-2021-Draconic-Options.pdf "Draconic Options"
+[87]: https://media.wizards.com/2021/dnd/downloads/UA2021_06_08_MagesStrixhaven.pdf "Mages of Strixhaven" 
