@@ -1,14 +1,14 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-07-11
+updated: 2021-10-08
 ---
 
 This is an index of the official free online D&D 5e content, primarily
 Unearthed Arcana material.
 
 This index last updated: <b>
-2021-07-11
+2021-10-08
 </b>
 
 1. Table of Contents
@@ -27,7 +27,7 @@ This index last updated: <b>
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
   [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][], [85][],
-  [86][]
+  [86][], [88][]
 - New backgrounds [44][], [46][]
 
 ### For characters of a certain race
@@ -70,15 +70,17 @@ Race variants with identical stats to a standard race are not listed.
 
 - Aarakocra [53][] - Dex+2 Wis+1. Winged people
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
+- Astral Elf [88][] - Elf  of the Astral Plane
+- Autognome [88][] - Mechanical gnome
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
 - Centaur [57][] - Str+2 Wis+1. Horse people
 - Changeling [2][], [59][] - Cha+2 Dex/Int+1. Descendents of doppelgangers
 - Dhampir [84][]
-- Dragonmark [62][] - Variant/subrace for seven of the standard core races
 - Dragonborn, chromatic [86][] - Any+2 Any+1 or Any three +1.
-- Dragonborn, metallic [86][] - Any+2 Any+1 or Any three +1.
 - Dragonborn, gem [86][] - Any+2 Any+1 or Any three +1.
+- Dragonborn, metallic [86][] - Any+2 Any+1 or Any three +1.
+- Dragonmark [62][] - Variant/subrace for seven of the standard core races
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Grugach [51][] - Dex+2 Str+1. Greyhawk forest elves
@@ -93,12 +95,14 @@ Race variants with identical stats to a standard race are not listed.
 - Genasi, Earth [53][] - Con+2 Str+1. People of stone
 - Genasi, Fire [53][] - Con+2 Int+1. People of flame
 - Genasi, Water [53][] - Con+2 Wis+1. People of water
+- Giff [88][] - Humanoid hippos from Spelljammer
 - Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
 - Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
 - Gnome, Deep [53][] - Int+2 Dex+1. Svirneblin, stony underground gnomes
 - Goblin, Ixalan [60][] - Dex+2. Small humanoids who climb well.
 - Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
 - Goliath [53][] - Str+1 Con+1. Giant mountain people
+- Hadozee [88][] - Winged monkey
 - Hexblood [84][]
 - Hobgoblin of the Feywild [85][] - Any+2 Any+1. Hobgoblins with fey ancestry
 - Human, Kessig [46][] - Dex+1 Wis+1. Fleet-footed, hard-working humans
@@ -120,12 +124,14 @@ Race variants with identical stats to a standard race are not listed.
 - Naga [44][] - Con+2 Int+1. Snake people with a poison bite
 - Orc [60][] - Str+2 Con+1. Menacing warriors.
 - Owlfolk [85][] - Any+2 Any+1. Small or Medium winged people
+- Plasmoid [88][] - Amoeba
 - Rabbitfolk [85][] - Any+2 Any+1. Small or Medium quick creatures with random hop
 - Reborn [84][]
 - Revenant subrace (any race) [15][] - a character who returns to life
 - Shifter [2][], [59][] - Dex+1 and other varied bonuses by subrace. Descendants of lycanthropes
 - Simic Hybrid [61][] - Con+1 Any+1. People with animal characteristics
 - Siren [60][] - Cha+2. Chaotic flying humanoids.
+- Thri-kreen [88][] - Four-armed insectoid from Dark Sun
 - Tiefling, Baalzebul [50][] - Cha +2 Int+1. Alternate spells
 - Tiefling, Dispater [50][] - Cha +2 Dex+1. Alternate spells
 - Tiefling, Fierna [50][] - Cha +2 Wis+1. Alternate spells
@@ -705,6 +711,7 @@ Race variants with identical stats to a standard race are not listed.
 85. [Folk of the Feywild][85]
 86. [Draconic Options][86]
 87. [Mages of Strixhaven][87]
+88. [Travelers of the Multiverse][88]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -793,3 +800,4 @@ Race variants with identical stats to a standard race are not listed.
 [85]: https://media.wizards.com/2021/dnd/downloads/UA2021_FeyFolk.pdf "Folk of the Feywild"
 [86]: https://media.wizards.com/2021/downloads/Unearthed-Arcana-2021-Draconic-Options.pdf "Draconic Options"
 [87]: https://media.wizards.com/2021/dnd/downloads/UA2021_06_08_MagesStrixhaven.pdf "Mages of Strixhaven" 
+[88]: https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf "Travelers of the Multiverse"
