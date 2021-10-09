@@ -70,7 +70,6 @@ Race variants with identical stats to a standard race are not listed.
 
 - Aarakocra [53][] - Dex+2 Wis+1. Winged people
 - Aetherborn [42][] - Cha+2 Any+1 Any+1. Short-lived beings created of magic
-- Astral Elf [88][] - Elf  of the Astral Plane
 - Autognome [88][] - Mechanical gnome
 - Aven, hawk-headed [44][] - Dex+2 Wis+2. Perceptive winged bird people
 - Aven, ibis-headed [44][] - Dex+2 Int+1. Versatile winged bird people
@@ -81,6 +80,7 @@ Race variants with identical stats to a standard race are not listed.
 - Dragonborn, gem [86][] - Any+2 Any+1 or Any three +1.
 - Dragonborn, metallic [86][] - Any+2 Any+1 or Any three +1.
 - Dragonmark [62][] - Variant/subrace for seven of the standard core races
+- Elf, Astral [88][] - Elf of the Astral Plane
 - Elf, Avariel [51][] - Dex+2. Flying elves
 - Elf, Eladrin [49][] - Dex+2 Int/Cha+1. Fey elves
 - Elf, Grugach [51][] - Dex+2 Str+1. Greyhawk forest elves
