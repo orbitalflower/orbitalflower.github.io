@@ -5,10 +5,10 @@ layout: default
 
 {{content}}
 
-<h2>Newest articles</h2>
+<h2>List of articles</h2>
 
 <ul>
-{% for post in site.posts limit:10 %}
+{% for post in site.posts %}
   <li><a href="{{post.url}}">{{post.title}}</a> {{ post.categories | default: "" | join: "/" | prepend: " (" | append: ") " }}  &mdash; {{ post.date | date_to_string }}</li>
 {% endfor %}
 </ul>
