@@ -2,6 +2,7 @@
 title: "Apotheosis prestige classes"
 categories: rpg rules
 updated: 2018-01-18
+description: A list of D&D 3.5 prestige classes that change your creature type. Sorted by type.
 ---
 
 In retrospect, one of the weirdest standard D&D third edition rules was the

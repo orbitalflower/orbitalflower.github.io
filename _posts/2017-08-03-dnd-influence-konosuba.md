@@ -1,6 +1,7 @@
 ---
 title: "D&D's influence on KONOSUBA"
 categories: tv anime
+description: "Analysis of possible influences of late 1990s AD&D sourcebooks on the light novel and anime series Konosuba."
 ---
 
 In this article, I propose that anime and light novel series KONOSUBA (_Kono

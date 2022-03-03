@@ -2,6 +2,7 @@
 title: Data's password
 categories: tv startrek
 redirect_from: /2015-05-22-how-strong-is-datas-password.html
+description: "How strong is the password Lt. Commander Data sets in the Star Trek: TNG episode 'Brothers'?"
 ---
 
 There's an episode of Star Trek: The Next Generation where Data impersonates

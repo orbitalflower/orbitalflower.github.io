@@ -1,6 +1,7 @@
 ---
 title: "The failure of D&D 4th edition"
 categories: rpg rules
+description: "A lengthy critique of Dungeons & Dragons 4th edition."
 ---
 
 The design failings of _Dungeons & Dragons 4th edition_ (2008-2013) are

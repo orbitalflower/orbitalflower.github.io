@@ -1,12 +1,14 @@
 ---
 title: "How to disable history on Python 3"
 categories: comp python
+description: "How to disable the Python 3 interpreter logging to .python_history on Linux."
 ---
 
 Since Python 2 was deprecated at the beginning of 2020, you may have noticed
 that the Python 3 interpreter logs a history of all commands to
 `.python_history`. This has been enabled by default since Python 3.4 and is
-remarkably difficult to disable ([bug #20866](https://bugs.python.org/issue20886)), and the official documentation is not much help.
+remarkably difficult to disable ([bug #20866](https://bugs.python.org/issue20886)),
+and the official documentation is not much help.
 
 The following method has been tested in Ubuntu and will prevent the `python3`
 interpreter from creating or updating the `.python_history` file, but you should

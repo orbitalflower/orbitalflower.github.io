@@ -1,6 +1,7 @@
 ---
 title: "Extended summon monster list for D&D 3.5"
 categories: rpg rules
+description: "A list creatures officially listed as conjurable by Summon Monster spells."
 ---
 
 The following creatures are listed in official D&D third edition sources as

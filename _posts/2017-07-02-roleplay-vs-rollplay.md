@@ -1,6 +1,7 @@
 ---
 title: "Roleplay vs rollplay"
 categories: rpg rules
+description: "Thoughts on the meaning of rolling dice in D&D."
 ---
 
 Modern D&D offers two different tools to adjudication conflict resolution:

@@ -1,6 +1,7 @@
 ---
 title: MonteCook.com archive
 categories: rpg resources
+description: "An index of articles from Monte Cook's excellent D&D 3e-era website, now only extant in the Web Archive."
 ---
 
 Between 2001 and 2012, Monte Cook maintained a website with a massive number of D&D articles, including rare insights into the design of D&D third edition. Many articles were lost when the site moved to a new design in 2004, and all were lost when replaced with a new Wordpress blog in 2012. Thankfully, these pages are still available via the Web Archive.

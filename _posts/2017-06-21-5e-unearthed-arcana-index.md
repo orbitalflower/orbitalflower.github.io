@@ -2,6 +2,7 @@
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
 updated: 2021-10-08
+description: "An updated index of game content from D&D 5th edition Unearthed Arcana articles."
 ---
 
 This is an index of the official free online D&D 5e content, primarily

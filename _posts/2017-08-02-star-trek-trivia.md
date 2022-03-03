@@ -1,6 +1,7 @@
 ---
 title: Star Trek trivia
 categories: tv startrek
+description: "Weird facts from Star Trek's extended universe."
 ---
 
 Many thanks to [Memory Alpha](http://memory-alpha.wikia.com/), the excellent

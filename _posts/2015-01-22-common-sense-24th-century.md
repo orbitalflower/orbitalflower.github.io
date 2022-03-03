@@ -2,6 +2,7 @@
 title: "Common sense is abolished in the 24th Century"
 categories: tv startrek
 redirect-from: /20150122-star-trek-common-sense-captain-theres-too-much-interference.html
+description: "Bizarre things that only happen in the Star Trek world."
 ---
 
 I never understood why Starfleet had such a problem with genetic engineering.

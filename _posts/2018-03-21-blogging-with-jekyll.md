@@ -2,6 +2,7 @@
 title: "The pros and cons of blogging with Jekyll"
 categories: comp web
 redirect-from: /20150819-blogging-with-jekyll.html
+description: "Advantages and disadvantages of Jekyll with Markdown as a blogging platform."
 ---
 
 Jekyll is a flat-files based content management system suitable for building

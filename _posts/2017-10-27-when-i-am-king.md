@@ -3,6 +3,7 @@ title: "When I am king of the world"
 categories: etc fun
 redirect_from: /misc/funny/when-i-am-king.html
 updated: 2020-05-13
+description: When I am ruler, the following changes will be made for the betterment of society.
 ---
 
 When I am ruler, the following changes will be made for the betterment of

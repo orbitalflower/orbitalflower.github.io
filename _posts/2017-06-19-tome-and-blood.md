@@ -2,6 +2,7 @@
 title: "Tome and Blood"
 categories: rpg books
 updated: 2017-06-22
+description: "My thoughts on a great D&D 3.0 sourcebook for arcane spellcasters."
 ---
 
 _Tome and Blood_ (2001) was one of the first Dungeons & Dragons splatbooks[^1],

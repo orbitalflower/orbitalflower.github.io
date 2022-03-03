@@ -2,6 +2,7 @@
 title: "Extended list of familiars in D&D 3.5"
 categories: rpg rules
 updated: 2018-03-16
+description: "A list of creatures you can take as familiars in D&D 3.5. Official sources only."
 ---
 
 The following lists are of creatures in D&D 3.5 which, according to official

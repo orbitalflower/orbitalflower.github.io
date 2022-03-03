@@ -1,6 +1,7 @@
 ---
 title: "Making a website with Jekyll and GitHub Pages"
 categories: comp web
+description: "A guide to running a website like this one."
 ---
 
 In the early days of the web, running your own website meant writing pages in

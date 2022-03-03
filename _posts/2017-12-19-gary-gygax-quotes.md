@@ -2,6 +2,7 @@
 title: "Gary Gygax quotes"
 categories: rpg people
 updated: 2018-03-03
+description: "A selection of quotes by Dungeons & Dragons co-creator Gary Gygax."
 ---
 
 The following is a selection of quotes by Gary Gygax, creator of _Dungeons &

@@ -1,6 +1,8 @@
 ---
 title: "How to play all of Metal Gear Solid"
 categories: games mgs
+updated: 2022-03-03
+description: "Which platforms you need to play the entire Metal Gear series."
 ---
 
 > "_Metal Gear Solid_ is probably the most consistent video game series,
@@ -15,6 +17,18 @@ games were released on different consoles and in different versions.
 
 This article aims to help you plot a chart through the series, based on what
 hardware you have or are willing to buy. This guide contains _no spoilers_.
+
+## Short answer
+
+The mainline "canonical" Metal Gear Solid games in release order are MGS1, MGS2,
+MGS3, MGS4, Peace Walker, MGS5: Ground Zeroes, and MGSV: The Phantom Pain.
+
+Of these, MGS4 was _only_ released on Playstation 3, meaning you'll have to
+acquire or emulate a PS3 to complete the series. Conveniently, all other games
+on the list were available on the PS3: MGS1 via PSX (though PSX can be emulated
+well); MGS2, 3, and Peace Walker in the highly recommmended HD remaster pack
+(also available on Xbox 360); and MGS5/MGSV are also available on PS3 and 360,
+although with better graphics on PS4 and PC.
 
 ## Main titles, all versions
 
