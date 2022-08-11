@@ -1,15 +1,16 @@
 ---
 title: D&D 5e Unearthed Arcana index
 categories: rpg resources
-updated: 2021-10-08
+updated: 2022-08-11
 description: "An updated index of game content from D&D 5th edition Unearthed Arcana articles."
 ---
 
 This is an index of the official free online D&D 5e content, primarily
-Unearthed Arcana material.
+[Unearthed Arcana](https://dnd.wizards.com/news/archive?category=unearthed-arcana)
+material.
 
 This index last updated: <b>
-2021-10-08
+2022-08-11
 </b>
 
 1. Table of Contents
@@ -18,7 +19,8 @@ This index last updated: <b>
 ## Articles by usefulness
 
 ### For any character
-- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][], [81][], [86][]
+- Feats [2][], [16][], [39][], [42][], [53][], [74][], [79][], [81][], [86][], [89][],
+  [90][], [91][]
 - Downtime rules [38][], XGtE
 - Dragonmarks [62][]
 - Magic items [63][]
@@ -28,8 +30,8 @@ This index last updated: <b>
 - New classes [4][], [10][], [28][], [34][], [66][], [67][]
 - New races [2][], [5][], [12][], [15][], [42][], [44][], [45][], [46][],
   [49][], [50][], [51][], [53][], [57][], [59][], [60][], [61][], [62][], [84][], [85][],
-  [86][], [88][]
-- New backgrounds [44][], [46][]
+  [86][], [88][], [89][], [91][]
+- New backgrounds [44][], [46][], [89][], [91][]
 
 ### For characters of a certain race
 - Dragonborn [40][]
@@ -41,19 +43,19 @@ This index last updated: <b>
 - Warforged [63][]
 
 ### For characters of a certain class
-- Artificer [66][], [67][], [77][]
-- Barbarian [21][], [41][], [68][], [73][], [75][]
-- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][],[82][], [87][]
-- Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][]
-- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][], [87][]
+- Artificer [66][], [67][], [77][], [91][]
+- Barbarian [21][], [41][], [68][], [73][], [75][], [90][]
+- Bard [13][], [22][], [41][], [53][], [70][], [73][], [76][], [78][],[82][], [87][], [91][]
+- Cleric [8][], [23][], [37][], [44][], [56][], [71][], [73][], [76][], [78][], [91][]
+- Druid [24][], [37][], [43][], [53][], [54][], [71][], [73][], [77][], [78][], [87][], [90][]
 - Fighter [5][], [11][], [13][], [15][], [25][], [41][], [43][], [54][], [72][], [73][], [74][], [79][]
 - Monk [26][], [36][], [41][], [68][], [73][], [75][], [83][]
 - Paladin [5][], [8][], [11][], [27][], [36][], [37][], [43][], [70][],[73][], [75][], [78][]
 - Ranger [5][], [11][], [9][], [19][], [29][], [36][], [37][], [53][], [72][], [73][], [77][], [78][], [83][]
 - Rogue [5][], [15][], [72][],[73][], [74][], [79][], [80][]
-- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][], [87][]
-- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][], [87][]
-- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][], [87][]
+- Sorcerer [5][], [8][], [11][], [29][], [30][], [37][], [42][], [41][], [53][], [58][], [69][], [73][], [76][], [78][], [79][], [87][], [89][], [91][]
+- Warlock [8][], [11][], [12][], [18][], [31][], [37][], [43][], [53][], [69][], [73][], [75][], [78][], [80][],[82][], [87][], [91][]
+- Wizard [2][], [8][], [12][], [18][], [31][], [35][], [37][], [53][], [54][], [69][], [71][], [73][], [74][], [78][], [80][], [87][], [91][], [90][]
 
 ## Content index by type
 
@@ -99,6 +101,7 @@ Race variants with identical stats to a standard race are not listed.
 - Giff [88][] - Humanoid hippos from Spelljammer
 - Gith, Githyanki [49][] - Str+2 Int+1. Psionic warriors
 - Gith, Githzerai [49][] - Wis+2 Int+1. Psionic monks
+- Glitchling [91][] - Logical construct creatures of Mechanus
 - Gnome, Deep [53][] - Int+2 Dex+1. Svirneblin, stony underground gnomes
 - Goblin, Ixalan [60][] - Dex+2. Small humanoids who climb well.
 - Goblin, Zendikar [45][] - Con+2. Small chaotic creatures
@@ -110,6 +113,7 @@ Race variants with identical stats to a standard race are not listed.
 - Human, Nephalia [46][] - Int+1 Cha+1. Versatile, skilled humans
 - Human, Stensia [46][] - Str+1 Con+1. Strong, tough vampire-fighting humans
 - Kalashtar [59][] - Wis+1 Cha+1 Any+1. Psionic humans
+- Kender [89][] - Small humanoids from Dragonlance
 - Khenra [44][] - Dex+2 Str+1. Chaotic jackal-headed people
 - Kobold [86][]
 - Kor [45][] - Dex+2 Wis+1. Lawful good quiet people of white mana
@@ -161,6 +165,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Barbarian paths
 - Path of the Ancestral Guardian [21][], [41][], XGtE
 - Path of the Beast [75][], TCoE
+- Path of the Giant [90][]
 - Path of the Storm Herald [21][], XGtE
 - Path of the Zealot [21][], XGtE
 - Path of Wild Magic (Path of the Wild Soul) [68][], TCoE
@@ -179,6 +184,7 @@ Race variants with identical stats to a standard race are not listed.
 #### Cleric domains
 - Ambition [44][]
 - City [8][]
+- Fate [91][]
 - Forge [23][], XGtE
 - Grave [23][], XGtE
 - Peace (Love, Unity) [76][], TCoE
@@ -194,6 +200,7 @@ Race variants with identical stats to a standard race are not listed.
 - Circle of Spores [54][], TCoE
 - Circle of Twilight [24][]
 - Circle of Wildfire [71][], TCoE
+- Circle of the Primeval [90][]
 - Circle of the Shepherd [24][], [43][], XGtE
 - Circle of the Stars [77][], TCoE
 - Mage of Prismari [87][]
@@ -258,6 +265,7 @@ Race variants with identical stats to a standard race are not listed.
 - Clockwork Soul [76][], TCoE
 - Favored Soul (Divine Soul) [4][], [30][], [41][], XGtE
 - Giant Soul [58][]
+- Lunar Magic [89][]
 - Mage of Prismari [87][]
 - Mage of Quandrix [87][]
 - Phoenix Sorcery [30][]
@@ -272,6 +280,7 @@ Race variants with identical stats to a standard race are not listed.
 - Mage of Lorehold [87][]
 - Mage of Silverquill [87][]
 - Mage of Witherbloom [87][]
+- Runecrafter [90][]
 - The Celestial (The Undying Light) [11][], [43][], XGtE
 - The Fathomless (The Lurker in the Deep) [69][], TCoE
 - The Genie (The Noble Genie) [75][], [80][], TCoE
@@ -359,16 +368,19 @@ Race variants with identical stats to a standard race are not listed.
 - Pyrotechnics (Brd/Sor/Wiz) [53][]
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
+- Spray of Cards (Brd/Sor/War/Wiz) [91][]
 - Summon Bestial Spirit / Summon Beast (Drd/Rgr) [78][], TCoE
 - Thought Shield (Brd/Sor/War/Wiz) [74][]
 - Warding Wind (Brd/Drd/Sor) [53][]
 
 #### Level 3
+- Antagonize (Brd/Sor/War/Wiz) [91][]
 - Conjure Lesser Demon (Summon Lesser Demons) (Sor/Wiz) [12][], XGtE
 - Erupting Earth (Drd/Sor/Wiz) [53][]
 - Flame Arrows (Drd/Rgr/Sor/Wiz) [53][]
 - Flame Stride (Art/Rgr/Sor/Wiz) [86][]
 - Haywire (Sor/War/Wiz) [8][]
+- House of Cards (Art/Brd/Sor/Wiz) [91][]
 - Invisibility to Cameras (Sor/War/Wiz) [8][]
 - Melf's Minute Meteors (Sor/Wiz) [53][]
 - Protection from Ballistics (Sor/War/Wiz) [8][]
@@ -377,6 +389,7 @@ Race variants with identical stats to a standard race are not listed.
 - Summon Fey Spirit / Summon Fey [78][], TCoE
 - Summon Shadow Spirit / Summon Shadowspawn [78][], TCoE
 - Summon Undead Spirit / Summon Undead [78][], TCoE
+- Summon Warrior Spirit (Sor/War/Wiz) [91][]
 - Tidal Wave (Drd/Wiz) [53][]
 - Wall of Sand (Wiz) [53][]
 - Wall of Water (Drd/Sor/Wiz) [53][]
@@ -389,6 +402,7 @@ Race variants with identical stats to a standard race are not listed.
 - Elemental Bane (Drd/War/Wiz) [53][]
 - Intellect Fortress (Brd/Sor/War/Wiz) [74][], [79][], TCoE
 - Raulothim's Psychic Lance (Brd/Sor/War/Wiz) [86][]
+- Spirit of Death (Sor/War/Wiz) [91][]
 - Storm Sphere (Sor/Wiz) [53][]
 - Summon Aberrant Spirit / Summon Aberration [78][], TCoE
 - Summon Elemental Spirit / Summon Elemental [78][], TCoE
@@ -483,19 +497,28 @@ Race variants with identical stats to a standard race are not listed.
 
 - Aberrant Dragonmark [62][]
 - Acrobat [39][]
+- Adept of the Black Robes [89][]
+- Adept of the Red Robes [89][]
+- Adept of the White Robes [89][]
+- Agent of Order (level 4+) [91][]
 - Alchemist [16][]
 - Animal Handler [39][]
 - Arcanist [39][]
 - Artificer Initiate [81][], TCoE
+- Baleful Scion (level 4+) [91][]
 - Barbed Hide (tiefling) [40][]
 - Blade Mastery [16][]
 - Bountiful Luck (halfling) [40][]
 - Brawny [39][]
 - Burglar [16][]
+- Cartomancer (level 4+) [91][]
 - Chef [81][], TCoE
+- Cohort of Chaos (level 4+) [91][]
 - Critter Friend (forest gnome) [40][]
 - Crusher [81][], TCoE
 - Diplomat [39][]
+- Divine Communications [89][]
+- Divinely Favored [89][]
 - Dragon Fear (dragonborn) [40][], XGtE
 - Dragon Hide (dragonborn) [40][], XGtE
 - Dragon Wings (dragonborn) [40][]
@@ -503,7 +526,9 @@ Race variants with identical stats to a standard race are not listed.
 - Drow High Magic (drow) [40][], XGtE
 - Dwarf Resilience (Dwarven Fortitude) (dwarf) [40][], XGtE
 - Eldritch Adept [81][], TCoE
+- Elemental Touched [90][]
 - Elven Accuracy (elf/half-elf) [40][], XGtE
+- Ember of the Fire Giant (level 4+) [90][], [91][]
 - Empathic [39][]
 - Everybody's Friend (half-elf) [40][]
 - Fade Away (gnome) [40][], XGtE
@@ -513,17 +538,24 @@ Race variants with identical stats to a standard race are not listed.
 - Fighting Initiate [81][], TCoE
 - Flail Mastery [16][]
 - Flames of Phlegethos (tiefling) [40][], XGtE
+- Fury of the Frost Giant (level 4+) [90][], [91][]
 - Gift of the Chromatic Dragon [86][]
-- Gift of the Metallic Dragon [86][]
 - Gift of the Gem Dragon [86][]
+- Gift of the Metallic Dragon [86][]
 - Gourmand [16][]
 - Greater Dragonmark [62][]
 - Grudge-Bearer (dwarf) [40][]
+- Guilt of the Cloud Giant (level 4+) [90][], [91][]
 - Gunner [81][], TCoE
 - Historian [39][]
 - Human Determination (human) [40][]
 - Infernal Constitution (tiefling) [40][], XGtE
+- Initiate of High Sorcery [89][]
 - Investigator [39][]
+- Keenness of the Stone Giant (level 4+) [90][], [91][]
+- Knight of the Crown [89][]
+- Knight of the Rose [89][]
+- Knight of the Sword [89][]
 - Master of Disguise [16][]
 - Medic [39][]
 - Menacing [39][]
@@ -532,23 +564,37 @@ Race variants with identical stats to a standard race are not listed.
 - Naturalist [39][]
 - Orcish Aggression (half-orc) [40][]
 - Orcish Fury (half-orc) [40][], XGtE
+- Outlands Envoy (level 4+) [91][]
+- Outsized Might [90][]
 - Perceptive [39][]
 - Performer [39][]
 - Piercer [81][], TCoE
+- Planar Wanderer (level 4+) [91][]
 - Poisoner [81][], TCoE
-- Skill Expert (Practiced Expert) [81][], TCoE
 - Prodigy (human/half-elf/half-orc) [40][], XGtE
 - Quick-Fingered [39][]
 - Quicksmithing [42][]
+- Righteous Heritor (level 4+) [91][]
+- Rune Carver Adept (level 4+) [90][], [91][]
+- Rune Carver Apprentice [90][], [91][]
+- Scion of Elemental Air [91][]
+- Scion of Elemental Earth [91][]
+- Scion of Elemental Fire [91][]
+- Scion of Elemental Water [91][]
+- Scion of the Outer Planes [91][]
 - Second Chance (halfling) [40][], XGtE
 - Servo Crafting [42][]
 - Shadow Touched [81][], TCoE
 - Shield Training [81][]
 - Silver-Tongued [39][]
+- Skill Expert (Practiced Expert) [81][], TCoE
 - Slasher [81][], TCoE
+- Soul of the Storm Giant (level 4+) [90][],[91][]
 - Spear Mastery [16][]
 - Squat Nimbleness (dwarf/gnome/halfling/any Small) [40][], XGtE
+- Squire of Solamnia [89][]
 - Stealthy [39][]
+- Strike of the Giants [91][]
 - Survivalist [39][]
 - Svirfneblin Magic (deep gnome) [53][]
 - Tandem Tactician [81][]
@@ -557,23 +603,29 @@ Race variants with identical stats to a standard race are not listed.
 - Theologian [39][]
 - Tower of Iron Will [79][]
 - Tracker [81][]
+- Vigor of the Hill Giant (level 4+) [90][], [91][]
 - Wild Talent [79][]
 - Wonder Maker (rock gnome) [40][]
 - Wood Elf Magic (wood elf) [40][], XGtE
 
 ### Backgrounds
 
+- Dissenter [44][]
+- Gate Warden [91][]
+- Giant Foundling [91][]
 - Initiate [44][]
 - Inquisitor [46][]
+- Knight of Solamnia [89][]
+- Mage of High Sorcery [89][]
+- Planar Philosopher [91][]
+- Rune Carver [91][]
 - Vizier [44][]
-- Dissenter [44][]
 
 ### Creatures
 
 - Alchemical Homunculus (CR special) [66][], [67][], TCoE
 - Archon of Redemption (CR10) [45][]
 - Chupacabra (CR3) [60][]
-- Gremlin (CR1/2) [42][]
 - Creepy Doll (CR2) [46][]
 - Criosphinx (CR13) [44][]
 - Draconic Spirit [86][]
@@ -583,14 +635,18 @@ Race variants with identical stats to a standard race are not listed.
 - Frilled Deathspitter (CR1/2) [60][]
 - Geist (CR4) [46][]
 - Gishath, Sun'S Avatar (CR10) [60][]
+- Gremlin (CR1/2) [42][]
 - Iron Defender (CR special) [66][]
 - Kraken (CR13) [45][]
 - Manticore, heart-piercer (CR5) [44][]
+- Primeval Compaion [90][]
+- Reaper Spirit [91][]
 - Serpopard (CR3) [44][]
 - Servo (CR0) [42][]
 - Sky Leviathan (CR10) [42][]
 - Sunbird (CR13) [60][]
 - Vampire Neonate (CR5) [46][]
+- Warrior Spirit [91][]
 - Werewolf (Krallenhorde) (CR3) [46][]
 - Wildfire Spirit [71][]
 
@@ -713,6 +769,9 @@ Race variants with identical stats to a standard race are not listed.
 86. [Draconic Options][86]
 87. [Mages of Strixhaven][87]
 88. [Travelers of the Multiverse][88]
+89. [Heroes of Krynn][89]
+90. [Giant Options][91]
+91. [Wonders of the Multiverse][91]
 
 [1]:  https://dnd.wizards.com/articles/features/my-new-d20-modern-campaign "My New d20 Modern Campaign"
 [2]:  https://media.wizards.com/2015/downloads/dnd/UA_Eberron_v1.1.pdf "Eberron"
@@ -802,3 +861,6 @@ Race variants with identical stats to a standard race are not listed.
 [86]: https://media.wizards.com/2021/downloads/Unearthed-Arcana-2021-Draconic-Options.pdf "Draconic Options"
 [87]: https://media.wizards.com/2021/dnd/downloads/UA2021_06_08_MagesStrixhaven.pdf "Mages of Strixhaven" 
 [88]: https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf "Travelers of the Multiverse"
+[89]: https://media.wizards.com/2022/dnd/downloads/UA2022HeroesofKrynn.pdf "Heroes of Krynn"
+[90]: https://media.wizards.com/2022/dnd/downloads/UA2022-drjwf73f8n.pdf "Giant Options"
+[91]: https://media.wizards.com/2022/dnd/downloads/UA2022-WondersoftheMultiverse.pdf "Wonders of the Multiverse"
