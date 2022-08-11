@@ -369,7 +369,7 @@ Race variants with identical stats to a standard race are not listed.
 - Skywrite (Brd/Drd/Wiz) [53][]
 - Snilloc's Snowball Swarm (Sor/Wiz) [53][]
 - Spray of Cards (Brd/Sor/War/Wiz) [91][]
-- Summon Bestial Spirit / Summon Beast (Drd/Rgr) [78][], TCoE
+- Summon Bestial Spirit (Summon Beast) (Drd/Rgr) [78][], TCoE
 - Thought Shield (Brd/Sor/War/Wiz) [74][]
 - Warding Wind (Brd/Drd/Sor) [53][]
 
@@ -386,9 +386,9 @@ Race variants with identical stats to a standard race are not listed.
 - Protection from Ballistics (Sor/War/Wiz) [8][]
 - Psionic Blast (Brd/Sor/War/Wiz) [74][]
 - Spirit Shroud [78][], TCoE
-- Summon Fey Spirit / Summon Fey [78][], TCoE
-- Summon Shadow Spirit / Summon Shadowspawn [78][], TCoE
-- Summon Undead Spirit / Summon Undead [78][], TCoE
+- Summon Fey Spirit (Summon Fey) [78][], TCoE
+- Summon Shadow Spirit (Summon Shadowspawn) [78][], TCoE
+- Summon Undead Spirit (Summon Undead) [78][], TCoE
 - Summon Warrior Spirit (Sor/War/Wiz) [91][]
 - Tidal Wave (Drd/Wiz) [53][]
 - Wall of Sand (Wiz) [53][]
@@ -404,8 +404,8 @@ Race variants with identical stats to a standard race are not listed.
 - Raulothim's Psychic Lance (Brd/Sor/War/Wiz) [86][]
 - Spirit of Death (Sor/War/Wiz) [91][]
 - Storm Sphere (Sor/Wiz) [53][]
-- Summon Aberrant Spirit / Summon Aberration [78][], TCoE
-- Summon Elemental Spirit / Summon Elemental [78][], TCoE
+- Summon Aberrant Spirit (Summon Aberration) [78][], TCoE
+- Summon Elemental Spirit (Summon Elemental) [78][], TCoE
 - Synchronicity (Sor/War/Wiz) [8][]
 - System Backdoor (Sor/War/Wiz) [8][]
 - Vitriolic Sphere (Sor/Wiz) [53][]
@@ -418,7 +418,7 @@ Race variants with identical stats to a standard race are not listed.
 - Immolation (Sor/Wiz) [53][]
 - Maelstrom (Drd) [53][]
 - Shutdown (Sor/War/Wiz) [8][]
-- Summon Celestial Spirit / Summon Celestial [78][], TCoE
+- Summon Celestial Spirit (Summon Celestial) [78][], TCoE
 - Summon Draconic Spirit (Drd/Sor/Wiz) [86][]
 - Transmute Rock (Drd/Wiz) [53][]
 
@@ -429,10 +429,10 @@ Race variants with identical stats to a standard race are not listed.
 - Investiture of Ice (Drd/Sor/War/Wiz) [53][]
 - Investiture of Stone (Drd/Sor/War/Wiz) [53][]
 - Investiture of Wind (Drd/Sor/War/Wiz) [53][]
-- Otherworldly Form / Tasha's Otherworldly Guise [78][], TCoE
+- Otherworldly Form (Tasha's Otherworldly Guise) [78][], TCoE
 - Primordial Ward (Drd) [53][]
 - Psychic Crush (Brd/Sor/War/Wiz) [74][]
-- Summon Fiendish Spirit / Summon Fiend [78][], TCoE
+- Summon Fiendish Spirit (Summon Fiend) [78][], TCoE
 
 #### Level 7
 - Conjure Hezrou (Infernal Calling) (Sor/War/Wiz) [12][], XGtE
@@ -440,7 +440,7 @@ Race variants with identical stats to a standard race are not listed.
 - Whirlwind (Drd/Wiz) [53][]
 
 #### Level 8
-- Abi-Dalzim's Horrid Wilding (Sor/Wiz) [53][]
+- Abi-Dalzim's Horrid Wilting (Sor/Wiz) [53][]
 
 #### Level 9
 - none
