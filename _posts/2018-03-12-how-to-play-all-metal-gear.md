@@ -1,7 +1,7 @@
 ---
-title: "How to play all of Metal Gear Solid"
+title: "How to play the Metal Gear Solid series in 2023"
 categories: games mgs
-updated: 2022-03-03
+updated: 2022-11-23
 description: "Which platforms you need to play the entire Metal Gear series."
 ---
 
@@ -9,35 +9,167 @@ description: "Which platforms you need to play the entire Metal Gear series."
 > period... Each game is an artistic and technical achievement and a unique
 > experience of their own."
 >
-> &mdash; [dunkey](https://www.youtube.com/watch?v=pMPomCWUraQ), 2018
+> &mdash; [videogamedunkey](https://www.youtube.com/watch?v=pMPomCWUraQ), 2018
 
-Playing through the entire _Metal Gear Solid_ series is absolutely worth it,
-despite the dated graphics of the original. The biggest challenge is that the
-games were released on different consoles and in different versions.
+The _Metal Gear Solid_ series, vintage 1998-2015, is widely regarded as one of
+the greatest video game series of all time. This guide gives advice for anyone
+who'd like to play it, specifically the following:
 
-This article aims to help you plot a chart through the series, based on what
-hardware you have or are willing to buy. This guide contains _no spoilers_.
+- Which platforms each game is available on, and which versions are recommended
+  for each game
+- Which games are considered the main line series
+- In which order the games should be played
+- Common issues and how to avoid them
 
-## Short answer
+This guide contains no spoilers. It was revised substantially in November 2022.
 
-The mainline "canonical" Metal Gear Solid games in release order are MGS1, MGS2,
-MGS3, MGS4, Peace Walker, MGS5: Ground Zeroes, and MGSV: The Phantom Pain.
+## The main series
 
-Of these, MGS4 was _only_ released on Playstation 3, meaning you'll have to
-acquire or emulate a PS3 to complete the series. Conveniently, all other games
-on the list were available on the PS3: MGS1 via PSX (though PSX can be emulated
-well); MGS2, 3, and Peace Walker in the highly recommmended HD remaster pack
-(also available on Xbox 360); and MGS5/MGSV are also available on PS3 and 360,
-although with better graphics on PS4 and PC.
+The "main" or "canonical" _Metal Gear Solid_ series consists of seven games:
 
-## Main titles, all versions
+Metal Gear Solid (1998)
+: Originally a PlayStation game, and can be emulated reliably. The
+[PC version on GOG](https://www.gog.com/en/game/metal_gear_solid) is also
+recommended: it is inexpensive, has been patched to run correctly on modern PCs,
+and includes the VR Missions expansion.
+
+Metal Gear Solid 2 (2001)
+: Originally for PlayStation 2, but the best version is the HD Remake included
+in the _HD Collection_ for PlayStation 3 or Xbox 360, which conveniently also
+includes MGS3 and _Peace Walker_. All digital versions of MGS2 and the _HD
+Collection_ have been unavailable since November 2021 due to issues with stock
+footage licensing, but pre-owned copies are inexpensive.
+
+Metal Gear Solid 3 (2004)
+: Again, a PS2 game best played in the _HD Collection_ for PS3/360. Infamously
+difficult to emulate on a PC, so real hardware is recommended. It's also the
+only Metal Gear game released on Nintendo 3DS, but the e-shop for that platform
+is shutting down in March 2023.
+
+Metal Gear Solid 4 (2008)
+: A PlayStation 3 exclusive. Because of this, the PS3 is the minimum hardware
+necessary to play the entire MGS main series. _The Legacy Collection_ for PS3
+contains MGS4 and the _HD Collection_, and a download code for MGS1 (though if
+you buy a pre-owned copy, they probably redeemed the MGS1 code already).
+
+Metal Gear Solid: Peace Walker (2010)
+: Originally for PSP, but the best version is in the _HD Collection_ for
+PS3/360. Despite the lack of number, this is a key part of the series.
+
+Metal Gear Solid 5: Ground Zeroes (2014)
+: The PC version has the best graphics, especially if you have a very good PC.
+A pack called
+[The Definitive Experience](https://store.steampowered.com/sub/132479/) on Steam
+contains both _Ground Zeroes_ and _The Phantom Pain_ plus some cosmetic DLC, and
+is currently retailing for $7.49 during a Steam sale. If you don't own a good
+PC, the PlayStation 3 version is surprisingly playable.
+
+Metal Gear Solid 5: The Phantom Pain (2015)
+: Same as _Ground Zeroes_. The PC release has the advantage of a modding
+community.
+
+## Playing the main series
+
+It is generally recommended to play the games in release order, beginning with
+_Metal Gear Solid_. You have a lot of options, so use whatever platform is
+convenient.
+
+The MGS [PC version on GOG](https://www.gog.com/en/game/metal_gear_solid) is
+good, cheap, and convenient, but missing a few famous easter eggs in the Psycho
+Mantis battle. Pre-owned copies of the PlayStation version cost about as much as
+the original retail price, but you can play them natively on any PSX, PS2, or
+PS3, or emulate on a PC. A digital copy is available in the PSP/PS3 e-shop.
+There's even the GameCube version, _Twin Snakes_, but copies are expensive
+nowadays, and makes some controversial changes (some iconic lines change and
+characters lose their accents the re-dub, though that would be correct going
+forward).
+
+For the next four games, it's strongly recommended to acquire a PlayStation 3,
+since you'll need one anyway for MGS4. Pre-owned copies of the _HD Collection_
+and MGS4 are inexpensive. If you intend on streaming from a PS3 you will need a
+compatible HDMI adaptor that doesn't suffer from HDCP issues.
+
+For the last two, _Ground Zeroes_ and _The Phantom Pain_, the PS3 will play them
+surprisingly well if you're on a budget, but a high-end PC is much better. The
+middle-ground is PlayStation 4 or Xbox One, if you have either of those.
+
+## Advice for players
+
+_Metal Gear Solid_, like most games of its era, does not feature autosave. The
+PC version lets you quicksave, but traditional and recommended save method is to
+call Mei Ling on the codec. At some point you will be referred to the back of
+the CD case to find Meryl's codec frequency; since you probably playing a
+digital version, that frequency is 140.15. In general, in fact, you should
+engage to as many codec calls as possible, since an enormous amount of the
+game's content is optional codec conversations.
+
+_Metal Gear Solid 2_ has a surprisingly plot-relevant easter egg. When you are
+using the directional microphone to listen in on a conversation, turn it left
+instead and listen to the guard in the bathroom. Later, at the oil fence bridge,
+when the person you're escorting walks behind a pillar, point the directional
+microphone at the pillar to listen in on another conversation by the same guy.
+
+In _Metal Gear Solid 3_, you will be asked at the beginning which MGS game you
+like the most. Do not fret too much over this decision, as it does not affect
+much. The traditional response is "I like MGS2!", assuming. The powergamer's
+choice is MGS3, which unlocks some bonus camo sets. Either way, MGS3 is a good
+game to play through twice, picking up the missing achievements on the second
+playthrough.
+
+While playing _Metal Gear Solid 4_, I recommend forcing the PS3 to 720p to
+improve framerate.
+
+You should complete all the side missions in _Peace Walker_ to unlock the true
+final boss battle mission. It features important plot elements that will be
+relevant in subsequent games.
+
+Some missions in _Metal Gear Solid 5: Ground Zeroes_ unlock items or staff
+members in _The Phantom Pain_.
+
+In _Metal Gear Solid V: The Phantom Pain_, there's a character appearance
+customization at the beginning, but after you select it, you appear as the
+default appearance, which confuses some players. What you're actually selecting
+is your avatar for the online mode.
+
+## Notable other Metal Gear games
+
+Metal Gear and Metal Gear 2
+: The original 8-bit MSX games, which are included with MGS3 in the _HD
+Collection_ (and the PS2 improved release _Metal Gear Solid 3: Subsistence_).
+They're difficult, although they're considered canon. Some purists may attempt
+to play the MGS series starting with the MSX games, but there's a risk that
+you'll give up before you finish it. The events of these games are summarized in
+a codec call in MGS1.
+
+Metal Gear Rising: Revengeance
+: A popular and highly recommended game set after MGS4. It's an action game
+rather than a stealth game, where you play a sword-wielding cyborg. Available
+cheaply on PlayStation 3, Xbox 360, and for PC in a Steam sale near you.
+
+Metal Gear Solid: Portable Ops
+: A PSP/PS Vita release which fills in the gap between MGS3 and Peace Walker.
+It's generally considered non-canon, and was never available on a non-portable
+platform. It received an updated version called Portable Ops Plus. I haven't
+played any of these.
+
+Metal Gear: Ghost Babel
+: GameBoy Color release.
+
+Metal Gear Acid and Metal Gear Acid 2
+: PSP releases.
+
+Metal Gear Survive
+: The worst rated Metal Gear game ever. Watch 
+[Dunkey's review](https://www.youtube.com/watch?v=pMPomCWUraQ).
+
+## Table: Main series games by platform
 
 The following table lists all platforms on which you can play each game in the
 main _Metal Gear Solid_ series.
 
 |                            | PSX | Win | GC | PS2 | Xbox | PSP | PS3 | 3DS | Vita | 360 | PS4 | XB1 |
 |----------------------------|-----|-----|----|-----|------|-----|-----|-----|------|-----|-----|-----|
-| __Metal Gear Solid__       |  X  |  X  | X  |  XB |      |     |  XB |     |   XB |     |     |     |
+| __Metal Gear Solid__       |  X  |  X  | X  |  XB |      |  X  |  XB |     |   XB |     |     |     |
 | __Metal Gear Solid 2__     |     |  X  |    |  X  |  X   |     |  XX |     |  X   |  XX |     |     |
 | __Metal Gear Solid 3__     |     |     |    |  X  |      |     |  XX |  X  |  X   |  XX |     |     |
 | __Metal Gear Solid 4__     |     |     |    |     |      |     |  X! |     |      |     |     |     |
@@ -49,172 +181,19 @@ Key:
 
 * X: This game was released on this platform.
 *  XB : This game can be played on this platform due to backward compatibility
-  (PS2-PSX, Wii-Gamecube) or e-store (Wii virtual console, PSN).
+  (PS3-PSX, PS2-PSX, Wii-Gamecube) or e-store (Wii virtual console, PSN).
 * XX: The undisputably best version of this game is available on this platform
   (e.g. HD remake)
 * X! : This game was only released on this platform.
 
-### Individual games
-
-* __Metal Gear Solid__'s original PSX release is available digitally for PSP and
-  PS3, and the PS2 is backwardly compatible; in any case, it's worth buying
-  either the Virtual Missions add-on, or a version of the game which includes
-  Virtual Missions, although it's not necessary for the plot. The Gamecube
-  edition, _Twin Snakes_, makes minor changes that fans debate. It's doubtful if
-  the Windows version will still run on a modern PC; you may have more luck
-  emulating the PSX version.
-* __Metal Gear Solid 2__'s best version is the HD re-release on Playstation 3
-  and Xbox 360. In both cases it's available in the _Metal Gear Solid HD
-  Collection_ along with _MGS3_ and _Peace Walker_, at least in the US and
-  European releases. There was an improved version of the original called
-  _Substance_, but the HD remake supercedes this.
-* __Metal Gear Solid 3__'s best version is likewise the HD re-release on PS3 and
-  Xbox 360. These improve the camera controls. Widely considered one of the best
-  of the series. There was an improved version called _Subsistence_, but the HD
-  remake supercedes this.
-* __Metal Gear Solid 4__ was released on Playstation 3 only, meaning that you'll
-  need to buy or borrow a PS3 to play that one game. I recommend forcing 720p,
-  since the game does support 1080p but runs poorly.
-* __Metal Gear Solid: Peace Walker__ was originally a PSP release, but its plot
-  is vital to the later games; it introduces characters and concepts that will
-  be vital in MGS5. The best version is the HD remake for PS3 and 360, although
-  graphically and gameplay-wise it's still clearly a game of portable origins.
-* __MGS5: Ground Zeroes__ follows on directly after _Peace Walker_. The PC
-  version has the best graphics, assuming you have a good gaming PC, but the
-  other versions are just fine. Completing it will give you some unlocks for
-  MGSV.
-* __MGSV: The Phantom Pain__ is one of the best games in the series. Again, the
-  console versions are good, but a high end PC can have better graphics.
-
-### Platform combinations
-
-#### Top tier
-
-At bare minimum, you will have to buy or borrow a PS3 to play MGS4, which was
-only ever released on that platform. It does an important job of finishing off
-the stories of all the characters from MGS1 and MGS2. However, it's the easiest
-to skip, since it's chronologically the last in the series (apart from the
-spinoff _Metal Gear Rising: Revengeance_).
-
-Owning a PS3 will also allow you to play the virtual console version of the
-original _Metal Gear Solid_, the HD remakes of 2, 3 and _Peace Walker_, and both
-_Ground Zeroes_ and _Phantom Pain_, making it practical to play the entire
-series on this system alone. The HD remake of MGS3 even comes with versions of
-the original MSX _Metal Gear 1 & 2_.
-
-Optimally, a high-end PC will give superior graphical performance on GZ and PP.
-However, the PS3 can still run GZ and PP, making this single console the most
-cost-effective.
-
-#### High tier
-
-Skipping MGS4, the Xbox 360 equally has the HD remakes of 2, 3 and _Peace
-Walker_. It's recommended to play MGS1 first, for which you will need another
-platform. A PSX emulator will suffice.
-
-While you can play _Ground Zeroes_ and _Phantom Pain_ on a 360 or PS3, the newer
-consoles (PS4/Xbone) will do so with better graphics, and a good PC will give
-the best results.
-
-#### Portable tier
-
-If you don't have a PS3 or 360, or want to play on a portable device, the PS
-Vita will let you play the digital version of MGS1, the HD remakes of 2 and 3,
-and _Peace Walker_. These lack the high resolution of the console remakes, of
-course, and you will need another platform to play MGS5.
-
-There's a 3DS version of _Metal Gear Solid 3_, but whatever console you played
-_Metal Gear Solid 2_ on is also capable of playing 3, unless you played 2 on
-original Xbox.
-
-Owning a PSP or Vita gives you the advantage that you can also play _Metal Gear
-Solid: Portable Ops_, a game which fits between MGS3 and _Peace Walker_ but is
-of dubious canonicity since Kojima didn't work on it.
-
-#### Scrub tier
-
-So you have no console newer than 2004. This isn't insurmountable, but you won't
-be able to play the entire series this way.
-
-Start with the original _Metal Gear Solid_, which was released on PSX, meaning
-it will also run on a PS2 or can be emulated on even an older PC. The Gamecube
-version tones down some of the characters' accents, which is consistent with
-their later apperances in _Metal Gear Solid 4_ but that's not how most fans
-remember it.
-
-_Metal Gear Solid 2_ appears on PS2 and Xbox, and while you'll miss out on the
-improved graphics of the HD remakes, the PS2 version includes that rare
-skateboarding minigame. _Metal Gear Solid 3_ is on PS2 only, as far as you're
-concerned, and you'll miss out on the HD remake's improved camera controls.
-
-The drawback to playing MGS2 and 3 on older consoles is that if you intend to
-acquire the ability play the newer Metal Gear games at some point, you'll
-probably also acquire the ability to play the superior HD remakes. However, you
-might do this if you have a high-end PC to play MGSV and just want to play MGS3
-first.
-
-### Play order
-
-The optimal way to play the Metal Gear Solid series is __original release
-order__: 1, 2, 3, 4, Peace Walker, Ground Zeroes, and Phantom Pain.
-
-The reason is that while not all games are in chronological order (e.g. _Phantom
-Pain_ will not spoil _MGS4_), newer games introduce improved game mechanics and
-graphics, and going back may be frustrating.
-
-An exception is that _Peace Walker_ and _MGS4_ can be played in any order, since
-_Peace Walker_ is a PSP port and even in its HD remake has worse graphics and
-different controls, but is set chronologically before _MGS4_ and doesn't spoil
-it.
-
-Plot-wise, the series chronologically goes in this order: 3, (Portable Ops),
-Peace Walker, Ground Zeroes, Phantom Pain, (MG1), (MG2), 1, 2, 4, (Revengeance).
-From the perspective of release order, there are two plot threads, one following
-Solid Snake in the 21st Century (1, 2, 4) and one following Big Boss in the 20th
-Century (3, PW, GZ, PP).
-
-This gives you some leeway to skip 2 and 4 without spoiling chronologically
-earlier games in the series. You may find yourself skipping _MGS4_ because you
-don't own a PS3, or skipping _MGS2_ because the Fat Man boss fight is total
-bullshit and none of that game's plot makes sense anyway.
-
-I strongly recommend playing _Peace Walker_ to 100% completion before _Ground
-Zeroes_ and _Phantom Pain_. It introduces important characters and provides
-context.
-
-_Portable Ops_ appears between 3 and Peace Walker, but its canonicity is
-debatable, and many have skipped it due to the inconvenience of buying a PSP for
-one game. Metal Gear 1 and 2, the MSX games, are canon, but are often skipped
-for similar reasons, and also because they're very difficult and all their plot
-is explained in _Metal Gear Solid_ anyway.
-
-### Completeness
-
-It's tempting to finish each game as quickly as possible and move on to the
-next, but there are cases where this is less than optimal.
-
-* _Peace Walker_ has a "true ending" that can only be unlocked by completing all
-  of the side-missions. This is vital, since _Ground Zeroes_ follows on from
-  this plot point almost immediately.
-* Completing _Ground Zeroes_, and achieving certain results in that game, allows
-  you to unlock various items in _The Phantom Pain_. However, none of the items
-  are critical, you can go back to GZ and unlock them late, and most of your
-  play skill with MGSV will still be useful in GZ when you do so. It's worth
-  completing all the Ground Zeroes missions anyway.
-
-In general, you want to complete a game before moving on to the next one, since
-going back to an earlier game with inferior graphics and controls may be a
-disappointing experience. You also want to get the maximum amount of Metal Gear,
-so there's no point in skipping ahead.
-
-## All Metal Gear games
+## Table: All Metal Gear games by platform
 
 |                                           | MSX2 | C64 | NES | GBC | PSX | DOS | Win | OSX | GC | PS2 | Xbox | PSP | Wii   | PS2 | 3DS | Vita | 360 | iOS | And | PS4 | XB1 | N-Gage | Pachinko |
 |-------------------------------------------|------|-----|-----|-----|-----|-----|-----|-----|----|-----|------|-----|-------|-----|-----|------|-----|-----|-----|-----|-----|--------|----------|
 | __Metal&nbsp;Gear__                       |  X   |  X  |  X  |     |     |  X  |     |     | X  |  X  |      |     |  XJ   | X   |     |  X   |  X  |     |     |     |     |        |          |
 |   Snake's&nbsp;Revenge                    |      |     |  X! |     |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
 | __Metal&nbsp;Gear&nbsp;2__                |  X   |     |     |     |     |     |     |     |    |  X  |      |     |  XJ   | X   |     |  X   |  X  |     |     |     |     |        |          |
-| __Metal&nbsp;Gear&nbsp;Solid__            |      |     |     |     |  X  |     |  X  |     | X  | XB  |      |     | XB    | XB  |     | XB   |     |     |     |     |     |        |          |
+| __Metal&nbsp;Gear&nbsp;Solid__            |      |     |     |     |  X  |     |  X  |     | X  | XB  |      |  XB | XB    | XB  |     | XB   |     |     |     |     |     |        |          |
 |   Metal&nbsp;Gear:&nbsp;Ghost&nbsp;Babel  |      |     |     |  X! |     |     |     |     |    |     |      |     |       |     |     |      |     |     |     |     |     |        |          |
 | __Metal&nbsp;Gear&nbsp;Solid&nbsp;2__     |      |     |     |     |     |     |  X  |     |    |  X  |  X   |     |       |  XX |     |  X   |  XX |     |     |     |     |        |          |
 | __Metal&nbsp;Gear&nbsp;Solid&nbsp;3__     |      |     |     |     |     |     |     |     |    |  X  |      |     |       |  XX |  X  |  X   |  XX |     |     |     |     |        |    X     |
@@ -237,7 +216,7 @@ Key:
 
 * X: This game was released on this platform.
 * XB : This game can be played on this platform due to backward compatibility
-  (PS2-PSX, Wii-Gamecube) or e-store (Wii virtual console, PSN).
+  (PS3-PSX, PS2-PSX, Wii-Gamecube) or e-store (Wii virtual console, PSN).
 * XX: The undisputably best version of this game is available on this platform
   (e.g. HD remake)
 * X! : This game was only released on this platform.
@@ -250,5 +229,5 @@ mobile platforms.
 
 ## References
 
-Most of this information is collected from Wikipedia. Do not cite this page on
-Wikipedia as an independent source.
+Most of the information regarding release platform is collected from Wikipedia.
+Do not cite this page on Wikipedia as an independent source.
