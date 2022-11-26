@@ -101,7 +101,8 @@ call Mei Ling on the codec. At some point you will be referred to the back of
 the CD case to find Meryl's codec frequency; since you probably playing a
 digital version, that frequency is 140.15. In general, in fact, you should
 engage to as many codec calls as possible, since an enormous amount of the
-game's content is optional codec conversations.
+game's content is optional codec conversations. Also, you should watch the
+mission briefing before starting the game.
 
 _Metal Gear Solid 2_ has a surprisingly plot-relevant easter egg. When you are
 using the directional microphone to listen in on a conversation, turn it left
@@ -117,7 +118,9 @@ game to play through twice, picking up the missing achievements on the second
 playthrough.
 
 While playing _Metal Gear Solid 4_, I recommend forcing the PS3 to 720p to
-improve framerate.
+improve framerate. You may also want to enable subtitles in-game, since they're
+not on by default. You should also watch the Mission Briefing before you start a
+new game, since it's not shown in normal play.
 
 You should complete all the side missions in _Peace Walker_ to unlock the true
 final boss battle mission. It features important plot elements that will be
@@ -130,6 +133,26 @@ In _Metal Gear Solid V: The Phantom Pain_, there's a character appearance
 customization at the beginning, but after you select it, you appear as the
 default appearance, which confuses some players. What you're actually selecting
 is your avatar for the online mode.
+
+## Advice for streamers
+
+Not all HDMI capture devices will let you stream correctly from a PlayStation 3.
+Ensure that you purchase one which can.
+
+The _Metal Gear Solid_ series is hugely popular, and many of your viewers will
+have either played it or seen another streamer play it recently. The risk of
+spoilers in the chat is extremely high. Remind viewers that you have not played
+this game before and do not want spoilers. Don't ask the chat plot questions if
+you don't want to receive spoilers. It's useful to establish an anti-spoiler
+protocol, such as asking viewers to spam a smile emote in chat if someone posts
+spoilers or you ask a question to which the answer is a spoiler; this will
+signal you to avoid chat for a while.
+
+It's been so long since the game came out that many people will mis-remember
+details or confuse one game for another. Streamers are at particular risk of
+being One Guyed. For example, In the helicopter fight in MGS1, there is no
+ration under the central block; that's only in _Twin Snakes_. Rations don't
+restore health in MGS3; you need Life Med for that.
 
 ## Notable other Metal Gear games
 
