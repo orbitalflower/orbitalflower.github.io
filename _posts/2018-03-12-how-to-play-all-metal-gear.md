@@ -95,44 +95,80 @@ middle-ground is PlayStation 4 or Xbox One, if you have either of those.
 
 ## Advice for players
 
-_Metal Gear Solid_, like most games of its era, does not feature autosave. The
-PC version lets you quicksave, but traditional and recommended save method is to
-call Mei Ling on the codec. At some point you will be referred to the back of
-the CD case to find Meryl's codec frequency; since you probably playing a
-digital version, that frequency is 140.15. In general, in fact, you should
-engage to as many codec calls as possible, since an enormous amount of the
-game's content is optional codec conversations. Also, you should watch the
-mission briefing before starting the game.
+### Metal Gear Solid
 
-_Metal Gear Solid 2_ has a surprisingly plot-relevant easter egg. When you are
-using the directional microphone to listen in on a conversation, turn it left
-instead and listen to the guard in the bathroom. Later, at the oil fence bridge,
-when the person you're escorting walks behind a pillar, point the directional
-microphone at the pillar to listen in on another conversation by the same guy.
+- Like most games of its era, MGS1 does not feature autosave. The PC version
+  lets you quicksave, but traditional and recommended save method is to call Mei
+  Ling on the codec, whereupon she may give you useful advice. Be sure that you
+  actually save; it's not necessarily clear whether the white or green text is
+  highlighting the the correct one. If you save on the PSX version, you will be
+  given a save slot to pick from.
+- You should watch the BRIEFING before starting the game. There are multiple
+  sections to the briefing.
+- In general, you should engage to as many codec calls as possible, since an
+  enormous amount of the game's content is optional codec conversations.
+- Natasha Romanenko's frequency is 141.52. She won't call you first, since she's
+  entirely optional, so you have to call her manually. She mainly gives
+  background information on the characters.
+- At some point in the game you will be referred to the back of the CD case to
+  find Meryl's codec frequency; since you probably playing a digital version,
+  that frequency is 140.15.
+- To perform a choke on an enemy, you need to approach from behind and press the
+  button (square) without holding a direction. If you hold a direction, you'll
+  throw them instead. To kill the enemy, you need to mash the button, not just
+  hold it. Very importantly, don't stand too close to the enemy before
+  performing the grab, or you will make contact with the enemy before the grab
+  and set off an alert.
 
-In _Metal Gear Solid 3_, you will be asked at the beginning which MGS game you
-like the most. Do not fret too much over this decision, as it does not affect
-much. The traditional response is "I like MGS2!", assuming. The powergamer's
-choice is MGS3, which unlocks some bonus camo sets. Either way, MGS3 is a good
-game to play through twice, picking up the missing achievements on the second
-playthrough.
+### Metal Gear Solid 2
 
-While playing _Metal Gear Solid 4_, I recommend forcing the PS3 to 720p to
-improve framerate. You may also want to enable subtitles in-game, since they're
-not on by default. You should also watch the Mission Briefing before you start a
-new game, since it's not shown in normal play.
+- Bosses have two health bars: one depleted by lethal weapons, and one depleted
+  by non-lethal weapons. It's therefore advantageous to only use one or the
+  other against each boss.
+- MGS2 has a surprisingly plot-relevant easter egg. When you are using the
+  directional microphone to listen in on a conversation, turn it left instead
+  and listen to the guard in the bathroom. Later, at the oil fence bridge, when
+  the person you're escorting walks behind a pillar, point the directional
+  microphone at the pillar to listen in on another conversation by the same guy.
 
-You should complete all the side missions in _Peace Walker_ to unlock the true
-final boss battle mission. It features important plot elements that will be
-relevant in subsequent games.
+### Metal Gear Solid 3
 
-Some missions in _Metal Gear Solid 5: Ground Zeroes_ unlock items or staff
-members in _The Phantom Pain_.
+- You will be asked at the beginning which MGS game you like the most. Do not
+  fret too much over this decision, as it does not affect much. The traditional
+  response is "I like MGS2!", assuming. The powergamer's choice is MGS3, which
+  unlocks some bonus camo sets.
+- The separate health bar applies here: bosses have a health bar, depleted by
+  lethal weapons, and a stamina bar, depleted by non-lethal weapons. There's no
+  point in using both types.
+- MGS3 is a good game to play through twice, picking up the missing achievements
+  on the second playthrough.
 
-In _Metal Gear Solid V: The Phantom Pain_, there's a character appearance
-customization at the beginning, but after you select it, you appear as the
-default appearance, which confuses some players. What you're actually selecting
-is your avatar for the online mode.
+### Metal Gear Solid 4
+
+- I recommend forcing the PS3 to 720p to improve framerate.
+- You may also want to enable subtitles in-game, since they're not on by
+  default.
+- You should watch the Mission Briefing before you start a new game, since it's
+  not shown in normal play.
+
+### Peace Walker
+
+- You should complete all the side missions to unlock the true final boss battle
+  mission. It features important plot events that will be relevant in subsequent
+  games. If you can't manage it, there are audio tapes in _Ground Zeroes_ which
+  recap the situation.
+
+### Ground Zeroes and Phantom Pain
+
+- _Metal Gear Solid 5: Ground Zeroes_ is a short game which primarily exists to
+  bridge the narrative gap between _Peace Walker_ and _The Phantom Pain_.
+- Some missions in _Ground Zeroes_ unlock item blueprints or staff members in
+  _The Phantom Pain_. I recommend doing at least the main mission and the
+  helicopter shooter shooter side-mission.
+- In _Metal Gear Solid V: The Phantom Pain_, there's a character appearance
+  customization at the beginning, but after you select it, you appear as the
+  default appearance, which confuses some players. What you're actually
+  selecting is your avatar for the online mode.
 
 ## Advice for streamers
 
