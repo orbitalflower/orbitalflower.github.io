@@ -145,11 +145,20 @@ middle-ground is PlayStation 4 or Xbox One, if you have either of those.
 
 ### Metal Gear Solid 4
 
+- MGS4 was released before Peace Walker. This is important if you want to play
+  in release order. However, since Peace Walker is set in the 1970s after MGS3,
+  one does not directly spoil the other, so it is not a major problem to play
+  these two out of order.
+- It is mandatory to install the game to hard disk before play, even if you're
+  playing from a disk. This is time consuming if you intend to play on stream.
+  The process may take fifteen minutes before you can play.
 - I recommend forcing the PS3 to 720p to improve framerate.
 - You may also want to enable subtitles in-game, since they're not on by
   default.
-- You should watch the Mission Briefing before you start a new game, since it's
-  not shown in normal play.
+- You should watch the Mission Briefing for Act 1 from the main menu. It's not
+  shown in normal play to allow you to get into the game more quickly.
+- During play, you can mash X when the symbol appears at the top right of the
+  screen.
 
 ### Peace Walker
 
@@ -189,6 +198,17 @@ details or confuse one game for another. Streamers are at particular risk of
 being One Guyed. For example, In the helicopter fight in MGS1, there is no
 ration under the central block; that's only in _Twin Snakes_. Rations don't
 restore health in MGS3; you need Life Med for that.
+
+Don't feel bad about playing on easier difficulty in order to make it through
+the game. Streaming divides your attention, and you can always replay a game on
+harder difficulty once you've mastered the game.
+
+_Metal Gear Solid V: The Phantom Pain_ uses a huge amount of licensed music
+which may trigger DMCA. There's no option to disable music, and as far as I
+know, nobody has yet created a mod to disable or replace the music. Have a
+button set up to mute the game audio and be ready to use it. It particularly
+plays in cassette tapes at various bases, which stop when you collect the tape,
+and at the jail cell on the medical platform.
 
 ## Notable other Metal Gear games
 
