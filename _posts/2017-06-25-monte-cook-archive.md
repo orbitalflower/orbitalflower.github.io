@@ -1,6 +1,9 @@
 ---
 title: MonteCook.com archive
-categories: rpg resources
+category: rpg
+tags: resources
+redirect_from:
+- /rpg/resources/monte-cook-archive.html
 description: "An index of articles from Monte Cook's excellent D&D 3e-era website, now only extant in the Web Archive."
 ---
 
@@ -63,7 +66,7 @@ Resources and advice on running D&D from the author of the Dungeon Master's Guid
 - [An Interesting Bit of Complication](https://web.archive.org/web/20070503035841/http://www.montecook.com/arch_dmonly31.html): Variant rule for alternate ability scores in saving throws that ultimately made it into D&D 5e.
 - [An Occasion for Every Rule, and a Rule for Every Occasion](https://web.archive.org/web/20070502215605/http://www.montecook.com/arch_dmonly33.html)
 - [Setting the Stage 1](https://web.archive.org/web/20070814062955/http://www.montecook.com/arch_dmonly34.html): Create scenarios with cover and barriers; terrain that asymmetrically favours one side over the other
-- [Setting the Stage 2](https://web.archive.org/web/20070814031656/http://www.montecook.com/arch_dmonly35.html): Use terrain like pits in darkness, and buy [The Book of Iron Might](/rpg/books/iron-might.md)
+- [Setting the Stage 2](https://web.archive.org/web/20070814031656/http://www.montecook.com/arch_dmonly35.html): Use terrain like pits in darkness, and buy _The Book of Iron Might_
 - [Setting the Stage 3](https://web.archive.org/web/20070504061811/http://www.montecook.com/arch_dmonly36.html): Dangerous terrain like falling rocks, a flash flood or a magical effect.
 - [Setting the Stage 4](https://web.archive.org/web/20110701165647/http://www.montecook.com/cgi-bin/page.cgi?otherd20_movingterrain): Moving terrain.
 - [Ranger Tidbits](https://web.archive.org/web/20110701165535/http://www.montecook.com/cgi-bin/page.cgi?otherd20_ranger_tidbits): House rule for rangers. Favored enemy languages and lore for free, animal companions get max HP and favored enemy bonuses.

@@ -20,4 +20,4 @@ subcategories:
     title: "Suikoden"
 ---
 
-Video games.
+Posts on video games, mainly from the late 1990s and onward.

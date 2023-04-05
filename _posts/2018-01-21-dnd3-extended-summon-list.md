@@ -1,6 +1,9 @@
 ---
 title: "Extended summon monster list for D&D 3.5"
-categories: rpg rules
+category: rpg
+tags: rules
+redirect_from:
+- /rpg/rules/dnd3-extended-summon-list.html
 description: "A list creatures officially listed as conjurable by Summon Monster spells."
 ---
 

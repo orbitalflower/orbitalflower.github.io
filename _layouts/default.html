@@ -1,36 +1,81 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "style.css" | absolute_url }}">
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     {% feed_meta %}
     {% if page.description %}<meta name="description" content="{{ page.description }}"> {% endif %}
   </head>
-
   <body>
-    <div id="container">
-      <div id="header">
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      </div>
 
-{% include navigation.html %}
+    <header>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      <nav>
+        <ul>
+          <li><a href="{{ "/comp/" | absolute_url }}" title="Articles on computing">Computing</a></li>
+          <li><a href="{{ "/games/" | absolute_url }}" title="Articles on video games">Games</a></li>
+          <li><a href="{{ "/rpg/" | absolute_url }}" title="Articles on tabletop roleplaying games">RPGs</a></li>
+          <li><a href="{{ "/tv/" | absolute_url }}" title="Articles on television">TV</a></li>
+          <li><a href="{{ "/opinion/" | absolute_url }}" title="Opinion">Opinion</a></li>
+          <li><a href="{{ "/etc/" | absolute_url }}" title="Other pages">Etc</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
 
-      <div id="content">
-      {% if page.title %}<h1>{{ page.title | default: Untitled }}</h1>{% endif %}
-        {{ content }}
-      </div>
+{% if page.title %}<h1>{{ page.title | default: Untitled }}</h1>{% endif %}
 
-{% include navigation.html %}
+{% if page.date %}
+<p class="meta">
+Posted
+{% case page.category %}
+  {% when "comp" %}
+  in <a href="comp/">Computing</a>
+  {% when "games" %}
+  in <a href="games/">Games</a>
+  {% when "rpg" %}
+  in <a href="rpg/">RPG</a>
+  {% when "tv" %}
+  in <a href="tv/">TV</a>
+  {% when "opinion" %}
+  in <a href="opinion/">Opinion</a>
+  {% when "etc" %}
+  in <a href="etc/">Etc</a>
+  {% else %}
+{% endcase %}
+{% if page.date %} on {{ page.date | date: "%Y-%m-%d }} {% endif %}
+{% if page.updated %} &mdash; last updated {{ page.updated | date: %Y-%m-%d }} {% endif %}
+</p>
+{% endif %}
 
-      <div id="footer">
-      <p>
-      {% if page.date %} Page created: {{ page.date | date_to_long_string }}. {% endif %}
-      {% if page.updated %} Last updated: {{ page.updated | date_to_long_string }}. {% endif %}
-      <a href="#">Back to top &#x21E4</a> <img src="https://www.free-website-hit-counter.com/c.php?d=7&id=107279&s=16" title="free website hit counter" class="hitcounter" alt="hitcounter">
-      </p>
-      </div>
+{{ content }}
 
-    </div>
+    </main>
+    <footer>
+      <ul>
+        <li><a href="#">&#x219F; Back to page top</a></li>
+        <li>
+{% if page.license %} {% assign license = page.license %}
+{% elsif site.defaultlicense %} {% assign license = site.defaultlicense %}
+{% else %} {% assign license = "copyright" %}
+{% endif %}
+{% case license %}
+  {% when "CC BY" %}
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+  {% when "copyright" %}
+    &copy; {{ page.date | date: %Y}}{% if page.updated %}&ndash;{{ page.updated | date: %Y }} {% endif %} {{site.author}}
+  {% when "CC0" %}
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain</a>
+{% endcase %}
+</li>
+
+{% if site.hitcounterid %}
+        <li><img src="https://www.free-website-hit-counter.com/c.php?d=8&id={{ site.hitcounterid }}}&s=16" title="free website hit counter" class="hitcounter" alt="hitcounter"></li>
+{% endif %}
+      </ul>
+    </footer>
+
   </body>
 </html>

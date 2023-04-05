@@ -1,6 +1,9 @@
 ---
 title: "How to play the Metal Gear Solid series in 2023"
-categories: games mgs
+category: games
+tags: mgs
+redirect_from:
+- /games/mgs/how-to-play-all-metal-gear.html
 updated: 2022-11-23
 description: "Which platforms you need to play the entire Metal Gear series."
 ---

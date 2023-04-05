@@ -17,3 +17,5 @@ subcategories:
     title: "Web"
 ---
 
+Posts on computing and programming. Includes posts on the topic of using Jekyll
+as a blogging platform.

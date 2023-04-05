@@ -1,6 +1,9 @@
 ---
 title: Suikoden I is the trollingest game
-categories: games suikoden
+category: games
+tags: suikoden
+redirect_from:
+- /games/suikoden/suikoden-the-trollingest-game.html
 description: "A rant about the ways Suikoden annoys us."
 ---
 

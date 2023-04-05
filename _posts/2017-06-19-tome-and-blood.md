@@ -1,6 +1,9 @@
 ---
 title: "Tome and Blood"
-categories: rpg books
+category: rpg
+tags: books
+redirect_from:
+- /rpg/books/tome-and-blood.html
 updated: 2017-06-22
 description: "My thoughts on a great D&D 3.0 sourcebook for arcane spellcasters."
 ---

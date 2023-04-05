@@ -1,6 +1,9 @@
 ---
 title: "How to disable history on Python 3"
-categories: comp python
+category: comp
+tags: python
+redirect_from:
+- /comp/python/python3-disable-history.html
 description: "How to disable the Python 3 interpreter logging to .python_history on Linux."
 ---
 

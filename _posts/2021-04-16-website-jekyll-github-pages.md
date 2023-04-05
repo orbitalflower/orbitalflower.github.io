@@ -1,6 +1,9 @@
 ---
 title: "Making a website with Jekyll and GitHub Pages"
-categories: comp web
+category: comp
+tags: web
+redirect_from:
+- /comp/web/website-jekyll-github-pages.html
 description: "A guide to running a website like this one."
 ---
 

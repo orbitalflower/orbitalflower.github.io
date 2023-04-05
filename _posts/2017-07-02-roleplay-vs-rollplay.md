@@ -1,6 +1,9 @@
 ---
 title: "Roleplay vs rollplay"
-categories: rpg rules
+category: rpg
+tags: rules
+redirect_from:
+- /rpg/rules/roleplay-vs-rollplay.html
 description: "Thoughts on the meaning of rolling dice in D&D."
 ---
 

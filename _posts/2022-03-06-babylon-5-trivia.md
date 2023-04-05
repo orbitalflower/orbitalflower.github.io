@@ -1,6 +1,9 @@
 ---
 title: "Babylon 5 trivia and commentary"
-categories: tv babylon5
+categories: tv
+tags: babylon5
+redirect-from:
+- /tv/babylon5/babylon-5-trivia.html
 description: "A lengthy analysis of things I find interesting about Babylon 5."
 ---
 

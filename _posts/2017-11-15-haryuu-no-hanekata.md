@@ -1,6 +1,9 @@
 ---
 title: "Haryuu no hanekata: FF7's misheard lyric"
-categories: games ff
+category: games
+tags: ff
+redirect_from:
+- /games/ff/haryuu-no-hanekata.html
 description: The origins of a misheard lyric in Final Fantasy VII.
 ---
 

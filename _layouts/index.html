@@ -5,11 +5,16 @@ layout: default
 
 {{content}}
 
-<h2>List of articles</h2>
+<h2>Index</h2>
 
 <ul>
 {% for post in site.posts %}
-  <li><a href="{{post.url}}">{{post.title}}</a> {{ post.categories | default: "" | join: "/" | prepend: " (" | append: ") " }}  &mdash; {{ post.date | date_to_string }}</li>
+  <li><a href="{{post.url}}">{{post.title}}</a>
+  {{ post.category | default: "" | prepend: " (" | append: ") " }}
+  {% if post.updated %}&mdash; Updated: {{ post.updated | date: %Y-%m-%d }}
+  {% else %}&mdash; {{ post.date | date: %Y-%m-%d }}
+  {% endif %}
+  </li>
 {% endfor %}
 </ul>
 
@@ -18,9 +23,11 @@ layout: default
 <ul>
 {% assign sortedPosts = site.posts | sort: 'updated' | reverse %}
 {% for post in sortedPosts limit:10 %}
-{% if post.updated %}
-  <li><a href="{{post.url}}">{{post.title}}</a> {{ post.categories | default: "" | join: "/" | prepend: " (" | append: ") " }} &mdash; {{ post.updated | date_to_string }}</li>
-{% endif %}
+  {% if post.updated %}
+    <li><a href="{{post.url}}">{{post.title}}</a>
+    {{ post.category | default: "" | prepend: " (" | append: ") " }}
+    &mdash; {{ post.updated | date: %Y-%m-%d }}</li>
+  {% endif %}
 {% endfor %}
 </ul>
 

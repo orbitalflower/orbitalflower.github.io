@@ -1,7 +1,10 @@
 ---
 title: Data's password
-categories: tv startrek
-redirect_from: /2015-05-22-how-strong-is-datas-password.html
+category: tv
+tags: startrek
+redirect_from:
+- /tv/startrek/datas-password.html
+- /2015-05-22-how-strong-is-datas-password.html
 description: "How strong is the password Lt. Commander Data sets in the Star Trek: TNG episode 'Brothers'?"
 ---
 

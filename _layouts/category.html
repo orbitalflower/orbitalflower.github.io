@@ -5,38 +5,12 @@ layout: default
 
 {{ content }}
 
-{% assign sortedPosts = site.posts | sort: 'title' %}
-
 <ul>
-  {% for post in sortedPosts %}
-    {% if post.categories contains page.category %}
-      {% if post.categories.size == 1 %}
+{% for post in site.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a>
-  {% if post.updated %}&mdash; Updated: {{ post.updated | date_to_string }}
-  {% else %}&mdash; {{ post.date | date_to_string }}
+  {% if post.updated %}&mdash; Updated: {{ post.updated | date: %Y-%m-%d }}
+  {% else %}&mdash; {{ post.date | date: %Y-%m-%d }}
   {% endif %}
-  </li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-</ul>
-
-{% for subcategory in page.subcategories %}
-
-<h3 id="{{ subcategory.slug }}">{{ subcategory.title }}</h3>
-
-<ul>
-  {% for post in sortedPosts %}
-    {% if post.categories contains page.category %}
-      {% if post.categories contains subcategory.slug %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a>
-  {% if post.updated %}&mdash; Updated: {{ post.updated | date_to_string }}
-  {% else %}&mdash; {{ post.date | date_to_string }}
-  {% endif %}
-  </li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-</ul>
-
 {% endfor %}
+</ul>
+

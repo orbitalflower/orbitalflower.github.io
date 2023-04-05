@@ -1,6 +1,9 @@
 ---
 title: "Wizards.com D&D 3.5 archive"
-categories: rpg resources
+category: rpg
+tags: resources
+redirect_from:
+- /rpg/resources/wizards-3e-archive.html
 updated: 2017-07-09
 description: "An index of content at Wizards of the Coast's official D&D website during the D&D 3rd edition era from 2000-2008."
 ---

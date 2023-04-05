@@ -15,4 +15,4 @@ subcategories:
     title: "Anime"
 ---
 
-Television series.
+Posts about televison and other video media, mainly science fiction and anime.

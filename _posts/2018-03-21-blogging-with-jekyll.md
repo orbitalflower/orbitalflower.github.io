@@ -1,7 +1,10 @@
 ---
 title: "The pros and cons of blogging with Jekyll"
-categories: comp web
-redirect-from: /20150819-blogging-with-jekyll.html
+category: comp
+tags: web
+redirect_from:
+- /comp/web/blogging-with-jekyll.html
+- /20150819-blogging-with-jekyll.html
 description: "Advantages and disadvantages of Jekyll with Markdown as a blogging platform."
 ---
 

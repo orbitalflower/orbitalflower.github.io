@@ -1,6 +1,9 @@
 ---
 title: "Extended list of alchemy items in D&D 3.5"
-categories: rpg rules
+category: rpg
+tags: rules
+redirect_from:
+- /rpg/rules/dnd3-extended-alchemy-items-list.html
 updated: 2018-03-03
 description: "A list of useful items in D&D 3.5 which can be made with the Craft (Alchemy) skill."
 ---

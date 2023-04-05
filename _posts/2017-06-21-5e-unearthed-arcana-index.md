@@ -1,6 +1,9 @@
 ---
 title: D&D 5e Unearthed Arcana index
-categories: rpg resources
+category: rpg
+tags: resources
+redirect_from:
+- /rpg/resources/5e-unearthed-arcana-index.html
 updated: 2022-08-11
 description: "An updated index of game content from D&D 5th edition Unearthed Arcana articles."
 ---

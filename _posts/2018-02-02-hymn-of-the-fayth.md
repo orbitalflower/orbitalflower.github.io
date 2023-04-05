@@ -1,6 +1,9 @@
 ---
 title: "Hymn of the Fayth lyrics and meaning"
-categories: games ff
+category: games
+tags: ff
+redirect_from:
+- /games/ff/hymn-of-the-fayth.html
 description: "Analysis of the famous song from Final Fantasy X."
 ---
 

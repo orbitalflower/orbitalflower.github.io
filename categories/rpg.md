@@ -27,4 +27,5 @@ subcategories:
     title: "Rules"
 ---
 
-Tabletop roleplaying games, like _Dungeons & Dragons_.
+Posts about tabletop roleplaying games, mainly the various editions of
+_Dungeons & Dragons_.

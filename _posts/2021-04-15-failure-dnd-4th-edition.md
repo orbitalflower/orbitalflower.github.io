@@ -1,6 +1,9 @@
 ---
 title: "The failure of D&D 4th edition"
-categories: rpg rules
+category: rpg
+tags: rules
+redirect_from:
+- /rpg/rules/failure-dnd-4th-edition.html
 description: "A lengthy critique of Dungeons & Dragons 4th edition."
 ---
 
