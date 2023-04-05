@@ -1,6 +1,7 @@
 ---
 title: Television index
 layout: category
+license: none
 permalink: "/tv/"
 redirect_from:
   - /tv/startrek/index.html

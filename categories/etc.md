@@ -1,6 +1,7 @@
 ---
 title: Other pages index
 layout: category
+license: none
 permalink: "/etc/"
 redirect_from:
   - /misc/index.html

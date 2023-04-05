@@ -1,6 +1,7 @@
 ---
 title: Roleplaying games index
 layout: category
+license: none
 permalink: "/rpg/"
 redirect_from:
   - /rpgs/index.html

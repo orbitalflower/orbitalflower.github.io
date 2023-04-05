@@ -1,6 +1,7 @@
 ---
 title: Computing index
 layout: category
+license: none
 permalink: "/comp/"
 redirect_from:
   - /computing/index.html

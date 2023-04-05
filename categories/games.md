@@ -1,6 +1,7 @@
 ---
 title: Games index
 layout: category
+license: none
 permalink: "/games/"
 redirect_from:
   - /game/index.html

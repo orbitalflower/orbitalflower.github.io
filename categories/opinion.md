@@ -1,6 +1,7 @@
 ---
 title: Opinion index
 layout: category
+license: none
 permalink: "/opinion/"
 category: opinion
 subcategories:
