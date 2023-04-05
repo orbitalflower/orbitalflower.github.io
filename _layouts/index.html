@@ -11,8 +11,8 @@ layout: default
 {% for post in site.posts %}
   <li><a href="{{post.url}}">{{post.title}}</a>
   {{ post.category | default: "" | prepend: " (" | append: ") " }}
-  {% if post.updated %}&mdash; Updated: {{ post.updated | date: %Y-%m-%d }}
-  {% else %}&mdash; {{ post.date | date: %Y-%m-%d }}
+  {% if post.updated %}&mdash; Updated: {{ post.updated | date: "%Y-%m-%d" }}
+  {% else %}&mdash; {{ post.date | date: "%Y-%m-%d" }}
   {% endif %}
   </li>
 {% endfor %}
@@ -26,7 +26,7 @@ layout: default
   {% if post.updated %}
     <li><a href="{{post.url}}">{{post.title}}</a>
     {{ post.category | default: "" | prepend: " (" | append: ") " }}
-    &mdash; {{ post.updated | date: %Y-%m-%d }}</li>
+    &mdash; {{ post.updated | date: "%Y-%m-%d" }}</li>
   {% endif %}
 {% endfor %}
 </ul>

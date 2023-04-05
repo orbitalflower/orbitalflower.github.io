@@ -1,6 +1,6 @@
 ---
 title: "Babylon 5 trivia and commentary"
-categories: tv
+category: tv
 tags: babylon5
 redirect-from:
 - /tv/babylon5/babylon-5-trivia.html
