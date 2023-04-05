@@ -1,4 +1,5 @@
 ---
 layout: index
+license: none
 ---
 

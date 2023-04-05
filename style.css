@@ -11,7 +11,7 @@ body {
   padding: 0;
 }
 
-a, nav a {
+a, nav a, nav a:visited {
   color: white;
 }
 

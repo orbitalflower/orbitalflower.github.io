@@ -38,8 +38,10 @@ for the new environment variables to take effect.
 
 Create a file called `.pythonrc` in your homedir containing the following:
 
-    import readline
-    readline.write_history_file = lambda *args: None
+```python
+import readline
+readline.write_history_file = lambda *args: None
+```
 
 Credit to this goes to [Waxrat](https://unix.stackexchange.com/a/297834)
 at Unix & Linux Stack Exchange.
