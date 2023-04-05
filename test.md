@@ -98,14 +98,13 @@ end
 
 ### Small image
 
-![orbital](../images/orbital-64px.png "orbital)
+![orbital](../img/orbital-64px.png "orbital")
 
-![](../images/orbital-64px.png)
+![](../img/orbital-64px.png)
 
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
