@@ -25,6 +25,8 @@
     </header>
     <main>
 
+{% comment %}
+
 {% if page.title %}<h1>{{ page.title | default: Untitled }}</h1>{% endif %}
 
 {% if page.date %}
@@ -49,6 +51,8 @@ Posted
 {% if page.updated %} &mdash; last updated {{ page.updated | date: %Y-%m-%d }} {% endif %}
 </p>
 {% endif %}
+
+{% endcomment %}
 
 {{ content }}
 
