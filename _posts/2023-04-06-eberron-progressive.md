@@ -3,7 +3,6 @@ title: "Was Eberron the most progressive D&D setting?"
 category: rpg
 tags: eberron
 description: "An analysis of the D&D 3.5 Eberron Campaign Setting in the context of contemporary progressive values."
-published: false
 ---
 
 Recently, a hot-button topic in the Dungeons & Dragons community is a perceived
