@@ -4,7 +4,6 @@ category: rpg
 tags: rules
 description: "Adaptions necessary to use the D&D 5e Ability Check Proficiency variant rule."
 license: CC BY
-published: false
 ---
 
 Dungeons & Dragons 5th edition has a little-used variant rule which eliminates
