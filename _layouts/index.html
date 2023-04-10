@@ -12,8 +12,8 @@ license: none
 {% for post in site.posts %}
   <li><a href="{{post.url}}">{{post.title}}</a>
   {{ post.category | default: "" | prepend: " (" | append: ") " }}
-  {% if post.updated %}&mdash; Updated: {{ post.updated | date: "%Y-%m-%d" }}
-  {% else %}&mdash; {{ post.date | date: "%Y-%m-%d" }}
+  {% if post.updated %}&mdash; Updated: <time>{{ post.updated | date: "%Y-%m-%d" }}</time>
+  {% else %}&mdash; <time>{{ post.date | date: "%Y-%m-%d" }}</time>
   {% endif %}
   </li>
 {% endfor %}
@@ -27,7 +27,7 @@ license: none
   {% if post.updated %}
     <li><a href="{{post.url}}">{{post.title}}</a>
     {{ post.category | default: "" | prepend: " (" | append: ") " }}
-    &mdash; {{ post.updated | date: "%Y-%m-%d" }}</li>
+    &mdash; <time>{{ post.updated | date: "%Y-%m-%d" }}</time></li>
   {% endif %}
 {% endfor %}
 </ul>

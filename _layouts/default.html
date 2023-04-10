@@ -44,8 +44,8 @@ Posted
   {% when "etc" %}
   in <a href="etc/">Etc</a>
 {% endcase %}
-{% if page.date %} on {{ page.date | date: "%Y-%m-%d" }} {% endif %}
-{% if page.updated %} &mdash; last updated {{ page.updated | date: "%Y-%m-%d" }} {% endif %}
+{% if page.date %} on <time>{{ page.date | date: "%Y-%m-%d" }}</time> {% endif %}
+{% if page.updated %} &mdash; last updated <time>{{ page.updated | date: "%Y-%m-%d" }}</time> {% endif %}
 </p>
 {% endif %}
 

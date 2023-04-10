@@ -2,6 +2,7 @@
 title: "Was Eberron the most progressive D&D setting?"
 category: rpg
 tags: eberron
+license: CC BY
 description: "An analysis of the D&D 3.5 Eberron Campaign Setting in the context of contemporary progressive values."
 ---
 
@@ -19,7 +20,7 @@ setting which holds up best overall in today's political climate.
 1. Table of Contents
 {:toc}
 
-### Eberron's predecessors
+## Eberron's predecessors
 
 The first Advanced Dungeons & Dragons campaign setting published by TSR was Gary
 Gygax's _The World of Greyhawk_ (1980). A review by Kenneth W. Burke in Dragon
@@ -69,7 +70,7 @@ brutish by nature, are re-interpreted today as stereotypes of African-Americans.
 In 2023, long-standing D&D rules like alignment, racial ability score modifiers,
 and even the term "race" are on the way out.
 
-### Eberron Campaign Setting (2004)
+## Eberron Campaign Setting (2004)
 
 The original 
 [Eberron Campaign Setting](https://www.drivethrurpg.com/product/28474/Eberron-Campaign-Setting-3e)
@@ -92,7 +93,7 @@ Despite all that, this nearly twenty year old campaign setting manages to hold
 up well to the updated standards of morality being embraced by Wizards of the
 Coast in 2023.
 
-### Eberron on race
+## Eberron on race
 
 The half-elves of Eberron are a species with their own society and culture,
 tracing their ancestry in the continent of Khorvaire for centuries.
@@ -133,7 +134,7 @@ a completely fantastical world. The skin tone of any given NPC is hardly
 relevant. "Race", in the 20th century meaning of divisions in human ethnicity
 based largely on skin tone, is not a meaningful part of Eberron.
 
-### Eberron on alignment
+## Eberron on alignment
 
 Alignment, too, is a hot-button issue, and there was a period around the
 publication of _Tasha's Cauldron of Everything_ where Wizards of the Coast
@@ -156,7 +157,7 @@ glossary as 40-50%, with exceptions common. "Usually" means over 50%, and in
 both cases here the alignment may be either nature or nurture. "Always" means
 practically 100%.
 
-### Summary
+## Summary
 
 I do not imagine that, at any point in its history, the writers of Dungeons &
 Dragons were intentionally writing racist content, or would have understood
