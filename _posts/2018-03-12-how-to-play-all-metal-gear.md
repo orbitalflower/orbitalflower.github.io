@@ -125,21 +125,24 @@ middle-ground is PlayStation 4 or Xbox One, if you have either of those.
 
 ### Metal Gear Solid 2
 
-- Bosses have two health bars: one depleted by lethal weapons, and one depleted
-  by non-lethal weapons. It's therefore advantageous to only use one or the
-  other against each boss.
-- MGS2 has a surprisingly plot-relevant easter egg. When you are using the
-  directional microphone to listen in on a conversation, turn it left instead
-  and listen to the guard in the bathroom. Later, at the oil fence bridge, when
-  the person you're escorting walks behind a pillar, point the directional
-  microphone at the pillar to listen in on another conversation by the same guy.
+- From MGS2 onward, there is usually some reward for beating the game without
+  any lethal kills. However, it's not necessary.
+- From MGS2 onward, bosses have two health bars: a health bar depleted by lethal
+  weapons, and a stamina bar depleted by non-lethal weapons. It's therefore
+  advantageous to only use one or the other against each boss.
+- MGS2 has a surprisingly plot-relevant easter egg that's easy to miss. When you
+  are using the directional microphone to listen in on a conversation, turn it
+  left instead and listen to the guard in the bathroom. Later, at the oil fence
+  bridge, when the person you're escorting walks behind a pillar, point the
+  directional microphone at the pillar to listen in on another conversation by
+  the same guy.
 
 ### Metal Gear Solid 3
 
 - You will be asked at the beginning which MGS game you like the most. Do not
   fret too much over this decision, as it does not affect much. The traditional
-  response is "I like MGS2!", assuming. The powergamer's choice is MGS3, which
-  unlocks some bonus camo sets.
+  response is "I like MGS2!", assuming you played MGS2. The powergamer's choice
+  is MGS3, which unlocks some bonus camo sets.
 - The separate health bar applies here: bosses have a health bar, depleted by
   lethal weapons, and a stamina bar, depleted by non-lethal weapons. There's no
   point in using both types.
@@ -155,7 +158,8 @@ middle-ground is PlayStation 4 or Xbox One, if you have either of those.
 - It is mandatory to install the game to hard disk before play, even if you're
   playing from a disk. This is time consuming if you intend to play on stream.
   The process may take fifteen minutes before you can play.
-- I recommend forcing the PS3 to 720p to improve framerate.
+- I recommend forcing the PS3 to 720p to improve framerate. The game was
+  originally developed to only run at 720p.
 - You may also want to enable subtitles in-game, since they're not on by
   default.
 - You should watch the Mission Briefing for Act 1 from the main menu. It's not
@@ -232,7 +236,7 @@ Metal Gear Solid: Portable Ops
 : A PSP/PS Vita release which fills in the gap between MGS3 and Peace Walker.
 It's generally considered non-canon, and was never available on a non-portable
 platform. It received an updated version called Portable Ops Plus. I haven't
-played any of these.
+played either of these.
 
 Metal Gear: Ghost Babel
 : GameBoy Color release.
