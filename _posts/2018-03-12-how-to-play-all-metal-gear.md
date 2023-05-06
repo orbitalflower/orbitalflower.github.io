@@ -125,6 +125,8 @@ middle-ground is PlayStation 4 or Xbox One, if you have either of those.
 
 ### Metal Gear Solid 2
 
+- The intro screen of each game in the _HD Collection_ has spoilers for the
+  events of the beginning of the game. Don't read it!
 - From MGS2 onward, there is usually some reward for beating the game without
   any lethal kills. However, it's not necessary.
 - From MGS2 onward, bosses have two health bars: a health bar depleted by lethal
