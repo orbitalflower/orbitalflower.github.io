@@ -26,6 +26,21 @@ who'd like to play it, specifically the following:
 
 This guide contains no spoilers. It was revised substantially in November 2022.
 
+**UPDATE (August 2023)**: This guide will be made redundant with the upcoming
+release of the ''Metal Gear Solid Master Collection'', which will bring the main
+MGS series to modern platforms:
+
+- On 24 October 2023, the _Metal Gear Solid Master Collection Vol. 1_ will be
+  released for Nintendo Switch, PlayStation 5, Windows PC, and Xbox Series X. It
+  contains _MGS1_, _MGS2_, _MGS3_, and the original 8-bit _MG1_ and _MG2_.
+- The _Metal Gear Solid Master Collection Vol. 2_ will be released at some later
+  date, presumably for the same platforms. It is speculated to include _MGS4_,
+  _MGS: Peace Walker_, _MGS5: Ground Zeroes_, and _MGSV: The Phantom Pain_. If
+  this is correct, the two-part _Master Collection_ will contain the entire
+  main-line _Metal Gear Solid_ series.
+- Additionally, a remake of _MGS3_, known as _Metal Gear Solid Delta: Snake
+  Eater_, is in development for PlayStation 5, Windows PC, and Xbox Series X/S.
+
 ## The main series
 
 The "main" or "canonical" _Metal Gear Solid_ series consists of seven games:
