@@ -4,7 +4,7 @@ category: games
 tags: mgs
 redirect_from:
 - /games/mgs/how-to-play-all-metal-gear.html
-updated: 2022-11-23
+updated: 2023-10-18
 description: "Which platforms you need to play the entire Metal Gear series."
 ---
 
@@ -31,15 +31,17 @@ release of the ''Metal Gear Solid Master Collection'', which will bring the main
 MGS series to modern platforms:
 
 - On 24 October 2023, the _Metal Gear Solid Master Collection Vol. 1_ will be
-  released for Nintendo Switch, PlayStation 5, Windows PC, and Xbox Series X. It
-  contains _MGS1_, _MGS2_, _MGS3_, and the original 8-bit _MG1_ and _MG2_.
-- The _Metal Gear Solid Master Collection Vol. 2_ will be released at some later
-  date, presumably for the same platforms. It is speculated to include _MGS4_,
-  _MGS: Peace Walker_, _MGS5: Ground Zeroes_, and _MGSV: The Phantom Pain_. If
-  this is correct, the two-part _Master Collection_ will contain the entire
-  main-line _Metal Gear Solid_ series.
+  released for all major platforms: Windows, Switch, PS4, PS5, and Xbox Series
+  X/S. It contains _MGS1_, _MGS2_, and _MGS3_, which you should play in order,
+  and the original 2D 8-bit _MG1_ and _MG2_, which you may optionally play.
+- The upcoming _Metal Gear Solid Master Collection Vol. 2_ is believed to
+  include the rest of the main-line _Metal Gear Solid _series: _MGS4_,
+  _Peace Walker_, _MGS5: Ground Zeroes_, and _MGSV: The Phantom Pain_,
+  presumably for the same platforms.
 - Additionally, a remake of _MGS3_, known as _Metal Gear Solid Delta: Snake
   Eater_, is in development for PlayStation 5, Windows PC, and Xbox Series X/S.
+- The game-specific advice below for first-time players and streamers will
+  mostly remain relevant.
 
 ## The main series
 
@@ -289,7 +291,7 @@ Key:
   (e.g. HD remake)
 * X! : This game was only released on this platform.
 
-## Table: All Metal Gear games by platform
+## Table: All Metal Gear games by platform (2018)
 
 |                                           | MSX2 | C64 | NES | GBC | PSX | DOS | Win | OSX | GC | PS2 | Xbox | PSP | Wii   | PS2 | 3DS | Vita | 360 | iOS | And | PS4 | XB1 | N-Gage | Pachinko |
 |-------------------------------------------|------|-----|-----|-----|-----|-----|-----|-----|----|-----|------|-----|-------|-----|-----|------|-----|-----|-----|-----|-----|--------|----------|
@@ -327,8 +329,8 @@ Key:
   (MSX version) appeared on the Wii virtual console, although the Gamecube
   version of Twin Snakes included the NES version of Metal Gear 1.
 
-This list is not complete; it omits some arcade versions and obsolete Japanese
-mobile platforms.
+This list is not complete; it omits some arcade versions, obsolete Japanese
+mobile platforms, and the _Master Collection_ releases from 2023.
 
 ## References
 
