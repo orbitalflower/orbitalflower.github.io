@@ -8,7 +8,7 @@ license: none
 
 <h2>Index</h2>
 
-<ul>
+<ul class="article-list">
 {% for post in site.posts %}
   <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span>
     <a href="{{post.url}}">{{post.title}}</a>
@@ -22,7 +22,7 @@ license: none
 
 <h2>Recently updated</h2>
 
-<ul>
+<ul class="article-list">
 {% assign sortedPosts = site.posts | sort: 'updated' | reverse %}
 {% for post in sortedPosts limit:10 %}
   {% if post.updated %}

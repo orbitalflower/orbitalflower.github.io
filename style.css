@@ -241,9 +241,13 @@ img:not([alt]) {
   border: 1px dashed #c00;
 }
 
+ul.article-list {
+  list-style: none;
+}
+
 span.cat-emoji {
   display: inline-block;
-  width: 2em;
+  width: 1em;
 }
 
 footer {

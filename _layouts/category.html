@@ -6,7 +6,7 @@ license: none
 
 {{ content }}
 
-<ul>
+<ul class="article-list">
 {% for post in site.posts %}
   {% if post.category == page.category %}
     <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span>
