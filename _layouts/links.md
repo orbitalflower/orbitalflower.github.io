@@ -6,6 +6,7 @@ layout: default
 <!--
   Custom template for links pages including a category from this site.
   Use by giving that page the properties layout: links and includecat: whatever.
+  (is this unused?)
 -->
 
 {{ content }}

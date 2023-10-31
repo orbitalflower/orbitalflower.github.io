@@ -18,3 +18,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+category_emoji:
+  comp: "💻"
+  etc: "📦"
+  games: "🕹️"
+  opinion: "💬"
+  rpg: "🎲"
+  tv: "📺"

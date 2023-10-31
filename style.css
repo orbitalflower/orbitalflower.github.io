@@ -241,6 +241,11 @@ img:not([alt]) {
   border: 1px dashed #c00;
 }
 
+span.cat-emoji {
+  display: inline-block;
+  width: 2em;
+}
+
 footer {
   padding: 2em 0 5em 0;
 }

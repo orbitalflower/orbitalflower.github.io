@@ -10,8 +10,9 @@ license: none
 
 <ul>
 {% for post in site.posts %}
-  <li><a href="{{post.url}}">{{post.title}}</a>
-  {{ post.category | default: "" | prepend: " (" | append: ") " }}
+  <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span>
+    <a href="{{post.url}}">{{post.title}}</a>
+<!--  {{ post.category | default: "" | prepend: " (" | append: ") " }} -->
   {% if post.updated %}&mdash; Updated: <time>{{ post.updated | date: "%Y-%m-%d" }}</time>
   {% else %}&mdash; <time>{{ post.date | date: "%Y-%m-%d" }}</time>
   {% endif %}
@@ -25,8 +26,9 @@ license: none
 {% assign sortedPosts = site.posts | sort: 'updated' | reverse %}
 {% for post in sortedPosts limit:10 %}
   {% if post.updated %}
-    <li><a href="{{post.url}}">{{post.title}}</a>
-    {{ post.category | default: "" | prepend: " (" | append: ") " }}
+  <li><span class="cat-emoji">{{site.category_emoji[post.category]}}</span>
+    <a href="{{post.url}}">{{post.title}}</a>
+<!--    {{ post.category | default: "" | prepend: " (" | append: ") " }} -->
     &mdash; <time>{{ post.updated | date: "%Y-%m-%d" }}</time></li>
   {% endif %}
 {% endfor %}
