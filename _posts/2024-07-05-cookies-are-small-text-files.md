@@ -26,10 +26,10 @@ short, because it more or less _used_ to be true about twenty years ago.
 ## No, cookies are not small text files
 
 Last year I debunked the
-[Twitter mute-list superstition](../comp/2023-07-06-twitter-filter-that-never-was.html),
+[Twitter mute-list superstition](../comp/twitter-filter-that-never-was.html),
 where people shared lists of keywords that you could supposedly mute to block
-ads and likes from their timeline. Now I'm the claim: "Cookies are small text
-files".
+ads and likes from their timeline. Now I'm debunking an evne more popular claim:
+"Cookies are small text files".
 
 To begin with, even if cookies were small text files, it would still be a
 strange way to lead into your cookie disclaimer. Nowadays, if a user lacks the
@@ -65,7 +65,7 @@ browsers today store cookies as individual text files. Chrome, Opera, and Edge
 all store cookies in a single non-human-readable file called `Cookies`. Firefox
 uses a sqlite database called `cookies.sqlite`. Neither of these are text files.
 
-Internet Explorer, which added cooie support in 1995 and was officially retired
+Internet Explorer, which added cookie support in 1995 and was officially retired
 in 2022, did in fact store cookies as files in a folder. Here's the screenshot
 again, depicting Windows 98 running Internet Explorer 5.0, a browser released in
 1999:
@@ -142,7 +142,7 @@ the time, demonstrates that many users confused the cookie alert for a security
 breach notification, which probably explains why Microsoft disabled the warnings:
 
 > A cookie is a file sent from the server that you are connecting to and it asks
-> your computer some information. They [sic] are NOT a security breech and
+> your computer some information. They are NOT a security breech [sic] and
 > [cookie warnings] should be turned off.
 
 At any rate, IE3's dialog box describing a cookie as "Internet information

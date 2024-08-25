@@ -38,7 +38,7 @@ you're banished from the only kingdom that has BonBons in it. You can return
 much later, but all the BonBons are gone.
 
 The drop rate is low (0.78% Failure Urn, 0.78% Octopus Urn, 0.26% Celadon
-Urn)[^1] [^2]. Just as well, because your inventory limit is nine items per
+Urn).[^1] [^2] Just as well, because your inventory limit is nine items per
 character, and your equipment (typically four items) counts against that limit.
 You may even throw off pieces of armour to smuggle more unidentified pottery,
 without knowing which ones are worthless.
@@ -49,7 +49,7 @@ The only thing you can do with pottery is to put it in your bathroom.
 
 Suikoden lets you permanently attach up to nine of the same rune piece to a
 weapon to increase stats. An enemy called Killer Slime has a 1.31% chance of
-dropping Water Rune Piece[^1], an extremely useful rune that gives 5 health
+dropping Water Rune Piece,[^1] an extremely useful rune that gives 5 health
 regeneration per piece.
 
 But Killer Slime only appears in an early game area that becomes inaccessible
@@ -82,7 +82,7 @@ Characters temporarily leave for plot reasons at unpredictable moments, and take
 their equipment with them. Now you have to pick a replacement and outfit him
 with inferior equipment.
 
-You have to equip the Holy Rune on someone to be able to run instead of walk
+You have to equip a Holy Rune on someone to be able to run instead of walk
 everywhere. It's possible for someone to leave with your last Holy Rune, forcing
 you to _walk_ to the shop for a new one.
 
