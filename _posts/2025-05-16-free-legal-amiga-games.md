@@ -174,8 +174,8 @@ outside of the scope of this article.
 | Blue Max: Aces of the War | [Amiga Future full versions] |
 | Bob's Garden + Digger | [Ami Sector One, B] |
 | Bobbydash | [Ami Sector One, B] |
-| Body Blows Galactic | [Dream17 ADFs] |
 | Body Blows | [Dream17 ADFs] |
+| Body Blows Galactic | [Dream17 ADFs] |
 | Boing | [Ami Sector One, B] |
 | Bombjacky | [Borrowed-Time] |
 | Bombmania | [Ami Sector One, B] |
@@ -206,7 +206,7 @@ outside of the scope of this article.
 | Case of the C. Condor, the | [Ami Sector One, C] |
 | Castle Kingdoms | [Amiga Future full versions] |
 | Castle of Doom | [Ami Sector One, C] |
-| Castle of the red Death | [Ami Sector One, C] |
+| Castle of the Red Death | [Ami Sector One, C] |
 | Catacomb | [Ami Sector One, C] |
 | Celcia GT Rally | [Gremlin Graphics World] |
 | Centerfold Squares | [Amiga Future full versions] |
@@ -1328,7 +1328,7 @@ outside of the scope of this article.
 [Ami Sector One, X]: https://www.exotica.org.uk/mirrors/ami_sector_one/g_dl_x.htm
 [Ami Sector One, Y]: https://www.exotica.org.uk/mirrors/ami_sector_one/g_dl_y.htm
 [Ami Sector One, Z]: https://www.exotica.org.uk/mirrors/ami_sector_one/g_dl_z.htm
-[Amiga Future full versions]: https://www.amigafuture.de/app.php/dlext/index?cat=32
+[Amiga Future full versions]: https://www.amigafuture.de/app.php/dlext/index?cat=6
 [Amiga Future CD-ROM]: https://www.amigafuture.de/app.php/dlext/index?cat=14
 [Amiga Future tools]: https://www.amigafuture.de/app.php/dlext/index?cat=29
 [Ami Sector One tools]: https://www.exotica.org.uk/mirrors/ami_sector_one/apps.htm
