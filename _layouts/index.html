@@ -21,13 +21,13 @@ license: none
 
   {% capture postdate %}{{ post.date | date: '%s'}}{% endcapture %}
   {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-  {% assign postdate = postdate | minus: 2628000 %}
-  {% assign past = now | minus: 92628000 %}
+  {% assign postdate = postdate | plus: 0 %}
+  {% assign past = now | minus: 2628000 %}
   {% if postdate > past %}
     (new)
   {% elsif post.updated %}
     {% capture postdate %}{{ post.updated | date: '%s'}}{% endcapture %}
-    {% assign postdate = postdate | minus: 92628000 %}
+    {% assign postdate = postdate | minus: 992628000 %}
     {% if postdate > past %}
       (updated)
     {% endif %}
