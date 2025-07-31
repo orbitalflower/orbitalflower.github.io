@@ -13,6 +13,26 @@ license: none
 <tr>
   <td class="index-cat"><a href="{{ post.category | absolute_url }}">{{post.category}}/</a></td>
   <td class="index-link"><a href="{{post.url}}">{{post.title}}</a>
+  {% for tag site.tags %}
+    {% if tag=="hot"%}
+      (hot!)
+    {% endif %}
+  {% endfor%}
+
+  {% capture postdate %}{{ post.date | date: '%s'}}{% endcapture %}
+  {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% assign postdate = postdate | minus: 2628000 %}
+  {% assign past = now | minus: 2628000 %}
+  {% if postdate > past %}
+    (new)
+  {% elif post.updated %}
+    {% capture postdate %}{{ post.updated | date: '%s'}}{% endcapture %}
+  {% assign postdate = postdate | minus: 2628000 %}
+    {% if postdate > past %}
+      (updated)
+    {% endif %}
+  {% endif %}
+
 </td>
   <td class="index-date">
   {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.updated | date: "%Y-%m-%d" }}&ast;</time>

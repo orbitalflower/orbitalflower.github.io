@@ -1,7 +1,7 @@
 ---
 title: "Wizards.com D&D 3.5 archive"
 category: rpg
-tags: resources
+tags: resources hot
 redirect_from:
 - /rpg/resources/wizards-3e-archive.html
 updated: 2023-04-05
