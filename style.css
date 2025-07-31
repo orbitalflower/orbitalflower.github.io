@@ -208,23 +208,23 @@ main blockquote {
   border-left: 6px solid #ccc;
 }
 
-table {
+main table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
 }
 
-table tr {
+main table tr {
 }
 
-table th, table td {
+main table th, main table td {
   font-size: 0.875em;
   border: 1px solid #446;
   padding: 0.5em 0.5em;
 }
 
-table th {
+main table th {
   background-color: #335;
 }
 
@@ -248,6 +248,25 @@ ul.article-list {
 span.cat-emoji {
   display: inline-block;
   width: 1em;
+}
+
+/* Index */
+table.index {
+  width: 100%;
+}
+
+td.index-cat {
+  text-align: right;
+}
+
+td.index-cat a {
+  color: lightsteelblue;
+}
+
+td.index-link {
+}
+
+td.index-date {
 }
 
 footer {

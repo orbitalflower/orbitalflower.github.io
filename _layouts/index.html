@@ -8,29 +8,17 @@ license: none
 
 <h2>Index</h2>
 
-<ul class="article-list">
-{% for post in site.posts %}
-  <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span>
-    <a href="{{post.url}}">{{post.title}}</a>
-<!--  {{ post.category | default: "" | prepend: " (" | append: ") " }} -->
-  {% if post.updated %}&mdash; Updated: <time>{{ post.updated | date: "%Y-%m-%d" }}</time>
-  {% else %}&mdash; <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+<table class="index">
+{% for post in site.posts  %}
+<tr>
+  <td class="index-cat"><a href="{{ post.category | absolute_url }}">{{post.category}}/</a></td>
+  <td class="index-link"><a href="{{post.url}}">{{post.title}}</a>
+</td>
+  <td class="index-date">
+  {% if post.updated %}<time>{{ post.updated | date: "%Y-%m-%d" }}<span title="Updated">&ast;</span></time>
+  {% else %}<time>{{ post.date | date: "%Y-%m-%d" }}</time>
   {% endif %}
-  </li>
+</td>
+</tr>
 {% endfor %}
-</ul>
-
-<h2>Recently updated</h2>
-
-<ul class="article-list">
-{% assign sortedPosts = site.posts | sort: 'updated' | reverse %}
-{% for post in sortedPosts limit:10 %}
-  {% if post.updated %}
-  <li><span class="cat-emoji">{{site.category_emoji[post.category]}}</span>
-    <a href="{{post.url}}">{{post.title}}</a>
-<!--    {{ post.category | default: "" | prepend: " (" | append: ") " }} -->
-    &mdash; <time>{{ post.updated | date: "%Y-%m-%d" }}</time></li>
-  {% endif %}
-{% endfor %}
-</ul>
-
+</table>

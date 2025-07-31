@@ -9,7 +9,8 @@ license: none
 <ul class="article-list">
 {% for post in site.posts %}
   {% if post.category == page.category %}
-    <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span>
+
+<!--    <li><span class="cat-emoji" title="{{post.category}}">{{site.category_emoji[post.category]}}</span> -->
     <a href="{{ post.url }}">{{ post.title }}</a>
     {% if post.updated %}&mdash; Updated: <time>{{ post.updated | date: "%Y-%m-%d" }}</time>
     {% else %}&mdash; <time>{{ post.date | date: "%Y-%m-%d" }}</time>
