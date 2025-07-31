@@ -25,9 +25,9 @@ license: none
   {% assign past = now | minus: 2628000 %}
   {% if postdate > past %}
     (new)
-  {% elif post.updated %}
+  {% elsif post.updated %}
     {% capture postdate %}{{ post.updated | date: '%s'}}{% endcapture %}
-  {% assign postdate = postdate | minus: 2628000 %}
+    {% assign postdate = postdate | minus: 2628000 %}
     {% if postdate > past %}
       (updated)
     {% endif %}
