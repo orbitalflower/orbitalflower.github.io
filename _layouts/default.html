@@ -55,6 +55,9 @@ Posted
     <footer>
       <ul>
         <li>
+{% comment %}
+
+
 {% if page.layout != "index" %}
   {% case page.category %}
     {% when "comp" %}
@@ -72,7 +75,11 @@ Posted
     {% else %}
     <a href="{{ "/" | absolute_url }}">&#x2196; Back to main index</a>
   {% endcase %}
-{% endif%}
+{% endif %}
+
+
+{% endcomment %}
+
        </li>
         <li><a href="#">&#x219F; Back to page top</a></li>
         <li>
