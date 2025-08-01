@@ -14,12 +14,12 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       <nav>
         <ul>
-          <li><a href="{{ "/comp/" | absolute_url }}" title="Articles on computing">Computing</a></li>
-          <li><a href="{{ "/games/" | absolute_url }}" title="Articles on video games">Games</a></li>
-          <li><a href="{{ "/rpg/" | absolute_url }}" title="Articles on tabletop roleplaying games">RPGs</a></li>
-          <li><a href="{{ "/tv/" | absolute_url }}" title="Articles on television">TV</a></li>
-          <li><a href="{{ "/opinion/" | absolute_url }}" title="Opinion articles">Opinion</a></li>
-          <li><a href="{{ "/etc/" | absolute_url }}" title="Other pages">Etc</a></li>
+          <li><a href="{{ "/comp/" | absolute_url }}/" title="Articles on computing">Computing</a></li>
+          <li><a href="{{ "/games/" | absolute_url }}/" title="Articles on video games">Games</a></li>
+          <li><a href="{{ "/rpg/" | absolute_url }}/" title="Articles on tabletop roleplaying games">RPGs</a></li>
+          <li><a href="{{ "/tv/" | absolute_url }}/" title="Articles on television">TV</a></li>
+          <li><a href="{{ "/opinion/" | absolute_url }}/" title="Opinion articles">Opinion</a></li>
+          <li><a href="{{ "/etc/" | absolute_url }}/" title="Other pages">Etc</a></li>
         </ul>
       </nav>
     </header>
@@ -32,17 +32,17 @@
 Posted
 {% case page.category %}
   {% when "comp" %}
-  in <a href="{{ "comp/" | absolute_url }}">Computing</a>
+  in <a href="{{ "comp/" | absolute_url }}/">Computing</a>
   {% when "games" %}
-  in <a href="{{ "games/" | absolute_url }}">Games</a>
+  in <a href="{{ "games/" | absolute_url }}/">Games</a>
   {% when "rpg" %}
-  in <a href="{{ "rpg/" | absolute_url }}">RPG</a>
+  in <a href="{{ "rpg/" | absolute_url }}/">RPG</a>
   {% when "tv" %}
-  in <a href="{{ "tv/" | absolute_url }}">TV</a>
+  in <a href="{{ "tv/" | absolute_url }}/">TV</a>
   {% when "opinion" %}
-  in <a href="{{ "opinion/" | absolute_url }}">Opinion</a>
+  in <a href="{{ "opinion/" | absolute_url }}/">Opinion</a>
   {% when "etc" %}
-  in <a href="{{ "etc/" | absolute_url }}">Etc</a>
+  in <a href="{{ "etc/" | absolute_url }}/">Etc</a>
 {% endcase %}
 {% if page.date %} on <time>{{ page.date | date: "%Y-%m-%d" }}</time> {% endif %}
 {% if page.updated %} &mdash; last updated <time>{{ page.updated | date: "%Y-%m-%d" }}</time> {% endif %}
@@ -55,25 +55,6 @@ Posted
     <footer>
       <ul>
         <li>
-{% comment %}
-
-  {% case page.category %}
-    {% when "comp" %}
-    <a href="{{ "comp/" | absolute_url }}">&#x2196; More articles in Computing</a>
-    {% when "games" %}
-    <a href="{{ "games/" | absolute_url }}">&#x2196; More articles in Games</a>
-    {% when "rpg" %}
-    <a href="{{ "rpg/" | absolute_url }}">&#x2196; More articles in RPG</a>
-    {% when "tv" %}
-    <a href="{{ "tv/" | absolute_url }}">&#x2196; More articles in TV</a>
-    {% when "opinion" %}
-    <a href="{{ "opinion/" | absolute_url }}">&#x2196; More articles in Opinion</a>
-    {% when "etc" %}
-    <a href="{{ "etc/" | absolute_url }}">&#x2196; More articles in Etc</a>
-    {% else %}
-    <a href="{{ "/" | absolute_url }}">&#x2196; Back to main index</a>
-  {% endcase %}
-{% endif %}
 
        </li>
         <li><a href="#">&#x219F; Back to page top</a></li>
