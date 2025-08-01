@@ -56,7 +56,7 @@ Posted
       <ul>
         <li>
 
-{% if page.layout != "index" %}
+{% if page.layout == "default" %}
   {% case page.category %}
     {% when "comp" %}
     <a href="{{ "comp/" | absolute_url }}">&#x2196; More articles in Computing</a>
