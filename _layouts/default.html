@@ -57,8 +57,6 @@ Posted
         <li>
 {% comment %}
 
-
-{% if page.layout != "index" %}
   {% case page.category %}
     {% when "comp" %}
     <a href="{{ "comp/" | absolute_url }}">&#x2196; More articles in Computing</a>
@@ -76,9 +74,6 @@ Posted
     <a href="{{ "/" | absolute_url }}">&#x2196; Back to main index</a>
   {% endcase %}
 {% endif %}
-
-
-{% endcomment %}
 
        </li>
         <li><a href="#">&#x219F; Back to page top</a></li>
