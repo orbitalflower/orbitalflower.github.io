@@ -1,5 +1,5 @@
 ---
-title: Metal Gear deep lore
+title: Metal Gear theorycrafting
 category: games
 tags: mgs
 redirect_from:

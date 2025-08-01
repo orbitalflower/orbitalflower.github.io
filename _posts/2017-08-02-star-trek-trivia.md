@@ -1,7 +1,7 @@
 ---
 title: Star Trek trivia
 category: tv
-tags: startrek
+tags: startrek hot
 redirect_from:
 - /tv/startrek/star-trek-trivia.html
 description: "Weird facts from Star Trek's extended universe."

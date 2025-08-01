@@ -2,7 +2,7 @@
 /* We don't have flying cars, but we have dark themes. */
 body {
   background: #1b1b2f;
-  color: lightsteelblue;
+  color: #c0d4fe;
 
   font-family: sans-serif;
   font-size: 1em;
@@ -106,6 +106,7 @@ nav ul li a:before {
   }
 }
 
+/* Main text area */
 main {
   padding: 0 2em;
 }
@@ -131,6 +132,10 @@ main h4, main h5, main h6 {
   font-weight: bold;
   font-size: 1em;
   font-style: italic;
+}
+
+main li::marker {
+  color: white;
 }
 
 p, ul, ol, dl, th, td {
@@ -181,6 +186,10 @@ p.meta a {
 
 #markdown-toc.thin {}
 #markdown-toc.wide {}
+
+strong, b {
+  color: white;
+}
 
 main code {
   font-size: 16px;

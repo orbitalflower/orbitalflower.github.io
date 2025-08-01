@@ -8,9 +8,45 @@ license: none
 
 <table class="index">
 {% for post in site.posts  %}
-  {% if post.category == page.category %}
 <tr>
   <td class="index-link"><a href="{{post.url}}">{{post.title}}</a>
+</td>
+  <td class="index-date">
+  {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.updated | date: "%Y-%m-%d" }}&ast;</time>
+  {% else %}<time title="Posted {{ post.date | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+  {% endif %}
+</td>
+</tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<table class="index">
+{% for post in site.posts  %}
+  {% if post.category == page.category %}
+<tr>
+  <td class="index-cat"><a href="{{ post.category | absolute_url }}/">{{post.category}}/</a></td>
+  <td class="index-link"><a href="{{post.url}}">{{post.title}}</a>
+  {% for tag in post.tags %}
+    {% if tag=="hot" %}
+      <img src="{{ "img/hot.gif" | absolute_url }}" alt="Hot!">
+    {% endif %}
+  {% endfor %}
+
+  {% capture postdate %}{{ post.date | date: '%s'}}{% endcapture %}
+  {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% assign postdate = postdate | plus: 0 %}
+  {% assign past = now | minus: 2628000 %}
+  {% if postdate > past %}
+    <img src="{{ "img/new.gif" | absolute_url }}" alt="New!">
+  {% elsif post.updated %}
+    {% capture postdate %}{{ post.updated | date: '%s'}}{% endcapture %}
+    {% assign postdate = postdate | plus: 0 %}
+    {% if postdate > past %}
+      <img src="{{ "img/updated.gif" | absolute_url }}" alt="Updated">
+    {% endif %}
+  {% endif %}
+
 </td>
   <td class="index-date">
   {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.updated | date: "%Y-%m-%d" }}&ast;</time>

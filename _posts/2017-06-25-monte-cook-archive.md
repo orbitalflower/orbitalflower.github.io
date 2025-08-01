@@ -1,7 +1,7 @@
 ---
 title: MonteCook.com archive
 category: rpg
-tags: resources
+tags: resources hot
 redirect_from:
 - /rpg/resources/monte-cook-archive.html
 description: "An index of articles from Monte Cook's excellent D&D 3e-era website, now only extant in the Web Archive."

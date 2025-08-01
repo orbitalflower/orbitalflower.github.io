@@ -1,7 +1,7 @@
 ---
 title: "Cookies are small text files?"
 category: comp
-tags: web, cookies
+tags: web cookies
 description: "Cookies are small text files"
 license: CC BY
 published: true
@@ -28,7 +28,7 @@ short, because it more or less _used_ to be true about twenty years ago.
 Last year I debunked the
 [Twitter mute-list superstition](../comp/twitter-filter-that-never-was.html),
 where people shared lists of keywords that you could supposedly mute to block
-ads and likes from their timeline. Now I'm debunking an evne more popular claim:
+ads and likes from their timeline. Now I'm debunking an even more popular claim:
 "Cookies are small text files".
 
 To begin with, even if cookies were small text files, it would still be a
