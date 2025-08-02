@@ -25,10 +25,10 @@ After the TSR buyout in 1997 but before the launch of D&D 3e in 2000, Wizards of
 the Coast published several late-era AD&D 2e books under the TSR brand. Some of
 these would go on to inspire D&D 3e content and even share the same writers.
 
-One such book was [College of Wizardry](/rpg/books/college-of-wizardry.html)
+One such book was College of Wizardry
 (1998), a wizard class book describing a guild called the Arcane Order,
 headquartered in Mathghamhna[^2], a castle carved from an extinct volcano.
-_College of Wizardry_ author [Bruce Cordell](/rpg/people/bruce-cordell.html) was
+_College of Wizardry_ author Bruce Cordell was
 also a designer on _Tome and Blood_.
 
 ## Splatbooks
@@ -56,7 +56,7 @@ single guild. This trend would continue in D&D 3e with _Complete Arcane_ (2004)
 having almost no fluff at all.
 
 The dungeon master or player of today can still mine old D&D editions for
-[lore](/rpg/lore.html), that is to say canon D&D inspiration as it appears
+lore, that is to say canon D&D inspiration as it appears
 either in its descriptions of the world, or as ideas about the world implied by
 the existence of game material.
 
@@ -73,7 +73,7 @@ study of an ancient magical grammar called the Aleph, or Language Arcane, from
 which the guild developed D&D 3e's metamagic. Members can "borrow" prepared
 spells from each other via the guild's Spellpool.
 
-[College of Wizardry](/rpg/books/college-of-wizardry.html) gives vastly greater
+College of Wizardry gives vastly greater
 detail on the guild. Most notably, the guild's full name is The Arcane Order of
 Enchantment & Exposition. Its founder, Japheth Arcane, named the guild after
 himself. He originally gave himself the name Arcane as an apprentice when he
@@ -393,8 +393,8 @@ A mage who twists fate. He mainly affects his own spell DCs by deliberately
 taking a penalty in order to build up points which he can spend to increase DCs
 or power his class abilities later.
 
-Tactically interesting (and similar in function to [Iron
-Heroes](/rpg/books/iron-heroes.html)' token system), but not very interesting to
+Tactically interesting (and similar in function to Iron
+Heroes' token system), but not very interesting to
 encounter as an enemy in combat. The Complete Arcane version of this switches it
 from 6/10 spellcasting to a five level class with spellcasting progression on
 the first 4/5, very easy to take and broadly useful.

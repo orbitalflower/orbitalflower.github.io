@@ -1,5 +1,5 @@
 ---
-title: Data's password
+title: "Data's password"
 category: tv
 tags: startrek
 redirect_from:
@@ -45,11 +45,12 @@ digits would fail. If an attacker does not know about the missing fives and
 zeroes and assumes letters are considered equally likely as digits, the number
 of possibilities they must test is about 2<sup>267.84</sup> - described by
 cryptographer Bruce Schneier as "infeasible until computers are built from
-something other than matter and occupy something other than space". [^2]
+something other than matter and occupy something other than space".[^2]
 
 The Enterprise's main computer is probably comparable in power to that of the
 USS Voyager, which is cited as capable of 575 trillion calculations per
-nanosecond[^1]. Even assuming one calculation equals one cracked password, such a computer could at best crack 2<sup>103.84</sup> passwords per year, taking a
+nanosecond.[^1] Even assuming one calculation equals one cracked password, such
+a computer could at best crack 2<sup>103.84</sup> passwords per year, taking a
 trillion such starships to break 2<sup>143.70</sup>.
 
 __Conclusion: Data's 52-digit code is secure.__

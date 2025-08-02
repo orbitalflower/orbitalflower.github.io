@@ -79,7 +79,6 @@ logic.
 escape danger. Naturally, it's forbidden, because this would make for a
 boring show. The Federation's ban on cloaked ships is lampshaded as a
 term of their treaty with the Romulans, so it has a reasonable explanation.
-
 * Data's superhuman strength and intellect would be extremely useful, if only
 they could replicate the technology. But this has the same problem as genetic
 engineering: you end up telling stories about a ship full of non-humans.
@@ -87,13 +86,11 @@ They successfully prevent this by proving the technology impossible to
 replicate: Data's own attempt to create an android eventually fails, and
 Picard refuses to let Starfleet reverse-engineer Data by arguing that it
 interferes with Data's rights as a living being.
-
 * They can teleport people down to the planet's surface, but can't beam them
 back out when they're in trouble because "there's too much interference".
 Obviously, the writers can't let the super technology solve their problems
 instantly, but Voyager used this excuse so often that they ended up
 inventing a new transporter trick so they could stop doing it.
-
 * Time travel sure would solve a lot of problems, which is exactly why
 the Federation can't have it. The main reason they don't is that it hasn't
 been invented yet, and the few times they encounter time travel technology

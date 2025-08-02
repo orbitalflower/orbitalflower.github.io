@@ -1,10 +1,11 @@
 ---
 title: "How to disable history on Python 3"
 category: comp
-tags: python
+tags: python privacy
 redirect_from:
 - /comp/python/python3-disable-history.html
 description: "How to disable the Python 3 interpreter logging to .python_history on Linux."
+updated: 2025-08-01
 ---
 
 Since Python 2 was deprecated at the beginning of 2020, you may have noticed
@@ -54,3 +55,8 @@ Delete the .python_history file in your homedir.
 
 Load up `python3`, enter some commands, exit, and check if the `.python_history`
 file exists. If it does not, you have been successful.
+
+## Update (2025)
+
+With Python 3.13, it appears that this method no longer works. However,
+`chmod 000 .python_history` does appear to work now.
