@@ -4,6 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
+updated: 2025-08-16
 ---
 
 In July 2025, the
@@ -337,3 +338,11 @@ account.
 - [No, the UK’s Online Safety Act Doesn’t Make Children Safer Online](https://www.eff.org/deeplinks/2025/08/no-uks-online-safety-act-doesnt-make-children-safer-online) - EFF
 - [We Support Wikimedia Foundation’s Challenge to UK’s Online Safety Act](https://www.eff.org/deeplinks/2025/07/we-support-wikimedia-foundations-challenge-uks-online-safety-act) - EFF
 - [Online Safety Act](https://en.wikipedia.org/wiki/Online_Safety_Act_2023) - Wikipedia, the (formerly) free encyclopedia
+
+## Updates
+
+On 13 August 2025,
+[a Times article](https://www.thetimes.com/comment/columnists/article/online-safety-act-botched-2xk8xwlps)
+reported that British government officials admitted that the primary purpose of
+the Online Safety Act was not to protect children, but to regulate "services
+that have a significant influence over public discourse."
