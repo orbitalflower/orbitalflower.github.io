@@ -4,7 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
-updated: 2025-08-16
+updated: 2025-08-26
 ---
 
 In July 2025, the
@@ -338,6 +338,7 @@ account.
 - [No, the UK’s Online Safety Act Doesn’t Make Children Safer Online](https://www.eff.org/deeplinks/2025/08/no-uks-online-safety-act-doesnt-make-children-safer-online) - EFF
 - [We Support Wikimedia Foundation’s Challenge to UK’s Online Safety Act](https://www.eff.org/deeplinks/2025/07/we-support-wikimedia-foundations-challenge-uks-online-safety-act) - EFF
 - [Online Safety Act](https://en.wikipedia.org/wiki/Online_Safety_Act_2023) - Wikipedia, the (formerly) free encyclopedia
+- [Online Safety Act](https://search.theregister.com/?q=online+safety+act&site=) - The Register (search)
 
 ## Updates
 
@@ -346,3 +347,12 @@ On 13 August 2025,
 reported that British government officials admitted that the primary purpose of
 the Online Safety Act was not to protect children, but to regulate "services
 that have a significant influence over public discourse."
+
+On 21 August 2025, the
+[BBC reported](https://www.bbc.com/news/articles/cq68j5g2nr1o)
+that Ofcom has attempted to fine 4chan £20,000 plus additional daily penalties
+for non-compliance, despite the fact that 4chan is based in the United States
+and is not subject to British law. 4chan already blocked UK users, so this just
+serves as an example of the inanity of the legislation, the unreasonableness of
+compliance demands, and the willingness of the UK government to cause serious
+trouble internationally.
