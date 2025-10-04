@@ -339,20 +339,43 @@ account.
 - [We Support Wikimedia Foundation’s Challenge to UK’s Online Safety Act](https://www.eff.org/deeplinks/2025/07/we-support-wikimedia-foundations-challenge-uks-online-safety-act) - EFF
 - [Online Safety Act](https://en.wikipedia.org/wiki/Online_Safety_Act_2023) - Wikipedia, the (formerly) free encyclopedia
 - [Online Safety Act](https://search.theregister.com/?q=online+safety+act&site=) - The Register (search)
+- [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification) - Pornbiz.com
+- [The UK Online Safety Act is about censorship, not safety](https://www.theregister.com/2025/08/21/the_uk_online_safety_act/) - The Register
+- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) - The Verge
 
 ## Updates
 
-On 13 August 2025,
-[a Times article](https://www.thetimes.com/comment/columnists/article/online-safety-act-botched-2xk8xwlps)
-reported that British government officials admitted that the primary purpose of
+- 13 August 2025: [A Times article](https://www.thetimes.com/comment/columnists/article/online-safety-act-botched-2xk8xwlps)
+reports that British government officials admitted that the primary purpose of
 the Online Safety Act was not to protect children, but to regulate "services
 that have a significant influence over public discourse."
-
-On 21 August 2025, the
-[BBC reported](https://www.bbc.com/news/articles/cq68j5g2nr1o)
+- 21 August 2025: The
+[BBC reports](https://www.bbc.com/news/articles/cq68j5g2nr1o)
 that Ofcom has attempted to fine 4chan £20,000 plus additional daily penalties
 for non-compliance, despite the fact that 4chan is based in the United States
 and is not subject to British law. 4chan already blocked UK users, so this just
 serves as an example of the inanity of the legislation, the unreasonableness of
 compliance demands, and the willingness of the UK government to cause serious
 trouble internationally.
+- 1 October 2025: [Per The Register](https://www.theregister.com/2025/10/01/imgur_exits_uk/),
+Imgur has blocked the UK after its parent company was threatened with fines.
+Many forums and other sites host user images there, which are now broken for UK
+users.
+- 15 September 2025: Per [El Reg](https://www.theregister.com/2025/09/15/uk_lords_take_aim_at/)
+again, UK regulator OFCOM is proposing additional burdens on users and content
+providers. For example, all livestreamers will be required to verify their age,
+or else the site must disable comments, donations, and clipping. YouTube's
+presumably AI-based automated age detection tools already produce false
+positives.
+- 28 September 2025: The UK proposes
+[mandatory digital ID](https://www.theregister.com/2025/09/26/uk_digital_id_confirmed/).
+It's marketed as a solution to illegal immigration (certainly to appease Reform
+voters), but the UK already has the National Insurance number system for this
+exact purpose; illegal immigrants already work off-the-books for cash, and would
+continue to do so. It would be easy for OFCOM to make this digital ID a
+mandatory component for age verification, which would tie every online account
+to a government ID number, making it easier for the government to control speech
+online.
+- 3 October 2025: [The Verge reports](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+that one of Discord's age verification providers was hacked and customer IDs
+leaked, which is exactly what everyone said would happen.
