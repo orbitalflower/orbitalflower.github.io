@@ -37,7 +37,7 @@ license: none
 
 </td>
   <td class="index-date">
-  {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.updated | date: "%Y-%m-%d" }}&ast;</time>
+  {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}&ast;</time>
   {% else %}<time title="Posted {{ post.date | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
   {% endif %}
 </td>
