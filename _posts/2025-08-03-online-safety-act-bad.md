@@ -342,6 +342,7 @@ account.
 - [The Scam of Age Verification](https://pornbiz.com/post/17/the_scam_of_age_verification) - Pornbiz.com
 - [The UK Online Safety Act is about censorship, not safety](https://www.theregister.com/2025/08/21/the_uk_online_safety_act/) - The Register
 - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) - The Verge
+- [Age Verification and Age Gating: Resource Hub](https://www.eff.org/issues/age-verification) - EFF
 
 ## Updates
 
@@ -357,12 +358,8 @@ and is not subject to British law. 4chan already blocked UK users, so this just
 serves as an example of the inanity of the legislation, the unreasonableness of
 compliance demands, and the willingness of the UK government to cause serious
 trouble internationally.
-- 1 October 2025: [Per The Register](https://www.theregister.com/2025/10/01/imgur_exits_uk/),
-Imgur has blocked the UK after its parent company was threatened with fines.
-Many forums and other sites host user images there, which are now broken for UK
-users.
-- 15 September 2025: Per [El Reg](https://www.theregister.com/2025/09/15/uk_lords_take_aim_at/)
-again, UK regulator OFCOM is proposing additional burdens on users and content
+- 15 September 2025: Per [El Reg](https://www.theregister.com/2025/09/15/uk_lords_take_aim_at/) again, reports that 
+UK regulator OFCOM is proposing additional burdens on users and content
 providers. For example, all livestreamers will be required to verify their age,
 or else the site must disable comments, donations, and clipping. YouTube's
 presumably AI-based automated age detection tools already produce false
@@ -376,6 +373,21 @@ continue to do so. It would be easy for OFCOM to make this digital ID a
 mandatory component for age verification, which would tie every online account
 to a government ID number, making it easier for the government to control speech
 online.
+- 1 October 2025: [Per The Register](https://www.theregister.com/2025/10/01/imgur_exits_uk/),
+Imgur has blocked the UK after its parent company was threatened with fines.
+Many forums and other sites host user images there, which are now broken for UK
+users.
 - 3 October 2025: [The Verge reports](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 that one of Discord's age verification providers was hacked and customer IDs
 leaked, which is exactly what everyone said would happen.
+- 10 December 2025: [Australia bans minors from social media](https://www.theregister.com/2025/12/09/australian_social_media_ban/),
+therefore forcing all adults to provide ID to use social media. The ban turns
+out to have been lobbied by a
+[gambling advertising company](https://bsky.app/profile/evangreer.bsky.social/post/3m7sz5kkaac2y)
+as an alternative to government plans to ban gambling advertising.
+- 16 December 2025: [Pornhub hacked](https://www.theregister.com/2025/12/16/trio_of_breaches/),
+which is exactly what everyone said would happen.
+- 16 December 2025: A [legal challenge is heard](https://www.kxan.com/news/texas-politics/challenge-to-the-texas-app-store-accountability-act-heard-in-federal-court/)
+over a Texas law called the App Store Accountability Act, which will force all
+users to provide ID before using an app store. It comes into force at the
+beginning of 2026.
