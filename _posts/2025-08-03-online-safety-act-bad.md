@@ -4,7 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
-updated: 2025-08-26
+updated: 2025-12-20
 ---
 
 In July 2025, the
@@ -391,3 +391,6 @@ which is exactly what everyone said would happen.
 over a Texas law called the App Store Accountability Act, which will force all
 users to provide ID before using an app store. It comes into force at the
 beginning of 2026.
+- 18 December 2025: A proposed amendment in the UK would
+[ban under-16s from all communications services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/),
+following another proposal to [ban under-18s from VPNs](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-compel-vpn-services-providers-to-prevent-anyone-under-18-in-the-uk-from-using-their-vpns/).
