@@ -196,6 +196,7 @@ main code {
   background: black;
   padding: 0 0.4em;
   color: #0c0;
+  overflow-y: auto;
 }
 
 main pre {
