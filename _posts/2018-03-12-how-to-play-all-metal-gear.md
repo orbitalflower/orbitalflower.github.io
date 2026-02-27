@@ -4,7 +4,7 @@ category: games
 tags: mgs
 redirect_from:
 - /games/mgs/how-to-play-all-metal-gear.html
-updated: 2023-10-18
+updated: 2026-02-27
 description: "Which platforms you need to play the entire Metal Gear series."
 ---
 
@@ -35,13 +35,21 @@ MGS series to modern platforms:
   X/S. It contains _MGS1_, _MGS2_, and _MGS3_, which you should play in order,
   and the original 2D 8-bit _MG1_ and _MG2_, which you may optionally play.
 - The upcoming _Metal Gear Solid Master Collection Vol. 2_ is believed to
-  include the rest of the main-line _Metal Gear Solid _series: _MGS4_,
-  _Peace Walker_, _MGS5: Ground Zeroes_, and _MGSV: The Phantom Pain_,
+  include the rest of the main-line _Metal Gear Solid_ series: _MGS4_,
+  _Peace Walker_, <s>_MGS5: Ground Zeroes_, and _MGSV: The Phantom Pain_,</s>
   presumably for the same platforms.
 - Additionally, a remake of _MGS3_, known as _Metal Gear Solid Delta: Snake
   Eater_, is in development for PlayStation 5, Windows PC, and Xbox Series X/S.
 - The game-specific advice below for first-time players and streamers will
   mostly remain relevant.
+
+**UPDATE (February 2026)**: With the announcement of the _Metal Gear Solid
+Master Collection Vol. 2_, scheduled for release in August 2026, _MGS4_ and
+_Peace Walker_ (and _Ghost Babel_ for some reason) will come to all modern
+platforms. At that point, the optimal way to play the main-line _Metal Gear
+Solid_ series will simply be to purchase both volumes of the _Master
+Collection_, followed by _Ground Zeroes_ and _Phantom Pain_, on the current
+platform of your preference. I can gladly say that this guide is now obsolete.
 
 ## The main series
 
