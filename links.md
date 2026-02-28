@@ -17,6 +17,7 @@ hundred webpages which I have found interesting or useful over the years, sorted
 by category.
 
 <nav>
+
 - [Old internet](#old-internet)
 - [Commodore Amiga](#commodore-amiga)
 - [Tabletop roleplaying games](#tabletop-roleplaying-games)
@@ -34,6 +35,7 @@ by category.
 - [Anime](#anime)
 - [Sci-fi](#sci-fi)
 - [Unsorted](#unsorted)
+
 </nav>
 <!--1. Table of Contents
 {:toc}-->
