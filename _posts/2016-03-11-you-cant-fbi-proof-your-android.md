@@ -13,8 +13,7 @@ Android](https://the-parallax.com/2016/03/11/fbi-proof-android/) actually fails
 to describe how to FBI-proof your Android.
 
 The article describes a six-character alphanumeric passcode as "hard-to-crack"
-security. This [would be true on new
-iPhones](https://orbitalflower.github.io/2016-02-20-how-strong-is-your-iphone-pin.md)
+security. This [would be true on new iPhones](../opinion/how-strong-is-your-iphone-pin.html)
 where the hardware imposes a rate limit of around 80ms per attempt or 12.5
 passwords per second.
 

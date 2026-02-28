@@ -282,4 +282,4 @@ on the device you're editing from, things like category pages and such are kind
 of awkward to implement, and you don't have certain server-side features like
 comments.
 
-See [The pros and cons of blogging with Jekyll](https://orbitalflower.github.io/comp/web/blogging-with-jekyll.html).
+See [The pros and cons of blogging with Jekyll](../comp/blogging-with-jekyll.html).

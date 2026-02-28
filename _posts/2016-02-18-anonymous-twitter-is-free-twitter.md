@@ -22,8 +22,7 @@ a system for which he suffers none of the drawbacks.
 To impose this system on all of Twitter would be highly problematic.
 
 Facebook's real name policy hasn't been effective at stopping misuse; in fact,
-it's [made it
-worse](https://orbitalflower.github.io/2015-12-15-facebook-keeps-real-name-policy.md).
+it's [made it worse](../opinion/facebook-keeps-real-name-policy.html).
 It continues to ban users who go by their authentic name where it differs from
 their legal name, despite claiming to accept authentic names. And while users
 with unusual names are barred, a fake common name easily passes.
