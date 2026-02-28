@@ -16,7 +16,7 @@ pages to make a comeback. What follows is a carefully selected list of several
 hundred webpages which I have found interesting or useful over the years, sorted
 by category.
 
-[Old internet](#old-internet) · [Commodore Amiga](#commodore-amiga) · [Tabletop roleplaying games](#tabletop-roleplaying-games) · [Educational](#educational) · [Game development](#game-development) · [Games](#games) · [History](#history) · [Programming](#programming) · [Security](#security) · [Tools](#tools) · [Funny](#funny) · [Music](#music) · [Web development](#web-development) · [Writing](#writing) · [Anime](#anime) · [Sci-fi](#sci-fi) · [Unsorted](#unsorted)
+[Old internet](#old-internet) · [Commodore Amiga](#commodore-amiga) · [Tabletop roleplaying games](#tabletop-roleplaying-games) · [Educational](#educational) · [Game development](#game-development) · [Games](#games-1) · [History](#history) · [Programming](#programming) · [Security](#security) · [Tools](#tools-1) · [Funny](#funny) · [Music](#music) · [Web development](#web-development) · [Writing](#writing) · [Anime](#anime) · [Sci-fi](#sci-fi) · [Unsorted](#unsorted)
 
 <!--1. Table of Contents
 {:toc}-->
