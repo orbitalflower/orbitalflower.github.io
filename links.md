@@ -16,8 +16,27 @@ pages to make a comeback. What follows is a carefully selected list of several
 hundred webpages which I have found interesting or useful over the years, sorted
 by category.
 
-1. Table of Contents
-{:toc}
+<nav>
+- [Old internet](#old-internet)
+- [Commodore Amiga](#commodore-amiga)
+- [Tabletop roleplaying games](#tabletop-roleplaying-games)
+- [Educational](#educational)
+- [Game development](#game-development)
+- [Games](#games)
+- [History](#history)
+- [Programming](#programming)
+- [Security](#security)
+- [Tools](#tools)
+- [Funny](#funny)
+- [Music](#music)
+- [Web development](#web-development)
+- [Writing](#writing)
+- [Anime](#anime)
+- [Sci-fi](#sci-fi)
+- [Unsorted](#unsorted)
+</nav>
+<!--1. Table of Contents
+{:toc}-->
 
 ## Old internet
 
@@ -288,7 +307,7 @@ The original D&D campaign setting, and the official setting of D&D third edition
 ## Educational
 
 - [CopyKat Recipes](https://copykat.com/)<br>Recipes to clone popular chain restaurant offerings.
-- [ExRx.net | exercise](https://exrx.net/)<br>
+- [ExRx.net \| exercise](https://exrx.net/)<br>
 - [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)<br>
 - [Koch method to learn Morse Code](https://stendec.io/morse/koch.html)<br>
 - [Learn Anything](https://learn-anything.xyz/)<br>Learn various skills.
@@ -466,10 +485,10 @@ See also [tabletop roleplaying games](#tabletop-roleplaying-games).
 
 ### Lets plays, guides, and fan videos
 
-- [&lbrack;HQ&rbrack; Test in Touhou (1/4)](https://www.youtube.com/watch?v=eYOu7reD6eQ)<br>Four-part surreal Touhou animation series.
-- [&lbrack;HQ&rbrack; Sound Test in Touhou (2/4)](https://www.youtube.com/watch?v=eYklrgySAd0)<br>
-- [&lbrack;HQ&rbrack; Color Test in Touhou (3/4)](https://www.youtube.com/watch?v=hU1wdTUkdGQ)<br>
-- [&lbrack;HQ&rbrack; Final Test in Touhou (4/4)](https://www.youtube.com/watch?v=pqgwQQfHe1Q)<br>
+- [\[HQ\] Test in Touhou (1/4)](https://www.youtube.com/watch?v=eYOu7reD6eQ)<br>Four-part surreal Touhou animation series.
+- [\[HQ\] Sound Test in Touhou (2/4)](https://www.youtube.com/watch?v=eYklrgySAd0)<br>
+- [\[HQ\] Color Test in Touhou (3/4)](https://www.youtube.com/watch?v=hU1wdTUkdGQ)<br>
+- [\[HQ\] Final Test in Touhou (4/4)](https://www.youtube.com/watch?v=pqgwQQfHe1Q)<br>
 - [dick kickem](https://www.youtube.com/watch?v=gnVag2Nwaug)<br>Short _Duke Nukem_ video.
 - [Eggman radioactive meme](https://www.youtube.com/watch?v=2Oq7x-EVC9E)<br>_Sonic the Hedgehog_ meme video (contains rude words).
 - [Final Fantasy V (SNES) (English) Complete Walkthrough - Part 1/2](https://www.youtube.com/watch?v=0mw_MUhIdL4)<br>
@@ -500,7 +519,7 @@ See also [tabletop roleplaying games](#tabletop-roleplaying-games).
 - [The Video Game Library](https://www.thevideogamelibrary.org/)<br>A repository of video game publications.
 - [Video Game History Foundation Library](https://library.gamehistory.org/)<br>A repository of video game publications.
 
-## History 
+## History
 ### Fascism
 
 - [Army Talk Orientation Fact Sheet #64 - Fascism!](https://archive.org/details/ArmyTalkOrientationFactSheet64-Fascism/)<br>1945 US Army publication warning of the dangers of fascism.
@@ -772,7 +791,7 @@ See also [tabletop roleplaying games](#tabletop-roleplaying-games).
 - [Dick is a Killer](https://www.youtube.com/watch?v=YfzlneKWRBo)<br>Bush-era music video about Vice President Dick Cheney, presented here for historical context.
 - [Ollie and Merry cant stop laughing everytime Kobo talk with her &quot;underwater&quot; voice...](https://www.youtube.com/watch?v=CDbzh9cC89s)<br>
 - [Pretending.avi](https://www.youtube.com/watch?v=dmiMXBxLhY8)<br>(Rude words)
-- [Smile song - Tombstone Mix &lbrack;Typography Animation/PMV&rbrack;](https://www.youtube.com/watch?v=QjBMTWzZjo4)<br>
+- [Smile song - Tombstone Mix \[Typography Animation/PMV\]](https://www.youtube.com/watch?v=QjBMTWzZjo4)<br>
 - [Steamed Hams but it&#39;s a Critically Acclaimed Feature Film](https://www.youtube.com/watch?v=pk-Oq8iYtVA)<br>
 - [Traveller Fight Swipe - Irish Bareknuckle Fight Call Out Swipe](https://www.youtube.com/watch?v=9nNzv5dKAwM&list=PLW2llOLZiA1FU1wATjqW8IUlRwYjlOnIR)<br>
 
@@ -786,7 +805,7 @@ See also [tabletop roleplaying games](#tabletop-roleplaying-games).
 - [XScreenSaver Privacy Policy](https://www.jwz.org/xscreensaver/google.html)<br>What the creator of XScreenSaver wrote when Google demanded he add a Privacy Policy to the Android version of his screensaver app.
 - [Jonik Editorial Cartoons](https://jonikcartoons.blogspot.com/2011/09/general-cartoons.html)<br>
 
-## Music 
+## Music
 ### Music software
 
 - [Bintracker](https://bintracker.org/)<br>A Chiptune Audio Workstation for the 21st Century.
@@ -868,7 +887,7 @@ See also [programming](#programming).
 - [PublicAPIs](https://www.publicapis.com/)<br>
 - [Scrapism](https://scrapism.lav.io/)<br>A guide to web scraping.
 - [Shopify Cheat Sheet — Liquid](https://www.shopify.com/partners/shopify-cheat-sheet)<br>
-- [Syntax | kramdown](https://kramdown.gettalong.org/syntax.html)<br>Markdown syntax guide.
+- [Syntax \| kramdown](https://kramdown.gettalong.org/syntax.html)<br>Markdown syntax guide.
 - [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?gi=99b2dacce23)<br>
 - [tlds-alpha-by-domain.txt](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)<br>Official plaintext list of all top level domains.
 
