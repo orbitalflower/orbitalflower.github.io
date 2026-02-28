@@ -17,25 +17,25 @@ hundred webpages which I have found interesting or useful over the years, sorted
 by category.
 
 <nav>
-
-- [Old internet](#old-internet)
-- [Commodore Amiga](#commodore-amiga)
-- [Tabletop roleplaying games](#tabletop-roleplaying-games)
-- [Educational](#educational)
-- [Game development](#game-development)
-- [Games](#games)
-- [History](#history)
-- [Programming](#programming)
-- [Security](#security)
-- [Tools](#tools)
-- [Funny](#funny)
-- [Music](#music)
-- [Web development](#web-development)
-- [Writing](#writing)
-- [Anime](#anime)
-- [Sci-fi](#sci-fi)
-- [Unsorted](#unsorted)
-
+  <ul>
+    <li><a href="#old-internet">Old internet</a></li>
+    <li><a href="#commodore-amiga">Commodore Amiga</a></li>
+    <li><a href="#tabletop-roleplaying-games">Tabletop roleplaying games</a></li>
+    <li><a href="#educational">Educational</a></li>
+    <li><a href="#game-development">Game development</a></li>
+    <li><a href="#games">Games</a></li>
+    <li><a href="#history">History</a></li>
+    <li><a href="#programming">Programming</a></li>
+    <li><a href="#security">Security</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li><a href="#funny">Funny</a></li>
+    <li><a href="#music">Music</a></li>
+    <li><a href="#web-development">Web development</a></li>
+    <li><a href="#writing">Writing</a></li>
+    <li><a href="#anime">Anime</a></li>
+    <li><a href="#sci-fi">Sci-fi</a></li>
+    <li><a href="#unsorted">Unsorted</a></li>
+  </ul>
 </nav>
 <!--1. Table of Contents
 {:toc}-->
