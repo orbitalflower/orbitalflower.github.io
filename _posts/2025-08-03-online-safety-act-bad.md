@@ -343,6 +343,7 @@ account.
 - [The UK Online Safety Act is about censorship, not safety](https://www.theregister.com/2025/08/21/the_uk_online_safety_act/) - The Register
 - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) - The Verge
 - [Age Verification and Age Gating: Resource Hub](https://www.eff.org/issues/age-verification) - EFF
+- [The web should remain anonymous by default](https://blog.mozilla.org/en/privacy-security/web-anonymity/) - Mozilla Blog
 
 ## Updates
 
@@ -394,3 +395,24 @@ beginning of 2026.
 - 18 December 2025: A proposed amendment in the UK would
 [ban under-16s from all communications services](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-ban-under-16s-in-the-uk-from-common-messaging-services-sharing-family-photos-using-wikipedia-and-doing-much-else-online-by-imposing-age-assurance-on-everyone/),
 following another proposal to [ban under-18s from VPNs](https://decoded.legal/blog/2025/12/a-proposed-legislative-amendment-to-attempt-to-compel-vpn-services-providers-to-prevent-anyone-under-18-in-the-uk-from-using-their-vpns/).
+- 10 March 2026: Spain [fines a company €950,000](https://ppc.land/spain-fines-yoti-eu950-000-over-biometric-data-and-consent-failures/)
+  for privacy violations, including retaining photographs despite claiming that
+  the photo is deleted after age estimation.
+- 10 March 2026: VPN provided Mullvad posts a
+  [Mastodon thread](https://mastodon.online/@mullvadnet/116206184902355562)
+  summarizing the corruption involved in Chat Control lobbying: the organization
+  which proposed it also produces the software which would implement it, and
+  founded the rights groups which campaign for it.
+- 12 March 2026: [1 billion identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html).
+- 15 March 2026: Facebook is spending as much as $2 billion bribing US state
+  governments to pass laws requiring age verification (inherently _identity_
+  verification) on app stores and all operating systems. In short, you will need
+  to submit photo ID to a third-party verification to use your own PC, and every
+  OS must be re-written to allow all apps to read the age of the current user.
+  It was naive to assume this was ever just about porn.
+  A proof-of-concept Debian-based distro called [Ageless Linux](https://agelesslinux.org/)
+  is daring the California government to sue for non-compliance. Sources:
+  [Reddit](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/),
+  [GitHub](https://github.com/upper-up/meta-lobbying-and-other-findings),
+  [X](https://x.com/vxunderground/status/2032562782248349793),
+  [X](https://x.com/Pirat_Nation/status/2032872323879973241).
