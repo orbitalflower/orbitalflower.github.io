@@ -16,6 +16,8 @@ pages to make a comeback. What follows is a carefully selected list of several
 hundred webpages which I have found interesting or useful over the years, sorted
 by category.
 
+## Categories
+
 [Old internet](#old-internet) · [Commodore Amiga](#commodore-amiga) · [Tabletop roleplaying games](#tabletop-roleplaying-games) · [Educational](#educational) · [Game development](#game-development) · [Games](#games-1) · [History](#history) · [Programming](#programming) · [Security](#security) · [Tools](#tools-1) · [Funny](#funny) · [Music](#music) · [Web development](#web-development) · [Writing](#writing) · [Anime](#anime) · [Sci-fi](#sci-fi) · [Unsorted](#unsorted)
 
 <!--1. Table of Contents
@@ -145,30 +147,35 @@ Chiptunes and such.
 
 ### Resources
 
-- [Amiga magazine Rack](https://amr.abime.net/)<br>Amiga magazine database.
+- [Amiga Magazine Rack](https://amr.abime.net/)<br>Amiga magazine database.
 - [Amiga PD-disk index](https://www.amiga-stuff.com/pd/)<br>Indexes of the contents of various public domain disk series, such as Assassins Games and Fred Fish. Does not offer downloads.
 - [Amiga TOSEC checker](https://amigaclub.be/tosec/)<br>Tool to check disks for inclusion in the TOSEC database, which attempts to index all known Amiga disk releases.
 - [Fish disks 1 - 1120](https://www.amiga-stuff.com/pd/fish.html)<br>Index of the Fred Fish collection.
 - [Hall of Light](https://amiga.abime.net/)<br>Amiga game database.
 - [Turran FTP](https://grandis.nu/turran/)<br>Amiga file download site.
 
-### Other
+### Other Amiga programming
 
 - [Amiga Autodocs - d0](https://d0.se/autodocs)<br>Amiga library reference database.
 - [Amiga C Tutorial](https://web.archive.org/web/20230912114114/http://www.pjhutchison.org/tutorial/amiga_c.html)<br>Amiga C tutorial. (Archive)
-- [Amiga Forever](https://www.amigaforever.com/)<br>The one place where you can buy a legal copy of the Amiga Kickstart ROMs and Workbench disks. The Plus Edition now costs $39.95.
-- [Amiga Pointer Archive](https://heckmeck.de/amigastyle/amiga-pointer-archive/)<br>Collection of Amiga mouse pointers.
 - [Amiga programming examples](https://github.com/alpine9000/amiga_examples)<br>Some Amiga source code.
-- [amigafonts](https://github.com/rewtnull/amigafonts)<br>Amiga fonts ported for modern platforms, including Topaz.
 - [AmigaGuideJS](https://htmlpreview.github.io/?https://github.com/RobSmithDev/AmigaGuideJS/blob/main/index.html)<br>A JavaScript web-based AmigaGuide file viewer.
-- [AmiKit](https://www.amikit.amiga.sk/)<br>An AmigaOS install with over 400 pre-installed programs and games. Requires original Workbench disks sold separately.
 - [amitools](https://github.com/cnvogelg/amitools)<br>Various tools for using AmigaOS programs on other platforms.
-- [Dan Wood](https://www.youtube.com/@danwood_uk)<br>British YouTuber who covers Amiga and other retro machines.
 - [Exploring the Amiga](https://www.thedigitalcatonline.com/categories/amiga/)<br>A series of articles on the Amiga.
 - [Keymap Library](https://wiki.amigaos.net/wiki/Keymap_Library)<br>Amiga key scancodes.
 - [libretro-uae/amiga_rawkeys.c](https://github.com/libretro/libretro-uae/blob/master/sources/src/keymap/amiga_rawkeys.c)<br>A useful list of Amiga keyboard scancodes.
 - [mapamiga.txt](https://textfiles.meulie.net/programming/AMIGA/mapamiga.txt)<br>{% include hot.html %} Mapping the Amiga, a detailed reference guide to libraries and hardware.
 - [Redpill Amiga Game Creator](https://trackerhero.wixsite.com/redpill)<br>An Amiga game development tool.
+
+### Other
+
+- [Amiga Forever](https://www.amigaforever.com/)<br>The legal distribution of Amiga Kickstart ROMs and Workbench disks. The Plus Edition includes all AmigaOS versions, plus various games and support tools, and costs $39.95.
+- [Amiga Forever Essentials](https://play.google.com/store/apps/details?id=com.cloanto.amigaforever.essentials)<br>{% include hot.html %} Google Play Store link to purchase legal copies of the most common Amiga Kickstart ROMs for only $1.99. Sufficient for emulating games, but does not include the Workbench disks required by various pre-install kits (AmiKit, ClassicWB, etc).
+- [Amiga Pointer Archive](https://heckmeck.de/amigastyle/amiga-pointer-archive/)<br>Collection of Amiga mouse pointers.
+- [amigafonts](https://github.com/rewtnull/amigafonts)<br>Amiga fonts ported for modern platforms, including Topaz.
+- [AmiKit](https://www.amikit.amiga.sk/)<br>An AmigaOS install with over 400 pre-installed programs and games, geared at booting a PC or Raspberry Pi directly into a high-end emulated setup. A paid product, but the older version is available for free (sign-up required). Requires original Workbench disks sold separately.
+- [ClassicWB](https://classicwb.abime.net/)<br>Free pre-installed Amiga Workbench setups, with various configurations. Geared at real hardware or classic emulation. Requires original Workbench disks sold separately.
+- [Dan Wood](https://www.youtube.com/@danwood_uk)<br>British YouTuber who covers Amiga and other retro machines.
 - [Serious Amiga](https://www.youtube.com/playlist?list=PLfl5qkIeWkBkYcb6SyMkeGbOqIJFtEDmr)<br>YouTube playlist on using non-game software on the Amiga.
 
 ## Tabletop roleplaying games
@@ -211,6 +218,7 @@ Mostly _Dungeons &amp; Dragons_.
 - [DMDavid](https://dmdavid.com)<br>A good D&D blog.
 - [Grognardia](https://grognardia.blogspot.com/)<br>Oldschool D&D blog.
 - [Monsters and Manuals](https://monstersandmanuals.blogspot.com/)<br>
+- [Roleplaying Tips](https://www.roleplayingtips.com/blog/)<br>A long-running RPG newsletter with countless articles of advice, particularly for GMs.
 - [Sly Flourish](https://slyflourish.com/)<br>D&D blog.
 - [The Alexandrian](https://thealexandrian.net/)<br>Long-running D&D blog.
 
@@ -230,7 +238,7 @@ The original D&D campaign setting, and the official setting of D&D third edition
 - [Greyhawk_1600x1024.jph](https://web.archive.org/web/20151114194349/http://paizo.com/download/dungeon/desktops/Greyhawk_1600x1024.jpg)<br>Paizo's Flanaess map. (Archive)
 - [Ivid the Undying](https://www.acaeum.com/library/ividundying.pdf)<br>Unreleased _World of Greyhawk_ sourcebook, later made available in PDF form.
 - [Kingdom of Sunndi - General information](https://web.archive.org/web/20070220152432/http://www.sunndi.org:80/sunndi/index.html)<br>Living Greyhawk, Sunndi region information. (Archive)
-- [List of Living Greyhawk articles](/rpg/resources/wizards-3e-archive.html#living-greyhawk)<br>List of articles at the old Wizards of the Coast D&D 3e website. Of particular interest is the [Mysterious Places](/rpg/resources/wizards-3e-archive.html#mysterious-places)<br>series.
+- [List of Living Greyhawk articles](/rpg/wizards-3e-archive.html#living-greyhawk)<br>List of articles at the old Wizards of the Coast D&D 3e website. Of particular interest is the [Mysterious Places](/rpg/wizards-3e-archive.html#mysterious-places) series.
 - [Map of Greyhawk Flanaess](https://web.archive.org/web/20160421032353/http://www.highprogrammer.com/alan/gaming/dnd/greyhawk/map/supermapnew.html)<br> Hand-drawn Greyhawk map, probably circa 591 CY. (Archive)
 - [Paizo Greyhawk Flanaess map](https://paizo.com/download/dungeon/desktops/Greyhawk_1600x1024.jpg)<br>A map of Greyhawk originally published as a series of free posters with Dungeon magazine #118 to #121.
 - [Rick Millers Oerth v2](https://1.bp.blogspot.com/-0eT-GrAllAY/T5kE6VuikeI/AAAAAAAAAgs/QUBiFaRh8TU/s1600/Rick+Millers+Oerth+v2.jpg)<br>Full planet Oerth map.
@@ -285,6 +293,7 @@ The original D&D campaign setting, and the official setting of D&D third edition
 - [RPG Stack Exchange](https://rpg.stackexchange.com/)<br>Useful Q&A site.
 - [Ten Wings](https://web.archive.org/web/20180809112708/http://chimeramag.com/features/tenpoints.html)<br>Ten points of philosophy on game design. (Archive)
 - [The Big List of RPG Plots, by S. John Ross](https://web.archive.org/web/20170204020059/http://www222.pair.com/sjohn/blueroom/plots.htm)<br>{% include hot.html %} Roleplaying game adventure plots, and common twists. (Archive)
+- [The 5x5 Method Compendium](https://critical-hits.com/blog/2011/03/04/the-5x5-method-compendium/)<br>A collection of articles on the "5x5 Method" of RPG planning, originally devised for D&D 4e.
 - [The Same Page Tool](https://bankuei.wordpress.com/2010/03/27/the-same-page-tool/)<br>Suggestions to help gaming groups learn the unwritten assumptions of the game before play begins.
 
 ## Educational
