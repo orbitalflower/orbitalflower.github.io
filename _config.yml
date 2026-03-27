@@ -22,7 +22,6 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
       published: false
     values:
       sitemap: false
