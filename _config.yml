@@ -20,11 +20,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
-      published: false
-    values:
-      sitemap: false
 
 category_emoji:
   comp: "💻"
