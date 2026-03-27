@@ -1,6 +1,7 @@
 title: "orbitalflower"
 description: "orbitalflower"
 author: "orbitalflower"
+url: "https://orbitalflower.github.io"
 defaultlicense: "CC BY"
 #hitcounterid: "107279"
 
@@ -11,6 +12,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 defaults:
   -
@@ -18,6 +20,12 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      published: false
+    values:
+      sitemap: false
 
 category_emoji:
   comp: "💻"
