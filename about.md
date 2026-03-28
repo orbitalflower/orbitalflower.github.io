@@ -2,7 +2,7 @@
 title: "About this website"
 tags: about
 description: "A general about page."
-updated: 2026-02-28
+last_modified_at: 2026-02-28
 license: CC BY
 ---
 

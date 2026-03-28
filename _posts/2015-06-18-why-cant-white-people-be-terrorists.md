@@ -6,7 +6,7 @@ redirect_from:
 - 20150618-why-cant-white-people-be-terrorists.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 Current events: In the United States, mass murders by white people are rarely

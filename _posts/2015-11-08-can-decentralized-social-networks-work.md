@@ -6,7 +6,7 @@ redirect_from:
 - 20151108-can-decentralized-social-networks-work.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 > I'm in the superalpha of Google Minus, the social network for narcissists.

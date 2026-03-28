@@ -6,7 +6,7 @@ redirect_from:
 - 20150507-pros-and-cons-of-npwd.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 On Tuesday, Cryptocat creator Nadim Kobeissi released

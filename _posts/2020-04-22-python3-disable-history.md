@@ -5,7 +5,7 @@ tags: python privacy
 redirect_from:
 - /comp/python/python3-disable-history.html
 description: "How to disable the Python 3 interpreter logging to .python_history on Linux."
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 Since Python 2 was deprecated at the beginning of 2020, you may have noticed

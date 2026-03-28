@@ -4,7 +4,7 @@ category: rpg
 tags: resources hot
 redirect_from:
 - /rpg/resources/wizards-3e-archive.html
-updated: 2023-04-05
+last_modified_at: 2023-04-05
 description: "An index of content at Wizards of the Coast's official D&D website during the D&D 3rd edition era from 2000-2008."
 ---
 

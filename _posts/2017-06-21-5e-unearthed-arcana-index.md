@@ -4,7 +4,7 @@ category: rpg
 tags: resources hot
 redirect_from:
 - /rpg/resources/5e-unearthed-arcana-index.html
-updated: 2022-08-11
+last_modified_at: 2022-08-11
 description: "An updated index of game content from D&D 5th edition Unearthed Arcana articles."
 ---
 

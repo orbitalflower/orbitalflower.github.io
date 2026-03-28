@@ -6,7 +6,7 @@ redirect_from:
 - 20150607-dont-redirect-https-to-http.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 Some websites support HTTPS URLs, but then redirect to HTTP.

@@ -5,7 +5,7 @@ redirect_from:
 - /rpg/resources/links.html
 - /rpg/resources/index.html
 - /rpg/links.html
-updated: 2026-02-28
+last_modified_at: 2026-02-28
 description: "Links to other websites."
 license: CC BY
 ---

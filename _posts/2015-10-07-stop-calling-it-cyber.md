@@ -6,7 +6,7 @@ redirect_from:
 - 20151007-stop-calling-it-cyber.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 Stop using the word "cyber" to refer to anything to do with the Internet. It is

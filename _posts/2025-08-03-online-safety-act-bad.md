@@ -4,7 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
-updated: 2025-12-20
+last_modified_at: 2026-03-15
 ---
 
 In July 2025, the

@@ -6,7 +6,7 @@ redirect_from:
 - 20150117-whatever-happened-to-openid.html
 description: 
 license: CC BY
-updated: 2025-08-01
+last_modified_at: 2025-08-01
 ---
 
 Created in 2005, OpenID was hailed as the future of web login. Now,

@@ -5,7 +5,7 @@ tags: fun
 redirect_from:
 - /etc/fun/when-i-am-king.html
 - /misc/funny/when-i-am-king.html
-updated: 2020-05-13
+last_modified_at: 2020-05-13
 description: When I am ruler, the following changes will be made for the betterment of society.
 ---
 

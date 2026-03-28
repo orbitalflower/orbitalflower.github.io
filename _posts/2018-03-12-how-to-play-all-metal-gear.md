@@ -4,7 +4,7 @@ category: games
 tags: mgs
 redirect_from:
 - /games/mgs/how-to-play-all-metal-gear.html
-updated: 2026-02-27
+last_modified_at: 2026-02-27
 description: "Which platforms you need to play the entire Metal Gear series."
 ---
 

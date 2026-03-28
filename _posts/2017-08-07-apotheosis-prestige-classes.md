@@ -4,7 +4,7 @@ category: rpg
 tags: rules
 redirect_from:
 - /rpg/rules/apotheosis-prestige-classes.html
-updated: 2018-01-18
+last_modified_at: 2018-01-18
 description: A list of D&D 3.5 prestige classes that change your creature type. Sorted by type.
 ---
 

@@ -42,8 +42,8 @@ license: none
   {% assign past = now | minus: 2628000 %}
   {% if postdate > past %}
     <img src="{{ "img/new.gif" | absolute_url }}" alt="New!">
-  {% elsif post.updated %}
-    {% capture postdate %}{{ post.updated | date: '%s'}}{% endcapture %}
+  {% elsif post.last_modified_at %}
+    {% capture postdate %}{{ post.last_modified_at | date: '%s'}}{% endcapture %}
     {% assign postdate = postdate | plus: 0 %}
     {% if postdate > past %}
       <img src="{{ "img/updated.gif" | absolute_url }}" alt="Updated">
@@ -52,7 +52,7 @@ license: none
 
 </td>
   <td class="index-date">
-  {% if post.updated %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.updated | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}&ast;</time>
+  {% if post.last_modified_at %}<time title="Posted {{ post.date | date: "%A, %d %B %Y" }}. Updated {{ post.last_modified_at | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}&ast;</time>
   {% else %}<time title="Posted {{ post.date | date: "%A, %-d %B %Y" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
   {% endif %}
 </td>

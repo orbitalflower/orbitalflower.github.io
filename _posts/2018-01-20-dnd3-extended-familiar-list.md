@@ -4,7 +4,7 @@ category: rpg
 tags: rules
 redirect_from:
 - /rpg/rules/dnd3-extended-familiar-list.html
-updated: 2018-03-16
+last_modified_at: 2018-03-16
 description: "A list of creatures you can take as familiars in D&D 3.5. Official sources only."
 ---
 
