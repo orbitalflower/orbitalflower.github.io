@@ -4,7 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
-last_modified_at: 2026-03-15
+last_modified_at: 2026-05-11
 ---
 
 In July 2025, the
@@ -416,3 +416,14 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   [GitHub](https://github.com/upper-up/meta-lobbying-and-other-findings),
   [X](https://x.com/vxunderground/status/2032562782248349793),
   [X](https://x.com/Pirat_Nation/status/2032872323879973241).
+- 1 May 2026: A third of UK children have successfully
+  [bypassed age verification](https://www.the-independent.com/news/uk/home-news/children-bypassing-age-verification-social-media-b2968803.html)
+  by such means as drawing a moustache on their face. My prediction is that
+  photo verification is coming to an end, to be replaced with government digital
+  ID. The actual goal is to to make it easier to prosecute individuals for their
+  online activity.
+- 11 May 2026: Research is already underway on ways to use age verification and
+  content filtering as an
+  [attack vector](https://discuss.livingcartoon.org/d/158-kidding-attack-vector-age-verification)
+  to take down or disrupt legitimate sites and projects. We already see the DMCA
+  misused in a similar manner.

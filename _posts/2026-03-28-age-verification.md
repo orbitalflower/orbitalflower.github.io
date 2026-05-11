@@ -191,6 +191,7 @@ controls_.
 - [DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) - A list of which Linux distros do or do not intend to implement age verification.
 - [FAQs a million](https://www.cyberleagle.com/2025/09/faqs-million.html) - Cyberleagle
 - [How to Give the Government New Power to "Un-Person" Someone, In Three Easy Steps](https://www.aclu.org/news/privacy-technology/un-personing-with-digital-id) - ACLU
+- [Joint statement of security and privacy scientists and researchers on Age Assurage Executive Summary](https://csa-scientist-open-letter.org/ageverif-Feb2026)
 - [Six Questions to Ask Before Accepting a Surveillance Technology](https://www.aclu.org/news/privacy-technology/six-questions-to-ask-before-accepting-a-surveillance-technology) - ACLU
 - [Social media age verification laws by country](https://en.wikipedia.org/wiki/Social_media_age_verification_laws_by_country) - Wikipedia
 - [The EFF Nails It: What's Wrong with UK Digital ID](https://hackaday.com/2025/12/09/the-eff-nails-it-whats-wrong-with-uk-digital-id/) - Hack a Day

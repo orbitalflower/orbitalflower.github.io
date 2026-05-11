@@ -5,7 +5,7 @@ tags: python privacy
 redirect_from:
 - /comp/python/python3-disable-history.html
 description: "How to disable the Python 3 interpreter logging to .python_history on Linux."
-last_modified_at: 2025-08-01
+last_modified_at: 2026-05-11
 ---
 
 Since Python 2 was deprecated at the beginning of 2020, you may have noticed
@@ -18,7 +18,15 @@ The following method has been tested in Ubuntu and will prevent the `python3`
 interpreter from creating or updating the `.python_history` file, but you should
 retain the command history during a session as normal in Python 2.
 
-## Method
+## Update (2026)
+
+The solution previously described by this article no longer works correctly. The
+method which appears to work currently is to add this line to `.bashrc` or
+`.bash_aliases`:
+
+    export PYTHON_HISTORY=/dev/null
+
+## Original method
 
 ### Step 1: Enable .pythonrc
 
@@ -60,3 +68,11 @@ file exists. If it does not, you have been successful.
 
 With Python 3.13, it appears that this method no longer works. However,
 `chmod 000 .python_history` does appear to work now.
+
+## Update (2026)
+
+With Python 3.14, it appears that this method throws an error each line.
+However, the following line in `.bash_aliases` will prevent creation of a Python
+interpreter history file while retaining scrollback:
+
+    export PYTHON_HISTORY=/dev/null
