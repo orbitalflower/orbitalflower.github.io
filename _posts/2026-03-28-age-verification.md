@@ -185,13 +185,20 @@ controls_.
 
 ## Further reading
 
-- [Age verification isn't sage verification when it's inside operating systems](https://www.theregister.com/2026/03/16/opinon_column_age_verification/) - The Register
+- [Age verification for social media – the beginning of the end for a free internet?](https://www.mullvad.net/en/blog/2026/6/1/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet/) - Mullvad.
+  "In reality, age verification lays the foundation for a fully government
+   controlled internet."
 - [Age-Verification and the World Before Social Media](https://hackaday.com/2026/03/24/age-verification-and-the-world-before-social-media/) - Hack a Day
+- [Age verification isn't sage verification when it's inside operating systems](https://www.theregister.com/2026/03/16/opinon_column_age_verification/) - The Register
 - [California's Problematic attempt to add Age-Verification to Software](https://hackaday.com/2026/03/05/californias-problematic-attempt-to-add-age-verification-to-software/) - Hack a Day
 - [DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) - A list of which Linux distros do or do not intend to implement age verification.
 - [FAQs a million](https://www.cyberleagle.com/2025/09/faqs-million.html) - Cyberleagle
 - [How to Give the Government New Power to "Un-Person" Someone, In Three Easy Steps](https://www.aclu.org/news/privacy-technology/un-personing-with-digital-id) - ACLU
 - [Joint statement of security and privacy scientists and researchers on Age Assurage Executive Summary](https://csa-scientist-open-letter.org/ageverif-Feb2026)
+- [Online age checks create a pointless privacy risk](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html) - TechXplore.
+  A major age-verification service leaks private data to third parties; 40% of
+  US citizens now live in states covered by age verification laws; Balkanization
+  of the web imminent.
 - [Six Questions to Ask Before Accepting a Surveillance Technology](https://www.aclu.org/news/privacy-technology/six-questions-to-ask-before-accepting-a-surveillance-technology) - ACLU
 - [Social media age verification laws by country](https://en.wikipedia.org/wiki/Social_media_age_verification_laws_by_country) - Wikipedia
 - [The EFF Nails It: What's Wrong with UK Digital ID](https://hackaday.com/2025/12/09/the-eff-nails-it-whats-wrong-with-uk-digital-id/) - Hack a Day
