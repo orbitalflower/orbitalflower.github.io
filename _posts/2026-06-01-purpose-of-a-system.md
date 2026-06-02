@@ -137,8 +137,11 @@ Even so, all three major ID methods are readily tricked.
    character, and borrowing an older friend.
 2. Fake IDs are readily accessible to teenagers, who already use it to buy
    alcohol and tobacco.
-3. Credit cards can be borrowed under fake pretexts, or borrowed from an older
-   friend.
+3. Credit cards can be borrowed, sometimes under fake pretexts, perhaps from an
+   older friend or relative. This issue came up
+   [in July 2010](https://games.slashdot.org/story/10/07/06/1823202/blizzard-to-require-real-first-and-last-names-for-official-forums),
+   when Blizzard started requiring real names and it was noted how many _World
+   of Warcraft_ players used their mother's credit card.
 
 In all cases, account sharing is trivial and socially accepted as a concept.
 Identity verification to validate an _account_, rather than an _individual_, is
