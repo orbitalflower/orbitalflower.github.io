@@ -4,7 +4,7 @@ category: opinion
 tags: privacy censorship
 description: "back on my censorship rant again"
 license: CC BY
-last_modified_at: 
+last_modified_at: 2026-06-11
 ---
 
 There's a [hit tweet](https://x.com/primawesome/status/1178671690261286918) that
@@ -175,6 +175,47 @@ thirty-odd years of freedom, which will strike us all regardless of political
 alignment.
 
 Happy Pride month, everybody.
+
+## Addendum
+
+A preview of the effect of age verification on content is the YouTube age
+restriction system. Since age restriction requires login, view count on
+age-restricted content plummets. Thumbnails are blurred, warnings dissuade the
+user as a subtle obstacle, the algorithm no longer promotes the video, and ad
+revenue drops.
+
+This was discussed in 2022 with videos like
+[Youtube's Age Restriction Nightmare explained](https://www.youtube.com/watch?v=EhMePmh5_NY)
+and 
+[YouTube's Age restriction is Broken](https://www.youtube.com/watch?v=qs_7crdHpbo).
+
+AI detection often causts false positives, and political rivals may make false
+reports. Review requires human moderators, but this is often done inaccurately
+or by AI, and may have long-term damage to view count and engagement. Even this
+level of human moderators and AI is out of the reach of smaller sites.
+
+On other sites, there are stories of companies linking posts on X or Instagram,
+ignorant of the fact that nobody can see this unless they're logged in. This
+gives advantage to established large companies.
+
+In other words, even before ID verification, forcing a login is harmful to
+discoverability on content, providing a chilling effect, and discouraging sites
+from allowing such content.
+
+OFCOM is levying enormous fines against websites which aren't compliant with
+their guidelines, even sites which aren't in the UK, and have no legal duty to
+follow UK law. Naturally they won't pay, providing pretext to block these sites.
+A similar pretext may be provided to block most VPN companies. Tor will become
+more popular, and it remains to be seen if that too will be blocked.
+
+The next step is to outlaw operating systems without parental controls, and to
+lock them so nobody but the OS vendor can disable this. Apple has already done
+this without being forced to. People without government ID or credit card are
+locked out of their device features, which certainly violates several ECHR
+rights (i.e. the right to privacy, right to freedom of expression, right to
+freedom of association, right to peaceful enjoyment of property, and right to
+freedom from discrimination.) If this affects you, i.e. you have standing to
+challenge it in the European Court of Human Rights, I encourage you to do so.
 
 ## Further reading
 

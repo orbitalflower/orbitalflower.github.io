@@ -4,7 +4,7 @@ category: opinion
 tags: privacy
 description: "An article on why the UK's Online Safety Act 2023 is a bad law and unfit for purpose."
 license: CC BY
-last_modified_at: 2026-05-11
+last_modified_at: 2026-06-16
 ---
 
 In July 2025, the
@@ -427,3 +427,36 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   [attack vector](https://discuss.livingcartoon.org/d/158-kidding-attack-vector-age-verification)
   to take down or disrupt legitimate sites and projects. We already see the DMCA
   misused in a similar manner.
+- 2 June 2026: The Foundation for Information Policy Research warns that age
+  verification will 
+  [increase risk of harm](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
+  to children, rather than decrease it.
+- 8 June 2026: [UK government announces plans](https://www.gov.uk/government/news/new-plans-to-stop-children-taking-sharing-or-viewing-nude-images)
+  to make on-device nudity-defection technology mandatory on all new and
+  existing devices and operating systems, which will prevent either taking a new
+  photo or viewing any adult content, unless the user undergoes identity
+  verification. Signal releases [a statement](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) (PDF),
+  warning "...its scope will be defined by the whims and proscriptions of the
+  government to detect nudity today and political speech tomorrow. We know from
+  history that once in place, there will be an inevitable authoritarian
+  expansion of the kind of content and people these technologies will be
+  expected to surveil. We also know such tools will be leveraged to
+  automatically report people to government authorities."
+  Reclaim the Net
+  [warns](https://reclaimthenet.org/uk-wants-message-scanning-on-phones)
+  "You cannot block every naked picture someone might stumble across without
+  inspecting every picture, every message, every video call, every streamed
+  film, on every device, all the time."
+- 14 June 2026: In [further bullshit](https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132),
+  the UK wants to ban under-16s from most major platforms, including YouTube, 
+  Prime Minister Keir Starmer is marketing this as 
+  [giving children their childhood back](https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back),
+  and additionally will set curfews and usage limits. Of course, these
+  restrictions will also be applied to anyone who hasn't undergone age
+  verification; as privacy advocates predicted, it has quickly gone from "you
+  must verify to watch adult content" to "you must verify to watch _YouTube_".
+  Even if you verify, YouTube and every major online service is about to become
+  login-only, breaking e.g. the YouTube app on smart TVs.
+  (Long-term prediction: Signal leaves UK on principle, government-issued
+  digital ID becomes mandatory, UK blocks numerous otherwise legal sites and VPN
+  services, Tor becomes popular in the UK.)
