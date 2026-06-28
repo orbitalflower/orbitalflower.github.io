@@ -460,3 +460,10 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   (Long-term prediction: Signal leaves UK on principle, government-issued
   digital ID becomes mandatory, UK blocks numerous otherwise legal sites and VPN
   services, Tor becomes popular in the UK.)
+- 24 June 2026: Texas SB 2420, the App Store Accountability Act,
+  [proposes](https://x.com/pat_hedger/status/2069449942775562392)
+  requiring digital ID to access any app on any app store. Note the similarities
+  between this and the concurrent UK proposal. Using child safety as an excuse,
+  nobody will be able to download or use any software without presenting
+  government ID, and nobody can supply it without linking in to the ID network.
+  [The purpose of a system is what it does](../opinion/purpose-of-a-system.html)
