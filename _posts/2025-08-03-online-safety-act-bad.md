@@ -467,3 +467,30 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   nobody will be able to download or use any software without presenting
   government ID, and nobody can supply it without linking in to the ID network.
   [The purpose of a system is what it does](../opinion/purpose-of-a-system.html)
+- 27 June 2026: Google ReCaptcha to [require your camera](https://reclaimthenet.org/googles-new-recaptcha-wants-your-camera-access-and-21-points-of-your-hand).
+- 29 June 2026: The Democrats announce
+  [Project 2029](https://www.yahoo.com/news/politics/articles/democrats-project-2029-goes-tech-091120913.html),
+  which includes the same age-verification junk that already
+  [failed in Australia](https://reclaimthenet.org/australias-teen-social-media-ban-failed-the-governments-fix-is-to-double-the-fines).
+  It's marketed as giving children back their childhood, the same pitch the UK
+  tried, but polls suggest teenagers are mostly against it.
+- 1 July 2026: Bluesky has 
+  [enabled ID checks](https://gist.github.com/mary-ext/6e27b24a83838202908808ad528b3318)
+  for US users. ID systems have now been implemented in at least 7 states:
+  Mississippi, Ohio, South Dakota, Tennessee, Texas, Virginia, and Wyoming, as
+  well as Australia, the United Kingdom, and Brazil.
+- 6 July 2026: Discord's automated AI-based CSAM detection (the same sort being
+  floated as mandatory as part of Chat Control et al) bans 8,400 accounts under
+  [false positives](https://x.com/discord_support/status/2074282860123767135).
+- 9 July 2026: [Chat Control 1.0 passes](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/).
+  The linked article explains the issues with this ruling and the upcoming much
+  more concerning Chat Control 2.0.
+- 13 July 2026: EU Commission panel recommends
+  [mandatory ID checks](https://eupolicy.social/@edri/116911999341747171)
+  on all online accounts.
+  The EFF [discussed this before](https://www.eff.org/deeplinks/2025/04/age-verification-european-union-mini-id-wallet).
+  Most EU states require parental consent to apply for an ID, so this would
+  curtail young people's independence. Certainly many teenagers lack ID, as do
+  many refugees, the poor, and the unhoused. Photo age estimation algorithms
+  also fail more often for disabled, transgender, and minority groups, making it
+  an equality issue.

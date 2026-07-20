@@ -1295,6 +1295,10 @@ outside of the scope of this article.
   have an older version for free.
 - As of May 2025, a new special edition of Worms TDC is being worked on.
 
+## See also
+
+- [Amiga Freeware Archive](https://amigafreeware.downer.tech/)
+
 [Dream17 ADFs]: https://dream17.abime.net/downloads.php?cat=1
 [Dream17 ISOs]: https://dream17.abime.net/downloads.php?cat=2
 [Borrowed-Time]: https://www.exotica.org.uk/mirrors/borrowedtime/games/index.html
