@@ -274,6 +274,10 @@ td.index-cat {
   text-align: right;
 }
 
+table.index time[title*="Updated"]:after {
+  content: "&ast;"
+}
+
 td.index-cat a {
   color: lightsteelblue;
 }

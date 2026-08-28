@@ -4,8 +4,8 @@
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "style.css" | absolute_url }}">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    {% feed_meta %}
+    <meta name="viewport" content="width=device-width">
+    <link type="application/atom+xml" rel="alternate" href="https://orbitalflower.github.io/feed.xml" title="orbitalflower">
     {% if page.description %}<meta name="description" content="{{ page.description }}"> {% endif %}
   </head>
   <body>
