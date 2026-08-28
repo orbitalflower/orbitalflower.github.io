@@ -276,3 +276,4 @@ web"&mdash;takes its place.<!--It's not AI. I just like using em-dashes.-->
 - [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
 - [Proposed reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://protectnotsurveil.eu/resources/press-release-europol-mandate-overhault-2026/)
 - [Online Age Verification Law Could Kill Whistleblowing](https://theintercept.com/2026/06/28/age-verification-privacy-surveillance-journalists-whistleblowers/)
+- [The UK’s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
