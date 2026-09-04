@@ -494,3 +494,7 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   many refugees, the poor, and the unhoused. Photo age estimation algorithms
   also fail more often for disabled, transgender, and minority groups, making it
   an equality issue.
+- 1 September 2026: Photo ID for 153 million users in US and Canada
+  [leaked on the dark web](https://x.com/vxunderground/status/2094961551807545493)
+  after an
+  [ID verification company is hacked](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/).
