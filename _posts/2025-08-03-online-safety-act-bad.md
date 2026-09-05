@@ -494,6 +494,14 @@ following another proposal to [ban under-18s from VPNs](https://decoded.legal/bl
   many refugees, the poor, and the unhoused. Photo age estimation algorithms
   also fail more often for disabled, transgender, and minority groups, making it
   an equality issue.
+- 25 August 2026: An EU Citizens' Initiative petition is circulating titled
+  [Stop Killing The Internet: No Digital ID & No Age Verification](https://eci.ec.europa.eu/066/public/#/screen/home), aiming to reach 1 million signatures by August 2027.
+  It demands that proof-of-age control systems be anonymous and open source,
+  which has very "hire more women prison guards" energy.
+  IMHO this is not enough; the internet has always been fully free and open by
+  default, without any age verification, and retain the decades-long status quo
+  that on-device parental controls are controlled by parents. Any
+  technology-based mandate like this is a regime of censorship and control.
 - 1 September 2026: Photo ID for 153 million users in US and Canada
   [leaked on the dark web](https://x.com/vxunderground/status/2094961551807545493)
   after an
